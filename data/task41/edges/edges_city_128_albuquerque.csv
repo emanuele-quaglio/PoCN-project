@@ -1,0 +1,9 @@
+"nodeID_from","nodeID_to","mode","line","year"
+4,5,"commuter_rail","4731-rail-runner-express",2007
+1,4,"commuter_rail","4731-rail-runner-express",2006
+1,7,"commuter_rail","4731-rail-runner-express",2006
+7,8,"commuter_rail","4731-rail-runner-express",2006
+8,10,"commuter_rail","4731-rail-runner-express",2006
+10,11,"commuter_rail","4731-rail-runner-express",2008
+12,15,"commuter_rail","4731-rail-runner-express",2008
+11,12,"commuter_rail","4731-rail-runner-express",2008

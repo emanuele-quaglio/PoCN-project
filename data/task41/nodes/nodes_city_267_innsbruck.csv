@@ -1,0 +1,108 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Bundesbahndirektion",47.272785,11.404978,"default",0
+2,"Mühlauer Brücke",47.2782604,11.4039183,"default",0
+3,"Claudiastraße",47.2759584,11.4059325,"default",0
+4,"Haydnplatz",47.2772659,11.406989,"default",0
+5,"Ing.-Etzel-Straße",47.2687586,11.402432,"default",0
+6,"Messe/Zeughaus",47.2713475,11.4047239,"default",0
+7,"Brunecker Straße",47.2666313,11.4017883,"default",0
+8,"Ing.-Etzel-Straße",47.2687649,11.4023796,"default",0
+9,"Messe/Zeughaus",47.2712929,11.4046074,"default",0
+10,"Claudiastraße",47.2760592,11.404995,"default",0
+11,"Bundesbahndirektion",47.273118,11.4050574,"default",0
+12,"Landesmuseum",47.2668887,11.3983805,"default",0
+13,"Maria-Theresien-Straße",47.2669044,11.3927379,"default",0
+14,"Museumstraße",47.2673503,11.3950184,"default",0
+15,"Terminal Marktplatz",47.266265,11.3897009,"default",0
+16,"Amras",47.2587106,11.4259894,"default",0
+17,"Amras",47.2586857,11.4260032,"default",0
+18,"Philippine-Welser-Straße",47.2579398,11.4228725,"default",0
+19,"Philippine-Welser-Straße",47.2578818,11.4228995,"default",0
+20,"Pradler Friedhof",47.2588973,11.421378,"default",0
+21,"Pradler Friedhof",47.2594672,11.4209391,"default",0
+22,"Rudolf-Greinz-Straße",47.2617529,11.4164513,"default",0
+23,"Rudolf-Greinz-Straße",47.2618595,11.4161533,"default",0
+24,"Südring",47.2607734,11.419489,"default",0
+25,"Südring",47.2609094,11.4192115,"default",0
+26,"Roseggerstraße",47.2631169,11.4109339,"default",0
+27,"Defreggerstraße",47.2645535,11.4099798,"default",0
+28,"Defreggerstraße",47.2648499,11.4098439,"default",0
+29,"Roseggerstraße",47.2629435,11.4110152,"default",0
+30,"Dr.-Glatz-Straße",47.2624452,11.4133694,"default",0
+31,"Dr.-Glatz-Straße",47.2625316,11.4129976,"default",0
+32,"Leipziger Platz",47.2644763,11.4061379,"default",0
+33,"Leipziger Platz",47.2645589,11.4055541,"default",0
+34,"Sillpark",47.2655145,11.4030383,"default",0
+35,"Landesmuseum",47.2667822,11.3989655,"default",0
+36,"Brunecker Straße",47.2668314,11.401886,"default",0
+37,"Maria-Theresien-Straße",47.2669563,11.3933268,"default",0
+38,"Museumstraße",47.2671854,11.3959991,"default",0
+39,"Sillpark",47.2660138,11.4025939,"default",0
+40,"Terminal Marktplatz",47.2666798,11.3902902,"default",0
+41,"Innsbruck Hauptbahnhof",47.2637199,11.4001051,"default",0
+42,"Innsbruck Hauptbahnhof",47.2637003,11.4002467,"default",0
+43,"Innsbruck Hauptbahnhof",47.2637152,11.4001445,"default",0
+44,"Triumphpforte",47.2627779,11.3951753,"default",0
+45,"Triumphpforte",47.2627002,11.3958276,"default",0
+46,"Anichstraße/Rathausgalerien",47.2649975,11.3930298,"default",0
+47,"Anichstraße/Rathausgalerien",47.2652079,11.394088,"default",0
+48,"Bürgerstraße",47.2645605,11.3904961,"default",0
+49,"Bürgerstraße",47.2648283,11.3903378,"default",0
+50,"Maximilianstraße",47.2620629,11.3913109,"default",0
+51,"Franz-Fischer-Straße",47.2594522,11.3918478,"default",0
+52,"Fritz-Konzert-Straße",47.2562763,11.3951168,"default",0
+53,"Klinik/Universität",47.2636104,11.3873908,"default",0
+54,"Maximilianstraße",47.2627304,11.3910747,"default",0
+55,"Westbahnhof",47.2565823,11.3918656,"default",0
+56,"Klinik/Universität",47.2641853,11.3860903,"default",0
+57,"Fürstenweg",47.2658719,11.383748,"default",0
+58,"Fürstenweg",47.2659809,11.3825713,"default",0
+59,"Höttinger Au/West",47.2648747,11.3727487,"default",0
+60,"Höttinger Auffahrt",47.2650532,11.3777439,"default",0
+61,"Höttinger Au/West",47.2649097,11.3727471,"default",0
+62,"Höttinger Auffahrt",47.2650175,11.3777578,"default",0
+63,"Aldrans",47.2478104,11.4350345,"default",0
+64,"Lans-Sistrans",47.2410898,11.4238513,"default",0
+65,"Bahnhof Igls",47.2338514,11.4126516,"default",0
+66,"Lanser See",47.2385481,11.4191425,"default",0
+67,"Tantegert",47.2509249,11.4228602,"default",0
+68,"Schönruh",47.254076,11.4306925,"default",0
+69,"Tantegert",47.2509986,11.4231568,"default",0
+70,"Tummelplatz",47.2550437,11.4278723,"default",0
+71,"Bergisel",47.2531009,11.3997227,"default",0
+72,"Bretterkeller",47.2528157,11.404479,"default",0
+73,"Westbahnhof",47.2565632,11.391825,"default",0
+74,"Franz-Fischer-Straße",47.2592165,11.3918053,"default",0
+75,"Fritz-Konzert-Straße",47.2562792,11.3956646,"default",0
+76,"Bergisel",47.2529577,11.3996152,"default",0
+77,"Stubaitalbahnhof",47.2537463,11.3969623,"default",0
+78,"Innsbruck Stubaitalbf",47.253465,11.3976666,"default",0
+79,"Innsbruck Stubaitalbf",47.2534647,11.3977442,"default",0
+80,"Stubaitalbahnhof",47.253719,11.398172,"default",0
+81,"Innsbruck Sonnenburgerhof/Tirol Panorama",47.2463797,11.3935913,"default",0
+82,"Innsbruck Sonnenburgerhof/Tirol Panorama",47.2464939,11.3935738,"default",0
+83,"Gärberbach",47.2423065,11.3898147,"default",0
+84,"Natters Hölltal",47.2385678,11.384566,"default",0
+85,"Natters Hölltal",47.2385511,11.3848249,"default",0
+86,"Mutters Burgstall",47.2302948,11.3820981,"default",0
+87,"Natters",47.2329276,11.3785279,"default",0
+88,"Mutters",47.2287275,11.3785322,"default",0
+89,"Mutters",47.2287346,11.3783036,"default",0
+90,"Mutters Birchfeld",47.2284984,11.3677564,"default",0
+91,"Mutters Raitis",47.2183507,11.374803,"default",0
+92,"Mutters Nockhofweg Almbahn",47.2242923,11.3717243,"default",0
+93,"Mutters Nockhofweg Almbahn",47.2242664,11.3716958,"default",0
+94,"Mutters Außerkreith",47.2094092,11.3781713,"default",0
+95,"Mutters Feldeler",47.2149244,11.3754659,"default",0
+96,"Mutters Feldeler",47.2150057,11.3752432,"default",0
+97,"Mutters Kreith",47.2025636,11.3808913,"default",0
+98,"Mutters Brandeck",47.1968695,11.3827443,"default",0
+99,"Mutters Kreith",47.2026946,11.3807371,"default",0
+100,"Telfes Telfer Wiesen",47.1891948,11.3859781,"default",0
+101,"Telfes Telfer Wiesen",47.1893058,11.3859725,"default",0
+102,"Telfes Luimes",47.1729532,11.3673595,"default",0
+103,"Telfes i. St. Ort",47.1652092,11.359916,"default",0
+104,"Telfes i. St. Ort",47.1650664,11.3598149,"default",0
+105,"Telfes Luimes",47.1727997,11.3672702,"default",0
+106,"Telfes StuBay",47.1594359,11.35295,"default",0
+107,"Fulpmes",47.155621,11.3524143,"default",0

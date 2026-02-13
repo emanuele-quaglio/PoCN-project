@@ -1,0 +1,60 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Hervantajärvi A",61.4382811,23.8694368,,
+2,"Hervantajärvi",61.4383409,23.8703809,"light_rail",2021
+3,"Etelä-Hervanta B",61.4425726,23.8585373,,
+4,"Etelä-Hervanta",61.4429399470221,23.858139544244,"light_rail",2021
+5,"Hervannan kampus",61.4470545404909,23.8532110675619,"light_rail",2021
+6,"Hervantakeskus A",61.4504758,23.8497318,,
+7,"Hervantakeskus",61.4501597,23.8498402,"light_rail",2021
+8,"Opiskelija",61.4539977,23.8467883,"light_rail",2021
+9,"Opiskelija A",61.4544469,23.8468858,,
+10,"Pohjois-Hervanta",61.4570807,23.8454797,"light_rail",2021
+11,"Pohjois-Hervanta A",61.4574989,23.8453474,,
+12,"Hallila",61.4668775,23.8399109,"light_rail",2021
+13,"Hallila A",61.4671651,23.8393232,,
+14,"Turtola",61.4776058,23.8326372,"light_rail",2021
+15,"Turtola A",61.4779648,23.8322622,,
+16,"Hakametsä A",61.4930142,23.8179819,,
+17,"Kalevanrinne A",61.4946588,23.8117874,,
+18,"Kaleva A",61.4976655,23.7955906,,
+19,"Hakametsä",61.4926059,23.8175279,"light_rail",2021
+20,"Kalevanrinne",61.494463,23.8125561,"light_rail",2021
+21,"Uintikeskus A",61.4962906,23.8039997,,
+22,"Uintikeskus",61.4960594,23.8049515,"light_rail",2021
+23,"Kaleva",61.4975053,23.7963972,"light_rail",2021
+24,"Sammonaukio",61.4989872,23.7864646,"light_rail",2021
+25,"Hippos",61.50171,23.8010403,"light_rail",2021
+26,"Kalevan kirkko A",61.5000736,23.7923233,,
+27,"Kalevan kirkko",61.5001989,23.7931477,"light_rail",2021
+28,"Sammonaukio A",61.4990454,23.7857169,,
+29,"Tulli A",61.4988991,23.7783489,,
+30,"Tulli",61.498879,23.7792501,"light_rail",2021
+31,"Hippos A",61.5015873,23.800249,,
+32,"Kaupin kampus",61.5048152,23.8213487,"light_rail",2021
+33,"Kaupin kampus A",61.5045791,23.820792,,
+34,"TAYS A",61.5040907,23.8118025,,
+35,"TAYS",61.5037739,23.812418,"light_rail",2021
+36,"Rautatieasema A",61.4984409,23.7703385,,
+37,"Rautatieasema",61.4984684,23.7712168,"light_rail",2021
+38,"Koskipuisto A",61.4981336,23.7660792,,
+39,"Koskipuisto",61.4981515,23.766826,"light_rail",2021
+40,"Keskustori B",61.497603,23.758781,,
+41,"Keskustori",61.4976322,23.7596852,"light_rail",2021
+42,"Sorin aukio B",61.4946596,23.7697473,,
+43,"Sorin aukio",61.4951437,23.7694633,"light_rail",2021
+44,"Tuulensuu",61.497257,23.7545281,"light_rail",2021
+45,"Tuulensuu A",61.4972337,23.7537034,,
+46,"Pyynikintori",61.4978665,23.7423906,"light_rail",2021
+47,"Pyynikintori A",61.4979542,23.7415929,,
+48,"Särkänniemi A",61.5009515,23.7372319,,
+49,"Särkänniemi",61.5004587,23.7373252,"light_rail",2023
+50,"Tikkutehdas",61.5037108,23.7221861,"light_rail",2023
+51,"Santalahti",61.5056653,23.7154569,"light_rail",2023
+52,"Santalahti A",61.5056894,23.7154914,,
+53,"Tikkutehdas A",61.503736,23.7222155,,
+54,"Hiedanranta",61.5119427924494,23.6863843626891,"light_rail",2025
+55,"Tehdas",61.5172097433417,23.6819452791376,"light_rail",2025
+56,"Niemen kartano",61.5207666284439,23.6841665737328,"light_rail",2025
+57,"Niemenranta",61.5225666613447,23.6954457206337,"light_rail",2025
+58,"Lentävänniemi",61.5267584918629,23.7019891520674,"light_rail",2025
+59,"Pyhällönpuisto",61.5291421039732,23.7042521682988,"light_rail",2025

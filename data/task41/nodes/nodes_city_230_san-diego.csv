@@ -1,0 +1,89 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Beyer Boulevard",32.5573209,-117.0465391,"light_rail",1981
+2,"Iris Avenue",32.5693588,-117.0666863,"light_rail",1981
+3,"Palm Avenue",32.5841617,-117.083836,"light_rail",1981
+4,"San Ysidro",32.5441079,-117.0293042,"light_rail",1981
+5,"Palomar Street",32.6026186,-117.0848985,"light_rail",1981
+6,"Bayfront/E Street",32.6385415,-117.098926,"light_rail",1986
+7,"H Street",32.6295826,-117.0954235,"light_rail",1981
+8,"8th Street",32.6744694,-117.1129525,"light_rail",1981
+9,"24th Street",32.661389,-117.1078596,"light_rail",1981
+10,"Pacific Fleet",32.6856888,-117.1243211,"light_rail",1981
+11,"Barrio Logan",32.6976871,-117.1461388,"light_rail",1981
+12,"Harborside",32.6909956,-117.1322455,"light_rail",1981
+13,"Park & Market",32.7105267,-117.1537776,"light_rail",1981
+14,"12th & Imperial Transit Center",32.7057188,-117.1532671,"light_rail",1981
+15,"City College",32.7159735,-117.154021,"light_rail",1981
+16,"Civic Center",32.7167201,-117.1620559,"light_rail",1981
+17,"5th Avenue",32.7167382,-117.1593504,"light_rail",1981
+18,"America Plaza",32.7165622,-117.1687515,"light_rail",1991
+19,"Santa Fe Depot",32.7172458,-117.169838,"light_rail",1981
+20,"Courthouse",32.7167069159695,-117.1660166,"light_rail",2018
+21,"County Center/Little Italy",32.721062,-117.169965,"light_rail",1992
+22,"Middletown",32.7332483,-117.1745383,"light_rail",1996
+23,"Washington Street",32.7413757,-117.1839412,"light_rail",1996
+24,"Old Town",32.7544455,-117.1994209,"light_rail",1996
+25,"Morena/Linda Vista",32.7635557,-117.1972165,"light_rail",1997
+26,"Clairemont Drive",32.7897132,-117.206188,"light_rail",2021
+27,"Tecolote Road",32.7694715,-117.205003,"light_rail",2021
+28,"Balboa Avenue",32.8054703,-117.213922,"light_rail",2021
+29,"Nobel Drive",32.8664817,-117.2304057,"light_rail",2021
+30,"UC San Diego Central Campus",32.8779241,-117.231661,"light_rail",2021
+31,"VA Medical Center",32.8738924,-117.2300462,"light_rail",2021
+32,"UC San Diego Health La Jolla",32.882037,-117.2239,"light_rail",2021
+33,"UTC",32.8696608,-117.214024,"light_rail",2021
+34,"Executive Drive",32.8745103,-117.214025,"light_rail",2021
+35,"Fashion Valley",32.7653618,-117.1695392,"light_rail",1997
+36,"Hazard Center",32.7700272,-117.1587705,"light_rail",1997
+37,"Mission Valley Center",32.770973,-117.1504913,"light_rail",1997
+38,"Rio Vista",32.7735307,-117.1423634,"light_rail",1997
+39,"Fenton Parkway",32.7779356,-117.1275431,"light_rail",2000
+40,"Stadium",32.7809702,-117.1201587,"light_rail",1997
+41,"Grantville",32.780642,-117.0979378,"light_rail",2005
+42,"Mission San Diego",32.781197,-117.1114875,"light_rail",1997
+43,"SDSU",32.7728005,-117.0713506,"light_rail",2005
+44,"Alvarado Medical Center",32.7774816,-117.0573182,"light_rail",2005
+45,"70th Street",32.7723937,-117.0428859,"light_rail",2005
+46,"Grossmont",32.7813689,-117.0117664,"light_rail",1989
+47,"Amaya Drive",32.7852578,-117.0022277,"light_rail",1989
+48,"La Mesa Boulevard",32.7646049,-117.0203292,"light_rail",1989
+49,"Spring Street",32.7564279,-117.0175594,"light_rail",1989
+50,"Lemon Grove Depot",32.7429984,-117.0308004,"light_rail",1989
+51,"Massachusetts Avenue",32.7231797,-117.0398927,"light_rail",1989
+52,"Encanto/62nd Street",32.7100631,-117.0637273,"light_rail",1989
+53,"El Cajon",32.7915383,-116.9761882,"light_rail",1989
+54,"Arnele Avenue",32.8041168,-116.9757444,"light_rail",1995
+55,"47th Street",32.7083074,-117.095426,"light_rail",1986
+56,"Euclid Avenue",32.7095802,-117.0865344,"light_rail",1986
+57,"Gillespie Field Station",32.8264753,-116.981798,"light_rail",1995
+58,"Santee Town Center",32.8419404,-116.9807682,"light_rail",1995
+59,"32nd/Commercial",32.7055414,-117.1250825,"light_rail",1986
+60,"25th/Commercial",32.7052679,-117.1415704,"light_rail",1986
+61,"Gaslamp Quarter",32.7065774,-117.1592253,"light_rail",1990
+62,"Convention Center",32.708644,-117.1629682,"light_rail",1990
+63,"12th & Imperial Transit Center (Bayside Terminal)",32.7052236,-117.1535246,"light_rail",1990
+64,"Seaport Village",32.7115099,-117.1681501,"light_rail",1990
+65,"Oceanside",33.1932686,-117.3805641,"commuter_rail",1995
+66,"Carlsbad Village",33.1606076,-117.3507193,"commuter_rail",1995
+67,"Carlsbad Poinsettia",33.1083869,-117.3190108,"commuter_rail",1995
+68,"Encinitas",33.0478019,-117.2932864,"commuter_rail",1995
+69,"Solana Beach",32.9948653,-117.2720592,,
+70,"Solana Beach",32.9922529,-117.2714353,"commuter_rail",1995
+71,"Sorrento Valley",32.9032437,-117.2255797,"commuter_rail",1995
+72,"Old Town",32.7537483,-117.1993279,"commuter_rail",1995
+73,"San Diego",32.7172538,-117.1701698,"commuter_rail",1995
+74,"Oceanside",33.1915302,-117.3789374,"commuter_rail",2008
+75,"Coast Highway",33.1818846,-117.3684906,"commuter_rail",2008
+76,"El Camino Real",33.1997309,-117.3328242,"commuter_rail",2008
+77,"Crouch Street",33.1947528,-117.3532491,"commuter_rail",2008
+78,"Rancho Del Oro",33.2014251,-117.3120332,,
+79,"College Boulevard",33.2044048,-117.2886379,"commuter_rail",2008
+80,"Melrose Drive",33.2195284,-117.2592415,"commuter_rail",2008
+81,"Vista Transit Center",33.2035054,-117.2452052,"commuter_rail",2008
+82,"Civic Center–Vista",33.1904496,-117.2373123,"commuter_rail",2008
+83,"Buena Creek Road",33.1735145,-117.2075368,"commuter_rail",2008
+84,"San Marcos Civic Center",33.1422655,-117.1619983,,
+85,"Palomar College",33.147036,-117.1855096,"commuter_rail",2008
+86,"Cal State San Marcos",33.1347184,-117.1540191,"commuter_rail",2008
+87,"Nordahl",33.1308675,-117.1237278,"commuter_rail",2008
+88,"Escondido Transit Center",33.1181934,-117.0919115,"commuter_rail",2008

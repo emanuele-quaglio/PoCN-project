@@ -1,0 +1,12 @@
+"nodeID_from","nodeID_to","mode","line","year"
+6,11,"heavy_rail","3748-line-1",2016
+11,20,"heavy_rail","3748-line-1",2016
+24,37,"heavy_rail","3749-line-2",2014
+24,41,"heavy_rail","3749-line-2",2015
+38,71,"heavy_rail","3751-line-4",2019
+71,90,"heavy_rail","3751-line-4",2019
+38,92,"heavy_rail","3751-line-4",2019
+91,92,"heavy_rail","3751-line-4",2019
+95,111,"heavy_rail","3752-line-5",2020
+112,114,"heavy_rail","3753-changsha-maglev-express",2016
+116,149,"heavy_rail","4131-line-6",2022

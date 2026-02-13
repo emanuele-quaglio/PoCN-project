@@ -1,0 +1,182 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Govan",55.8622372056247,-4.31060068900416,"light_rail",1896
+2,"Ibrox",55.8547395986134,-4.30490580505983,"light_rail",1896
+3,"Cessnock",55.8520823634404,-4.29402635865833,"light_rail",1896
+4,"Kinning Park",55.8504462899079,-4.28783333940814,"light_rail",1896
+5,"Shields Road",55.8499040639087,-4.2753341889088,"light_rail",1896
+6,"West Street",55.8495652808198,-4.26593982111339,"light_rail",1896
+7,"Bridge Street",55.852023053421,-4.25832760375587,"light_rail",1896
+8,"St Enoch",55.8572604644128,-4.25534818955379,"light_rail",1896
+9,"Buchanan Street",55.862392753124,-4.25342278360034,"light_rail",1896
+10,"Cowcaddens",55.8680893180585,-4.25989550185383,"light_rail",1896
+11,"St Georges Cross",55.8712138590087,-4.26922083982572,"light_rail",1896
+12,"Kelvinbridge",55.8743208824376,-4.27970835239267,"light_rail",1896
+13,"Hillhead",55.8751749793542,-4.29365302426916,"light_rail",1896
+14,"Kelvinhall",55.8709837443197,-4.29991054986081,"light_rail",1896
+15,"Partick",55.8696962188056,-4.30854897870967,"light_rail",1896
+16,"Anniesland",55.8901728,-4.3214442,,0
+17,"Anniesland",55.8895617,-4.3217829,"commuter_rail",0
+18,"Anniesland",55.8899879,-4.3213489,"commuter_rail",0
+19,"Maryhill",55.897521,-4.3011617,,0
+20,"Kelvindale",55.8935295,-4.3098856,"commuter_rail",0
+21,"Maryhill",55.897497,-4.3011372,"commuter_rail",0
+22,"Summerston",55.8988617,-4.2921858,,0
+23,"Gilshochill",55.8972959,-4.2824525,,0
+24,"Gilshochill",55.8972649,-4.2824917,"commuter_rail",0
+25,"Summerston",55.8988254,-4.2921917,"commuter_rail",0
+26,"Ashfield",55.8888006,-4.2479109,,0
+27,"Possilpark and Parkhouse",55.8900897,-4.2573907,,0
+28,"Ashfield",55.8888509,-4.2487995,,0
+29,"Possilpark and Parkhouse",55.8901087,-4.2583286,"commuter_rail",0
+30,"Glasgow Queen Street (High Level)",55.8623657,-4.2512046,"commuter_rail|inter_city_rail",0
+31,"Glasgow Queen Street (High Level)",55.8623758,-4.2512704,"commuter_rail|inter_city_rail",0
+32,"Bellgrove",55.8567429,-4.2248307,,0
+33,"Bellgrove",55.8566208,-4.2231312,"commuter_rail",0
+34,"Duke Street",55.8591515,-4.2120293,"commuter_rail",0
+35,"Duke Street",55.8586183,-4.212619,,0
+36,"Alexandra Parade",55.8639208,-4.2107317,"commuter_rail",0
+37,"Alexandra Parade",55.8633144,-4.2105721,,0
+38,"Barnhill",55.8778612,-4.2235164,"commuter_rail",0
+39,"Barnhill",55.8778823,-4.2234676,,0
+40,"Springburn",55.8814217,-4.2289585,"commuter_rail",0
+41,"Springburn",55.8817943,-4.2302894,,0
+42,"Springburn Station",55.8819495993777,-4.23030709043869,"commuter_rail",0
+43,"Bishopbriggs",55.9041647,-4.224046,,0
+44,"Lenzie",55.9211835,-4.1544967,,0
+45,"Lenzie",55.9214907,-4.1533718,,0
+46,"Bishopbriggs",55.9037911,-4.2248995,,0
+47,"Croy",55.9556502,-4.0362123,"inter_city_rail",0
+48,"Croy",55.9551939,-4.0368862,,0
+49,"Falkirk High",55.9914748,-3.7916761,"inter_city_rail",0
+50,"Falkirk High",55.9918354,-3.7929859,,0
+51,"Stepps",55.8901267,-4.1405971,"commuter_rail",0
+52,"Stepps",55.8900941,-4.1405904,,0
+53,"Gartcosh",55.8855911,-4.0790711,"commuter_rail",0
+54,"Gartcosh",55.8855566,-4.0790806,,0
+55,"Cumbernauld",55.9418881,-3.9803954,"commuter_rail",0
+56,"Greenfaulds",55.935151,-3.9932374,"commuter_rail",0
+57,"Cumbernauld",55.94186,-3.9803533,,0
+58,"Greenfaulds",55.9346688,-3.9939624,,0
+59,"Camelon",56.0061775,-3.8176622,"commuter_rail",0
+60,"Camelon",56.0062742,-3.8189919,,0
+61,"High Street",55.8594795,-4.2401651,,0
+62,"High Street",55.858763,-4.2388155,"commuter_rail",0
+63,"Charing Cross",55.8646303,-4.2696603,,0
+64,"Charing Cross",55.8646656,-4.2696482,"commuter_rail",0
+65,"Glasgow Queen Street (Low Level)",55.8623822,-4.2502716,"commuter_rail",0
+66,"Glasgow Queen Street (Low Level)",55.8624528,-4.2514784,,0
+67,"Partick",55.8698524,-4.3092679,,0
+68,"Partick",55.8698178,-4.3093025,,0
+69,"Hyndland",55.8791518,-4.3140732,,0
+70,"Hyndland",55.8799009,-4.3148747,,0
+71,"Jordanhill",55.8825958,-4.3240641,,0
+72,"Jordanhill",55.8826602,-4.3252346,,0
+73,"Yoker",55.8926442,-4.386513,,0
+74,"Garscadden",55.8873057,-4.3632132,"commuter_rail",0
+75,"Scotstounhill",55.8847735,-4.351856,"commuter_rail",0
+76,"Garscadden",55.8875312,-4.3647166,,0
+77,"Yoker",55.8931875,-4.3880158,,0
+78,"Scotstounhill",55.8850625,-4.3533174,,0
+79,"Glasgow Central",55.858065,-4.2585705,"commuter_rail",0
+80,"Glasgow Central",55.8596342,-4.2574465,"commuter_rail|inter_city_rail",0
+81,"Glasgow Central",55.859598,-4.257595,,0
+82,"Glasgow Central",55.8595951,-4.2578912,,0
+83,"Glasgow Central",55.8595982,-4.2578274,,0
+84,"Dumbreck",55.8448110903587,-4.30103478062705,"commuter_rail",0
+85,"Corkerhill",55.8375390835755,-4.33452209329693,"commuter_rail",0
+86,"Mosspark",55.8406967130031,-4.34753376885652,"commuter_rail",0
+87,"Crookston",55.8423454423186,-4.36484500811574,"commuter_rail",0
+88,"Hawkhead",55.8420999549043,-4.39922118441834,"commuter_rail",0
+89,"Paisley Canal",55.8400994857606,-4.42375596620775,"commuter_rail",0
+90,"West Street CrossRail - never built",55.8493581226837,-4.26605522967023,"commuter_rail",0
+91,"Carntyne",55.8549105,-4.1788943,"commuter_rail",0
+92,"Carntyne",55.8548888,-4.1788961,,0
+93,"Shettleston",55.8536656,-4.1599513,"commuter_rail",0
+94,"Shettleston",55.8536348,-4.1599141,,0
+95,"Garrowhill",55.8551624,-4.1296368,"commuter_rail",0
+96,"Easterhouse",55.8598179,-4.1070839,,0
+97,"Garrowhill",55.8551165,-4.1296368,,0
+98,"Easterhouse",55.8598493,-4.1058896,"commuter_rail",0
+99,"Clydebank",55.9003473,-4.4036499,"commuter_rail",0
+100,"Clydebank",55.9007601,-4.4046266,,0
+101,"Singer",55.9073302,-4.4047635,"commuter_rail",0
+102,"Dalmuir",55.9116656,-4.426069,,0
+103,"Dalmuir",55.9118904,-4.4269404,,0
+104,"Singer",55.9075871,-4.4060583,,0
+105,"Dalmuir",55.9120457,-4.4263429,,0
+106,"Dalmuir",55.9122482,-4.4276068,,0
+107,"Westerton",55.9045993,-4.3345804,"commuter_rail",0
+108,"Westerton",55.9050133,-4.3356808,,0
+109,"Drumchapel",55.904685,-4.3624003,"commuter_rail",0
+110,"Drumchapel",55.9048214,-4.3638559,,0
+111,"Drumry",55.9047279,-4.3847802,"commuter_rail",0
+112,"Drumry",55.9044925,-4.3860812,,0
+113,"Hillfoot",55.9201629,-4.3202915,"commuter_rail",0
+114,"Bearsden",55.9170812,-4.3322004,"commuter_rail",0
+115,"Bearsden",55.9168285,-4.3328891,,0
+116,"Hillfoot",55.9201332,-4.3202508,,0
+117,"Milngavie",55.9412539,-4.3145123,,0
+118,"Milngavie",55.9412464,-4.3145526,"commuter_rail",0
+119,"Uddingston",55.8235211,-4.0876955,,0
+120,"Uddingston",55.8235994,-4.0862657,"commuter_rail",0
+121,"Motherwell",55.7916506,-3.9938788,"commuter_rail|inter_city_rail",0
+122,"Motherwell",55.7922835,-3.9949514,,0
+123,"Carmyle",55.8340930340969,-4.15886468603301,"commuter_rail",0
+124,"Mount Vernon",55.8403094707799,-4.13337991613494,"commuter_rail",0
+125,"Baillieston",55.8445567735751,-4.11366032474493,"commuter_rail",0
+126,"Bargeddie",55.8513347425536,-4.07372109249954,"commuter_rail",0
+127,"Kirkwood",55.8541683536633,-4.04771621117402,"commuter_rail",0
+128,"Whifflet",55.8538864004255,-4.01866854915713,"commuter_rail",0
+129,"Bellshill",55.8170883,-4.0237312,"commuter_rail",0
+130,"Bellshill",55.8170473,-4.0250931,,0
+131,"Blairhill",55.8666016,-4.0421787,"commuter_rail",0
+132,"Blairhill",55.8663903,-4.0432737,,0
+133,"Coatdyke",55.8642816,-4.0045126,,0
+134,"Coatdyke",55.8642498,-4.0045337,,0
+135,"Coatbridge Sunnyside",55.8668688,-4.0269935,,0
+136,"Coatbridge Sunnyside",55.8670173,-4.0287047,,0
+137,"Falkirk Grahamston",56.0023608,-3.7852312,"commuter_rail",0
+138,"Falkirk Grahamston",56.0023254,-3.7852423,,0
+139,"Polmont",55.9843411,-3.7136966,"commuter_rail|inter_city_rail",0
+140,"Polmont",55.984601,-3.7152932,,0
+141,"Queens Park",55.8353205678485,-4.26707346852947,,0
+142,"Crosshill",55.8332310793422,-4.25668477945248,"commuter_rail",0
+143,"Mount Florida",55.8265651606087,-4.26127154213123,,0
+144,"Cathcart",55.81771358009,-4.26067898168506,,0
+145,"Langside",55.8208991478466,-4.27590541030003,,0
+146,"Pollokshaws East",55.8247093859658,-4.28685282782126,,0
+147,"Shawlands",55.8293405278702,-4.2922717646654,"commuter_rail",0
+148,"Maxwell Park",55.8375576348534,-4.28878225230588,"commuter_rail",0
+149,"Pollokshields West",55.8375988114126,-4.27589866373512,"commuter_rail",0
+150,"Cathcart Circle",55.8408052004294,-4.26922301428047,"commuter_rail",0
+151,"Airdrie",55.8641942,-3.9814377,,0
+152,"Airdrie",55.8640622,-3.9830801,,0
+153,"Airdrie",55.8640293,-3.981454,,0
+154,"Helensburgh Upper",56.0124894,-4.7309712,,0
+155,"Craigendoran",55.9947298,-4.7117592,,0
+156,"Helensburgh Central",56.0038908,-4.7319946,,0
+157,"Cardross",55.960131,-4.6526301,,0
+158,"Cardross",55.9601087,-4.6526869,,0
+159,"Dumbarton Central",55.9465478,-4.5681417,,0
+160,"Dumbarton Central",55.9465707,-4.5665868,,0
+161,"Dumbarton Central",55.9464199,-4.5673892,,0
+162,"Dalreoch",55.9470465,-4.5762792,,0
+163,"Dalreoch",55.9474518,-4.5778387,,0
+164,"Dumbarton East",55.9426307,-4.5541448,,0
+165,"Dumbarton East",55.9426277,-4.5543075,,0
+166,"Bowling",55.9310827,-4.4928232,,0
+167,"Bowling",55.9310537,-4.4929238,,0
+168,"Kilpatrick",55.9237132,-4.4522078,,0
+169,"Kilpatrick",55.9242533,-4.4530795,,0
+170,"Renton",55.9703265,-4.5863345,,0
+171,"Balloch",56.0024884,-4.5833436,,0
+172,"Alexandria",55.9851799,-4.5773986,,0
+173,"Drumgelloch",55.8678192,-3.9480296,,0
+174,"Drumgelloch",55.8677949,-3.9479857,,0
+175,"Caldercruix",55.8879774,-3.8879261,,0
+176,"Caldercruix",55.8879415,-3.887946,,0
+177,"Blackridge",55.8843642,-3.7502645,,0
+178,"Armadale",55.8864377,-3.693166,,0
+179,"Armadale",55.8864086,-3.6931362,,0
+180,"Bathgate",55.8970243,-3.6360347,,0
+181,"Bathgate",55.8970034,-3.6360632,,0

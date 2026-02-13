@@ -1,0 +1,93 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Seattle Center",47.6212883,-122.3496156,"people_mover",1962
+2,"Westlake Center",47.6120286,-122.3369213,"people_mover",1962
+3,"Theater District",47.2528831,-122.4393333,"tram",2011
+4,"Theater District",47.2530104,-122.4393082,"tram",2011
+5,"Convention Center",47.2494955,-122.4386194,"tram",2003
+6,"Convention Center",47.2495043,-122.4385147,"tram",2003
+7,"South 25th Street",47.2391086,-122.434211,"tram",2003
+8,"Tacoma Dome",47.2398391,-122.4281148,"tram",2003
+9,"Union Station",47.244806192667,-122.436663816151,"tram",2003
+10,"Theater District",47.2562005,-122.440014,"tram",2003
+11,"Columbia City",47.5597267,-122.2927376,"light_rail",2009
+12,"Othello",47.5379905,-122.2816158,"light_rail",2009
+13,"Rainier Beach",47.5224409,-122.279453,"light_rail",2009
+14,"Beacon Hill",47.5790849,-122.3116391,"light_rail",2009
+15,"Mount Baker",47.5765538,-122.2977276,"light_rail",2009
+16,"Stadium",47.5911093,-122.3272659,"light_rail",2009
+17,"SODO",47.5812626,-122.3274335,"light_rail",2009
+18,"Westlake",47.611567,-122.3368952,"light_rail",2009
+19,"Pioneer Square",47.6022251,-122.3310213,"light_rail",2009
+20,"University Street",47.6072826,-122.3356689,"light_rail",2009
+21,"International District/Chinatown",47.5982719495205,-122.328048448097,"light_rail",2009
+22,"Capitol Hill",47.6190753,-122.3202798,"light_rail",2016
+23,"University of Washington",47.6498516,-122.3038558,"light_rail",2016
+24,"U District",47.660491,-122.314221,"light_rail",2021
+25,"Roosevelt",47.676221,-122.316073,"light_rail",2021
+26,"Northgate",47.7030237,-122.328377,"light_rail",2021
+27,"Tukwila International Boulevard",47.4640175,-122.2879013,"light_rail",2009
+28,"Concourse B",47.4409398,-122.3034745,,
+29,"28235",47.441615,-122.3009626,,
+30,"Main Terminal North",47.445545,-122.3009016,,
+31,"SeaTac/Airport",47.4453473,-122.29699,"light_rail",2009
+32,"A Gates",47.4419374,-122.3007514,,
+33,"D Gates",47.4447622,-122.3009001,,
+34,"Angle Lake",47.4224108,-122.2978768,"light_rail",2016
+35,"Tukwila",47.4601657789688,-122.240410623333,"commuter_rail",2001
+36,"Seattle King Street",47.5975188,-122.3295168,"commuter_rail",2000
+37,"Kent",47.3849712,-122.2329992,"commuter_rail",2001
+38,"Auburn",47.3072265,-122.2322632,"commuter_rail",2000
+39,"Sumner",47.2012007744336,-122.244873933646,"commuter_rail",2000
+40,"Puyallup",47.1927050689,-122.295713754358,"commuter_rail",2001
+41,"Tacoma Dome",47.2394839518742,-122.427042597663,"commuter_rail",2000
+42,"South Tacoma",47.203276,-122.485545,"commuter_rail",2012
+43,"Lakewood",47.1526186,-122.5000967,"commuter_rail",2012
+44,"Edmonds",47.8109998,-122.384681,"commuter_rail",2003
+45,"Mukilteo",47.9489332,-122.2994694,"commuter_rail",2008
+46,"Everett",47.9754952072381,-122.197437026044,"commuter_rail",2003
+47,"Westlake & Thomas",47.6214115,-122.3385364,"tram",
+48,"Pacific Place",47.6129623,-122.3373091,"tram",2007
+49,"Terry & Thomas",47.6214212,-122.3372118,"tram",
+50,"Terry & Mercer",47.6243402,-122.3371901,"tram",2007
+51,"Lake Union Park",47.6258835,-122.3363286,"tram",
+52,"Westlake & Mercer",47.6242704,-122.3385417,"tram",2007
+53,"Westlake & 7th",47.6149952,-122.3378525,,2007
+54,"Westlake & Denny",47.6178973,-122.3384552,,2007
+55,"Fairview & Campus Drive",47.6276927,-122.3321781,"tram",2007
+56,"Occidental Mall",47.599223,-122.3332511,"tram",2016
+57,"7th & Jackson",47.5992263,-122.3234466,"tram",2016
+58,"Yesler & Broadway",47.6016689,-122.3199768,"tram",2016
+59,"Broadway & Terrace",47.6049981,-122.320849,"tram",2016
+60,"Broadway & Pike",47.6143027,-122.3208604,"tram",2016
+61,"12th & Jackson",47.5992345,-122.3159021,"tram",2016
+62,"5th & Jackson",47.5992259,-122.3268088,"tram",2016
+63,"14th & Washington",47.6006711,-122.3142174,"tram",2016
+64,"Broadway & Marion",47.6099146,-122.3208583,"tram",2016
+65,"Broadway & Denny",47.6180808012161,-122.320942876381,"tram",2016
+66,"Judkins Park",47.5903066521022,-122.304331882448,"light_rail",2026
+67,"Mercer Island",47.588332269101,-122.233613836687,"light_rail",2026
+68,"South Bellevue",47.5865812534651,-122.190465438765,"light_rail",2024
+69,"East Main",47.6080332208714,-122.191181913494,"light_rail",2024
+70,"Bellevue Downtown",47.6152480777202,-122.191946425929,"light_rail",2024
+71,"Wilburton",47.6179751712309,-122.183819971066,"light_rail",2024
+72,"Spring District",47.6237876859283,-122.178587692545,"light_rail",2024
+73,"BelRed",47.624466716585,-122.165715517944,"light_rail",2024
+74,"Overlake Village",47.6363319352894,-122.138963796796,"light_rail",2024
+75,"Redmond Technology",47.6445652662789,-122.133611186591,"light_rail",2024
+76,"Downtown Redmond",47.6716242411636,-122.118389129758,"light_rail",2025
+77,"Marymoor Village",47.667323264241,-122.109488726871,"light_rail",2025
+78,"NE 130th Street",47.7240701229358,-122.323897765863,"light_rail",2026
+79,"Shoreline South/148th",47.7361189267867,-122.325326511408,"light_rail",2024
+80,"Shoreline North/185th",47.7642016826514,-122.322899152308,"light_rail",2024
+81,"Mountlake Terrace",47.7849802356823,-122.314857836222,"light_rail",2024
+82,"Lynnwood City Center",47.8156397890268,-122.294810016038,"light_rail",2024
+83,"Kent Des Moines",47.3895273026857,-122.294426227937,"light_rail",2026
+84,"Star Lake",47.3595601909592,-122.29725923412,"light_rail",2026
+85,"Federal Way Downtown",47.3159103667995,-122.303852420168,"light_rail",2026
+86,"Old City Hall",47.2577271637445,-122.440426687083,"tram",2023
+87,"South 4th Street",47.2613039806668,-122.44270136874,"tram",2023
+88,"Stadium District",47.2639079941728,-122.448953639737,"tram",2023
+89,"Tacoma General",47.2600151670954,-122.453547058715,"tram",2023
+90,"6th Avenue",47.2570279725379,-122.452867798546,"tram",2023
+91,"Hilltop District",47.2518620239845,-122.451684956266,"tram",2023
+92,"St. Joseph",47.2449343755309,-122.450112764009,"tram",2023

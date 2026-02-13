@@ -1,0 +1,59 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Owings Mills",39.4073218,-76.779941,"heavy_rail",1987
+2,"Old Court",39.3712259,-76.7441445,"heavy_rail",1987
+3,"Milford Mill",39.3596123,-76.7206532,"heavy_rail",1987
+4,"Upton–Avenue Market",39.3041734,-76.6354785,"heavy_rail",1983
+5,"State Center/Cultural Center",39.3014242,-76.623198,"heavy_rail",1983
+6,"Lexington Market",39.2927281,-76.621168,"heavy_rail",1983
+7,"Penn–North",39.3100964,-76.6425812,"heavy_rail",1983
+8,"Mondawmin",39.3182303,-76.6532786,"heavy_rail",1983
+9,"West Cold Spring",39.3362278,-76.6724268,"heavy_rail",1983
+10,"Rogers Avenue",39.3447918,-76.6919077,"heavy_rail",1983
+11,"Reisterstown Plaza",39.3518838,-76.7047103,"heavy_rail",1983
+12,"Shot Tower/Market Place",39.2899838,-76.6060037,,
+13,"Johns Hopkins Hospital",39.29936,-76.5942737,"heavy_rail",1995
+14,"Shot Tower/Market Place",39.2900295,-76.6060206,"heavy_rail",1995
+15,"Charles Center",39.2895794,-76.6146013,"heavy_rail",1983
+16,"Baltimore Penn Station",39.307619,-76.6157593,"light_rail",1997
+17,"Mount Royal/MICA",39.3070189,-76.6198799,"light_rail",1992
+18,"Convention Center",39.2854124,-76.6193848,"light_rail",1992
+19,"Mount Vernon",39.2964953,-76.6199592,"light_rail",1992
+20,"Cultural Center",39.303321,-76.620419,"light_rail",1992
+21,"Lexington Market",39.2918517,-76.619633,"light_rail",1992
+22,"Baltimore Arena",39.2884165,-76.619454,"light_rail",1992
+23,"Camden Yards",39.282782,-76.6194521,"light_rail",1992
+24,"Stadium/Federal Hill",39.2786313,-76.6200901,"light_rail",1992
+25,"Westport",39.2615074,-76.6323464,"light_rail",1992
+26,"Cherry Hill",39.2556485,-76.6350009,"light_rail",1992
+27,"Baltimore Highlands",39.2347624,-76.633093,"light_rail",1993
+28,"Patapsco",39.2416505,-76.6301588,"light_rail",1992
+29,"Nursery Road",39.221238,-76.6415902,"light_rail",1993
+30,"Linthicum",39.2020396,-76.6555573,"light_rail",1993
+31,"North Linthicum",39.2140487,-76.6463356,"light_rail",1993
+32,"BWI Business District",39.191453,-76.6736979,"light_rail",1997
+33,"Ferndale",39.1832627,-76.6400636,"light_rail",1993
+34,"Glen Burnie",39.1720479,-76.6330937,"light_rail",1993
+35,"BWI Airport",39.1822268,-76.669334,"light_rail",1997
+36,"Cold Spring Lane",39.3437393,-76.6478223,"light_rail",1992
+37,"Woodberry",39.3308414,-76.6432977,"light_rail",1992
+38,"Falls Road",39.376425,-76.6500948,"light_rail",1992
+39,"Mount Washington",39.368156,-76.6519371,"light_rail",1992
+40,"Lutherville",39.4285983,-76.6270861,"light_rail",1992
+41,"Timonium",39.4335004,-76.6281313,"light_rail",1992
+42,"Fairgrounds",39.4482084,-76.6347728,"light_rail",1992
+43,"Warren Road",39.47584,-76.6532885,"light_rail",1997
+44,"Hunt Valley",39.4963062,-76.6545121,"light_rail",1997
+45,"McCormick Road",39.4894681,-76.6594979,"light_rail",1997
+46,"Pepper Road",39.4920653,-76.6566848,"light_rail",1997
+47,"Gilroy Road",39.4818715,-76.6618117,"light_rail",1997
+48,"Maritime Park (Landing 8)",39.27910632911,-76.5959613487313,"ferry",2009
+49,"Tide Point (Landing 10)",39.2757821985988,-76.5897895357736,"ferry",2009
+50,"Canton Waterfront Park (Landing 16)",39.2769174712345,-76.5740830790314,"ferry",2009
+51,"Federal Hill (Landing 4)",39.2819287990885,-76.607130021135,"ferry",2014
+52,"Pier 5 (Landing 5)",39.2840354647638,-76.6052182264222,"ferry",2019
+53,"Harborview (Landing 9)",39.2777709828327,-76.6035155005339,,2011
+54,"Harbor East (Landing 7)",39.2829473632499,-76.6032788419918,,2011
+55,"Boston Street & Ellwood Avenue EB",39.2773960325031,-76.5720195418363,"bus",2009
+56,"Maritime Park",39.2796767110754,-76.596407474651,"bus",2011
+57,"Tide Point (Alternate Stop)",39.2755177148521,-76.5907882838205,"bus",2011
+58,"North Avenue",39.3118753762727,-76.6226088233244,"light_rail",1992

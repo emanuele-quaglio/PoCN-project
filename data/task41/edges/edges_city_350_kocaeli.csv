@@ -1,0 +1,6 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,11,"heavy_rail","4633-m1-gebze---darıca",2026
+12,22,"light_rail","4619-akcaray",2017
+12,24,"light_rail","4619-akcaray",2019
+23,24,"light_rail","4619-akcaray",2023
+19,28,"light_rail","4619-akcaray",2024

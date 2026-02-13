@@ -1,0 +1,8 @@
+"nodeID_from","nodeID_to","mode","line","year"
+2,11,"heavy_rail","3640-line-1",2006
+2,12,"heavy_rail","3640-line-1",2006
+4,12,"heavy_rail","3640-line-1",2006
+13,15,"heavy_rail","3640-line-1",2011
+21,22,"heavy_rail","3640-line-1",2021
+15,21,"heavy_rail","3640-line-1",2011
+4,13,"heavy_rail","3640-line-1",2007

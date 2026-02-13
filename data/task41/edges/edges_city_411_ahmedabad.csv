@@ -1,0 +1,13 @@
+"nodeID_from","nodeID_to","mode","line","year"
+2,3,"heavy_rail","3629-east-west-line",2019
+1,2,"heavy_rail","3629-east-west-line",2019
+3,4,"heavy_rail","3629-east-west-line",2019
+5,6,"heavy_rail","3629-east-west-line",2019
+4,5,"heavy_rail","3629-east-west-line",2019
+41,53,"heavy_rail","4770-red-line",2025
+51,53,"heavy_rail","4770-red-line",
+6,17,"heavy_rail","3629-east-west-line",2022
+17,18,"heavy_rail","3629-east-west-line",2024
+19,32,"heavy_rail","4770-red-line",2022
+33,34,"heavy_rail","4770-red-line",2024
+19,41,"heavy_rail","4770-red-line",2024

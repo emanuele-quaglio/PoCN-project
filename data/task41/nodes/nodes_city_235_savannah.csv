@@ -1,0 +1,10 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"East Broad Street",32.0797084077603,-81.0838693968405,"tram",2009
+2,"Habersham Street",32.0804847339487,-81.0862084964455,"tram",2009
+3,"Abercorn Street",32.0809965059745,-81.0885685412341,"tram",2009
+4,"City Hall",32.0816568027682,-81.091082778612,"tram",2009
+5,"Barnard Street",32.0823744474282,-81.0932240070274,"tram",2009
+6,"Montgomery Street",32.0832201658908,-81.0955425284178,"tram",2009
+7,"City Hall Landing",32.081789486932,-81.0903496731245,"ferry",0
+8,"Trade Center Landing",32.083077754269,-81.0864499544086,"ferry",0
+9,"Waving Girl Landing",32.0793966345271,-81.0817288074485,"ferry",0

@@ -1,0 +1,163 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Perrache",45.7494917348151,4.82704870683156,"default",1978
+2,"Ampère - Victor Hugo",45.7530127517823,4.82915991049074,"default",1978
+3,"Bellecour",45.7576374986457,4.83322286616095,"default",1978
+4,"Cordeliers",45.763291110237,4.83580939130411,"default",1978
+5,"Hôtel de Ville - Louis Pradel",45.7672464071581,4.83605188670455,"default",1978
+6,"Foch",45.7687490487633,4.84448201070987,"default",1978
+7,"Masséna",45.7695877206335,4.85343722963441,"default",1978
+8,"Charpennes - Charles Hernu",45.7705415995825,4.86365285648682,"default",1978
+9,"République - Villeurbanne",45.7705284650759,4.8740097521528,"default",1978
+10,"Gratte-Ciel",45.7690120755047,4.88238923278922,"default",1978
+11,"Flachet - Alain Gilles",45.7677229677718,4.88930183715803,"default",1978
+12,"Cusset",45.7656089129665,4.90082385273547,"default",1978
+13,"Laurent Bonnevay - Astroballe",45.7641215406626,4.90884061073066,"default",1978
+14,"Vaulx-en-Velin - La Soie",45.7612126862061,4.92184637894024,"default",2007
+15,"Rue Terme",45.7697544148952,4.8309641237762,"default",1862
+16,"Croix-Rousse",45.7740680050086,4.83089872092111,"default",1862
+17,"Croix-Rousse",45.774441052123,4.8330144168948,"default",1891
+18,"Croix-Paquet",45.7708160121006,4.83647969496693,"default",1891
+19,"Saint-Paul",45.7657380854433,4.82693613107151,"default",1900
+20,"Fourvière",45.7634263834858,4.82173397284439,"default",1900
+21,"Vieux Lyon - Cathédrale Saint-Jean",45.7599846616064,4.82593443864721,"default",1878
+22,"Saint-Just",45.7571542761414,4.81628526484528,"default",1878
+23,"Fourvière",45.762386038155,4.82147488184989,"default",1900
+24,"Vieux Lyon - Cathédrale Saint-Jean",45.760038438168,4.82577526034126,"default",1900
+25,"Charpennes",45.7704329898191,4.86321596347927,"default",1978
+26,"Brotteaux",45.7670562139228,4.85938742954318,"default",1978
+27,"Gare Part-Dieu",45.7616785393377,4.85789253243669,"default",1978
+28,"Place Guichard - Bourse du Travail",45.7592173482347,4.84737760024544,"default",1981
+29,"Saxe - Gambetta",45.7533497954729,4.8466904591736,"default",1981
+30,"Jean Macé",45.7459011477617,4.84228211899483,"default",1981
+31,"Place Jean Jaurès",45.7375892150557,4.83733288853983,"default",2000
+32,"Debourg",45.7310408478966,4.83344479725685,"default",2000
+33,"Stade de Gerland",45.7266957842013,4.83083503136868,"default",2000
+34,"Gare d'Oullins",45.7166806107656,4.81452094545793,"default",2013
+35,"Croix-Paquet",45.7710729593609,4.83623157825735,"default",1974
+36,"Croix-Rousse",45.7745002985538,4.83202645424797,"default",1974
+37,"Hôtel de Ville - Louis Pradel",45.7681119176908,4.83602459468543,"default",1978
+38,"Hénon",45.7795013922183,4.82750573063097,"default",1984
+39,"Cuire",45.7852981918782,4.8326489971069,"default",1984
+40,"Gorge de Loup",45.7664312998019,4.80547388116062,"default",1991
+41,"Vieux Lyon - Cathédrale Saint-Jean",45.7602247512885,4.82562702181716,"default",1991
+42,"Bellecour",45.7569729327852,4.8334410190846,"default",1991
+43,"Guillotière - Gabriel Péri",45.7553443173759,4.84288743725619,"default",1991
+44,"Saxe - Gambetta",45.7537591771662,4.8474343469,"default",1991
+45,"Garibaldi",45.751635500055,4.85349199898963,"default",1991
+46,"Sans Souci",45.7475817355452,4.86522524667018,"default",1991
+47,"Monplaisir - Lumière",45.7455029893254,4.87139580969813,"default",1991
+48,"Grange Blanche",45.7429338295007,4.87884060606987,"default",1991
+49,"Valmy",45.7745998523943,4.80541100814455,"default",1997
+50,"Gare de Vaise",45.7804070619395,4.80436310502131,"default",1997
+51,"Laënnec",45.7383669774792,4.88658269221509,"default",1992
+52,"Mermoz - Pinel",45.7306257886331,4.88733303691089,"default",1992
+53,"Parilly",45.7195387864125,4.88754114237921,"default",1992
+54,"Gare de Vénissieux",45.7055942583293,4.88799931801833,"default",1992
+55,"Gare Part-Dieu - Villette",45.7605589343115,4.86161875093055,"default",2010
+56,"Vaulx-en-Velin - La Soie",45.7610648224578,4.92218379208319,"default",2010
+57,"Meyzieu Z.I.",45.7677086982589,5.03168431174254,"default",2010
+58,"Aéroport de Lyon-Saint-Exupéry",45.7210248726747,5.07605943399406,"default",2010
+59,"Suchet",45.7471002649791,4.82458558565435,"default",2005
+60,"Sainte-Blandine",45.7442173946188,4.82213558788806,"default",2005
+61,"Hôtel de Région - Montrochet",45.7405779392374,4.81903376067694,"default",2005
+62,"Musée des Confluences",45.7336327705538,4.81891230431842,"default",2014
+63,"Halle Tony Garnier",45.731710827606,4.82282373336486,"default",2014
+64,"ENS Lyon",45.7314144764933,4.8288432080877,"default",2014
+65,"Debourg",45.7311656394985,4.83460481349695,"default",2014
+66,"Lyon-Saint-Paul",45.7662446,4.8265023,"default",0
+67,"Lyon-Gorge-de-Loup",45.7660433,4.804723,"default",0
+68,"Tassin",45.7616434,4.7585595,"default",0
+69,"Écully-la-Demi-Lune",45.7658061,4.7790949,"default",0
+70,"Le Méridien",45.7685096,4.7484922,"default",0
+71,"Charbonnières-les-Bains",45.7815818,4.7363154,"default",0
+72,"Casino-Lacroix-Laval",45.787897,4.7307442,"default",0
+73,"La Tour-de-Salvagny",45.7998157,4.716443,"default",0
+74,"Lentilly",45.8221559,4.6666743,"default",0
+75,"Fleurieux-sur-l'Arbresle",45.8452584,4.6600604,"default",0
+76,"Lentilly-Charpenay",45.8164293,4.6820619,"default",0
+77,"Sain-Bel",45.8115328,4.6018135,"default",0
+78,"L'Arbresle",45.8326071,4.6177084,"default",0
+79,"Chaponost",45.6981613,4.7642278,"default",0
+80,"Brignais",45.6737515,4.7638663,"default",0
+81,"Francheville",45.733692,4.769671,"default",0
+82,"Alaï",45.7518848,4.7718385,"default",0
+83,"Charpennes - Charles Hernu",45.7709529,4.8630183,"default",0
+84,"Collège Bellecombe",45.766685,4.8619039,"default",0
+85,"Condorcet",45.7779369,4.8668935,"default",0
+86,"Croix-Luizet",45.7837023,4.8831584,"default",0
+87,"INSA - Einstein",45.7824673,4.8776491,"default",0
+88,"IUT - Feyssine",45.786852,4.8819245,"default",0
+89,"La Doua - Gaston Berger",45.7815207,4.8721608,"default",0
+90,"Le Tonkin",45.7740997,4.8640441,"default",0
+91,"Thiers - Lafayette",45.7643245,4.8620149,"default",0
+92,"Université Lyon 1",45.7808956,4.8663364,"default",0
+93,"Guillotière",45.7549145,4.8424764,"default",0
+94,"Liberté",45.7588575,4.8424196,"default",0
+95,"Palais de Justice - Mairie du 3e",45.7603515,4.8483927,"default",0
+96,"Part-Dieu - Servient",45.7607292,4.8538018,"default",0
+97,"Quai Claude Bernard",45.7495841,4.8352011,"default",0
+98,"Saint-André",45.7528923,4.8410239,"default",0
+99,"Saxe-Préfecture",45.7601369,4.8452789,"default",0
+100,"Rue de l'Université",45.7511752,4.838979,"default",0
+101,"Gare Part-Dieu - Vivier Merle",45.7619453,4.8578128,"default",0
+102,"Lénine - Corsière",45.6968368,4.8617597,"default",0
+103,"Darnaise",45.6926515,4.8643379,"default",0
+104,"Lycée Jacques Brel",45.6949124,4.8799064,"default",0
+105,"Herriot - Cagne",45.6937696,4.8754428,"default",0
+106,"Vénissy",45.6960059,4.8719378,"default",0
+107,"Division Leclerc",45.6984273,4.8681589,"default",0
+108,"Maurice Thorez",45.6998403,4.8633416,"default",0
+109,"Hôpital Feyzin Vénissieux",45.6882795,4.865184,"default",0
+110,"Joliot Curie - Marcel Sembat",45.7155088,4.8783747,"default",0
+111,"États-Unis Viviani",45.7248324,4.8711111,"default",0
+112,"Professeur Beauvisage - C.I.S.L.",45.7297478,4.8672885,"default",0
+113,"États-Unis - Musée Tony Garnier",45.7330258,4.8647379,"default",0
+114,"Lycée Lumière",45.7367433,4.8618293,"default",0
+115,"Gare de Vénissieux",45.705666,4.887712,"default",0
+116,"La Borelle",45.7111249,4.8821463,"default",0
+117,"Croizat - Paul Bert",45.7000446,4.8876094,"default",0
+118,"Jet d'eau - Mendès France",45.7400909,4.8591215,"default",0
+119,"Marcel Houël - Hôtel de Ville",45.6965134,4.8845271,"default",0
+120,"Vénissy",45.6960212,4.871963,"default",0
+121,"Darnaise",45.6926306,4.8643149,"default",0
+122,"Hôpital Feyzin Vénissieux",45.6881608,4.8651436,"default",0
+123,"Lycée Lumière",45.7368618,4.8617905,"default",0
+124,"Villon",45.7384266,4.8633398,"default",0
+125,"Lycée Colbert",45.745656,4.8590722,"default",0
+126,"Archives Départementales",45.7542346,4.8617846,"default",0
+127,"Manufacture Montluc",45.7501461,4.8603426,"default",0
+128,"Manufacture Montluc",45.750151,4.8603071,"default",0
+129,"Gare Part-Dieu - Villette",45.7607803,4.861982,"default",0
+130,"Centre Berthelot",45.7470544,4.8363551,"default",0
+131,"Garibaldi Berthelot",45.7436882,4.8468949,"default",0
+132,"Jean Macé",45.7451542,4.8422975,"default",0
+133,"Route de Vienne",45.742127,4.8517781,"default",0
+134,"Bachut - Mairie du 8e",45.7368224,4.8683451,"default",0
+135,"Jet d'eau - Mendès France",45.7398789,4.8588068,"default",0
+136,"Boutasse - Camille Rousset",45.7349162,4.9044755,"default",0
+137,"Jean XXIII - Maryse Bastié",45.7401618,4.8744774,"default",0
+138,"Ambroise Paré",45.7415448,4.8839085,"default",0
+139,"Boutasse - Camille Rousset",45.7349405,4.9044899,"default",0
+140,"Essarts-Iris",45.7372209,4.8982142,"default",0
+141,"Grange Blanche",45.7424648,4.8795981,"default",0
+142,"Hôtel de Ville - Bron",45.7334086,4.9091102,"default",0
+143,"Jean XXIII - Maryse Bastié",45.7401855,4.8744462,"default",0
+144,"Les Alizés",45.7315444,4.9147571,"default",0
+145,"Vinatier",45.7388713,4.8931944,"default",0
+146,"Porte des Alpes",45.7184057,4.9257886,"default",0
+147,"Parc Technologique",45.7143835,4.9312586,"default",0
+148,"Alfred de Vigny",45.6996144,4.9361599,"default",0
+149,"Saint-Priest - Hôtel de Ville",45.695067,4.9368694,"default",0
+150,"Esplanade des Arts",45.6945021,4.940614,"default",0
+151,"Saint-Priest - Bel Air",45.6926654,4.9558382,"default",0
+152,"Cordière",45.6936754,4.9497481,"default",0
+153,"Saint-Priest - Jules Ferry",45.6947299,4.9468169,"default",0
+154,"Hauts de Feuilly",45.7081204,4.9376463,"default",0
+155,"Salvador Allende",45.7034326,4.9349246,"default",0
+156,"Europe Université",45.7196338,4.9181416,"default",0
+157,"Parilly - Université - Hippodrome",45.7220408,4.9153064,"default",0
+158,"Rebufer",45.7275143,4.9157222,"default",0
+159,"Eurexpo",45.7318991,4.948133,"default",0
+160,"Parc du Chêne",45.7390245,4.9266222,"default",0
+161,"De Tassigny - Curial",45.7357549,4.9169831,"default",0
+162,"Lycée Jean-Paul Sartre",45.7380281,4.9221882,"default",0

@@ -1,0 +1,47 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Saint-Roch",49.4934488,0.1011876,"light_rail",2012
+2,"La Plage",49.4940751,0.0956681,"light_rail",2012
+3,"La Plage",49.4940972,0.0956974,"light_rail",2012
+4,"Saint-Roch",49.493477,0.1012215,"light_rail",2012
+5,"Hôtel de Ville",49.49334,0.1083877,"light_rail",2012
+6,"Palais de Justice",49.4925847,0.1178832,"light_rail",2012
+7,"Gares",49.492511,0.1242312,"light_rail",2012
+8,"Gares",49.492517,0.1241973,"light_rail",2012
+9,"Hôtel de Ville",49.4933636,0.1084001,"light_rail",2012
+10,"Palais de Justice",49.4926068,0.1179125,"light_rail",2012
+11,"Rond Point",49.499323,0.1294989,"light_rail",2012
+12,"Université",49.4958716,0.1267999,"light_rail",2012
+13,"Université",49.4958591,0.1268436,"light_rail",2012
+14,"Rond Point",49.4993094,0.1295362,"light_rail",2012
+15,"Place Jenner",49.5087735,0.1367409,"light_rail",2012
+16,"Mare au Clerc",49.5117969,0.1269409,"light_rail",2012
+17,"Place Jenner",49.508755,0.1367155,"light_rail",2012
+18,"Mare Rouge",49.5188609,0.116369,"light_rail",2012
+19,"Sacré-Cœur",49.5156552,0.1210525,"light_rail",2012
+20,"Mare Rouge",49.5188762,0.1163786,"light_rail",2012
+21,"Mare au Clerc",49.5118122,0.1269505,"light_rail",2012
+22,"Sacré-Cœur",49.5156705,0.1210621,"light_rail",2012
+23,"Mont-Gaillard",49.5227083,0.1136703,,0
+24,"Mont-Gaillard",49.5227489,0.1136568,,0
+25,"Bigne à Fosse",49.5293663,0.115522,"light_rail",2012
+26,"Queneau",49.5258836,0.1154807,"light_rail",2012
+27,"Bigne à Fosse",49.529438,0.1152426,"light_rail",2012
+28,"Queneau",49.5260346,0.1156563,"light_rail",2012
+29,"Grand Hameau",49.5299134,0.1058672,"light_rail",2012
+30,"Grand Hameau",49.5299596,0.1055805,"light_rail",2012
+31,"Saint-Pierre",49.5118512,0.1747059,"light_rail",2012
+32,"Frileuse",49.5092073,0.1490284,"light_rail",2012
+33,"Place Jenner",49.5086262,0.1381906,"light_rail",2012
+34,"Atrium",49.5158279,0.1709041,"light_rail",2012
+35,"Caucriauville - Pré Fleuri",49.5082802,0.1800828,"light_rail",2012
+36,"Curie",49.5092526,0.1578066,"light_rail",2012
+37,"Schuman",49.5140802,0.1641527,"light_rail",2012
+38,"Verlaine",49.5093577,0.1641333,"light_rail",2012
+39,"Caucriauville - Pré Fleuri",49.5086451,0.180123,"light_rail",2012
+40,"Atrium",49.5160043,0.1703566,"light_rail",2012
+41,"Place Jenner",49.5085745,0.1377794,"light_rail",2012
+42,"Shuman",49.5137837,0.1637448,"light_rail",2012
+43,"Frileuse",49.5092041,0.1484197,"light_rail",2012
+44,"Curie",49.5092746,0.1571971,"light_rail",2012
+45,"Verlaine",49.5093782,0.1635223,"light_rail",2012
+46,"Saint-Pierre",49.5122493,0.1746874,"light_rail",2012

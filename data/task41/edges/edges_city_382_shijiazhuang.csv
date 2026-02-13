@@ -1,0 +1,9 @@
+"nodeID_from","nodeID_to","mode","line","year"
+33,50,"heavy_rail","3646-line-1",2017
+3,4,"heavy_rail","3647-line-2",2020
+3,63,"heavy_rail","3647-line-2",2020
+4,17,"heavy_rail","3648-line-3",2017
+4,22,"heavy_rail","3648-line-3",2017
+16,22,"heavy_rail","3648-line-3",2021
+17,24,"heavy_rail","3648-line-3",2020
+4,51,"heavy_rail","3647-line-2",2020

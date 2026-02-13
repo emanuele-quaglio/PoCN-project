@@ -1,0 +1,74 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Jolimont",43.6152782,1.4633846,"heavy_rail",0
+2,"Capitole",43.6044765,1.445382,"heavy_rail",0
+3,"Esquirol",43.6001467,1.4439146,"heavy_rail",0
+4,"Arènes",43.593404,1.4185414,"heavy_rail",0
+5,"Fontaine Lestang",43.5875305,1.4184089,"heavy_rail",0
+6,"Mermoz",43.5835153,1.4152039,"heavy_rail",0
+7,"Bagatelle",43.5798869,1.4121307,,0
+8,"Mirail Université",43.5745945,1.402032,"heavy_rail",0
+9,"Reynerie",43.5708457,1.4018908,"heavy_rail",0
+10,"Bellefontaine",43.5660825,1.3982966,"heavy_rail",0
+11,"Saint-Cyprien République",43.5979948,1.4316578,"heavy_rail",0
+12,"Marengo SNCF",43.6107605,1.4550373,"heavy_rail",0
+13,"Patte d'Oie",43.5964459,1.4232471,"heavy_rail",0
+14,"Jean Jaurès",43.6058533,1.4489455,"heavy_rail",0
+15,"Basso Cambo",43.569943,1.3922839,"heavy_rail",0
+16,"Roseraie",43.6199318,1.4696735,"heavy_rail",0
+17,"Argoulets",43.6243703,1.4768303,"heavy_rail",0
+18,"Balma Gramont",43.6291183,1.4827089,"heavy_rail",0
+19,"Andromède-Lycée",43.6548396,1.3735958,"light_rail",0
+20,"Grand Noble",43.6447688,1.3774771,"light_rail",0
+21,"Odyssud - Ritouret",43.6362564,1.3853347,"light_rail",0
+22,"Place Georges Brassens",43.6485505,1.3756491,"light_rail",0
+23,"Andromède-Lycée",43.6548279,1.3735646,"light_rail",0
+24,"Grand Noble",43.6447442,1.3774584,"light_rail",0
+25,"Odyssud - Ritouret",43.6362305,1.3853341,"light_rail",0
+26,"Patinoire Barradels",43.6400747,1.38276,"light_rail",0
+27,"Patinoire Barradels",43.6407513,1.3819876,"light_rail",0
+28,"Place Georges Brassens",43.6485429,1.3756173,"light_rail",0
+29,"Aéroconstellation",43.6635798,1.3625569,"light_rail",0
+30,"Beauzelle",43.6602643,1.3695259,"light_rail",0
+31,"Aéroconstellation",43.6634646,1.3625788,"light_rail",0
+32,"Beauzelle",43.6602556,1.3694901,"light_rail",0
+33,"Place du Relais",43.636771,1.3900718,"light_rail",0
+34,"Guyenne - Berry",43.6308743,1.3917438,"light_rail",0
+35,"Pasteur Mairie de Blagnac",43.6340381,1.3913438,"light_rail",0
+36,"Guyenne - Berry",43.6308735,1.3917091,"light_rail",0
+37,"Pasteur Mairie de Blagnac",43.6346092,1.3912346,"light_rail",0
+38,"Place du Relais",43.6367417,1.3900798,"light_rail",0
+39,"Servanty Airbus",43.6254903,1.3934923,"light_rail",0
+40,"Servanty Airbus",43.6254815,1.3934578,"light_rail",0
+41,"Daurat",43.6288606,1.3793834,"light_rail",0
+42,"Daurat",43.6288325,1.3793754,"light_rail",0
+43,"Aéroport",43.631332,1.3743893,"light_rail",0
+44,"Aéroport",43.6313538,1.3743666,"light_rail",0
+45,"Nadot",43.6244433,1.3865858,"light_rail",0
+46,"Nadot",43.6244036,1.3867564,"light_rail",0
+47,"Ancely",43.6182283,1.3969311,"light_rail",0
+48,"Arènes Romaines",43.6141015,1.3983014,"light_rail",0
+49,"Ancely",43.6182325,1.3968926,"light_rail",0
+50,"Arènes Romaines",43.6140753,1.3983027,"light_rail",0
+51,"Purpan",43.6091124,1.4020256,"light_rail",0
+52,"Purpan",43.609111,1.4019875,"light_rail",0
+53,"Casselardit",43.6031468,1.4076812,"light_rail",0
+54,"Casselardit",43.6031174,1.4076568,"light_rail",0
+55,"Cartoucherie",43.6008658,1.411406,"light_rail",0
+56,"Arènes",43.5928437,1.4179282,"light_rail",0
+57,"Zénith",43.5948728,1.4094423,"light_rail",0
+58,"Arènes",43.5928144,1.4179244,"light_rail",0
+59,"Cartoucherie",43.6008706,1.4113643,"light_rail",0
+60,"Zénith",43.5948825,1.4094088,"light_rail",0
+61,"Déodat de Séverac",43.5896483,1.4216813,"light_rail",0
+62,"Déodat de Séverac",43.5896256,1.4216528,"light_rail",0
+63,"Déodat de Séverac",43.5896336,1.4216057,"light_rail",0
+64,"Croix de Pierre",43.5856208,1.4278901,"light_rail",0
+65,"Avenue de Muret-Marcel Cavaillé",43.5893778,1.431827,"light_rail",0
+66,"Avenue de Muret-Marcel Cavaillé",43.5893643,1.4318767,"light_rail",0
+67,"Croix de Pierre",43.5855872,1.4278747,"light_rail",0
+68,"Palais de Justice",43.5927354,1.4440732,"light_rail",0
+69,"Palais de Justice",43.5927702,1.4440516,"light_rail",0
+70,"Île du Ramier",43.5921882,1.4404078,"light_rail",0
+71,"Île du Ramier",43.5922184,1.4404187,"light_rail",0
+72,"Fer à Cheval",43.5926438,1.4354601,"light_rail",0
+73,"Fer à Cheval",43.5926134,1.4354553,"light_rail",0

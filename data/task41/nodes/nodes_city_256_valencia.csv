@@ -1,0 +1,253 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Francesc Cubells",39.4633076,-0.3341847,"light_rail",2007
+2,"Mediterrani",39.4664282,-0.3279643,,2007
+3,"Grau - Canyamelar",39.4631511,-0.3299935,"light_rail",2007
+4,"Marina Reial Joan Carles I",39.4632325,-0.3258538,"light_rail",2007
+5,"Francesc Cubells",39.4632785,-0.3341883,"light_rail",2007
+6,"Grau - Canyamelar",39.4631375,-0.3299598,"light_rail",2007
+7,"Marina Reial Joan Carles I",39.4632891,-0.3258363,"light_rail",2007
+8,"Mediterrani",39.4664488,-0.3279237,,2007
+9,"Eugenia Viñes",39.473897,-0.3256238,"light_rail",1994
+10,"Les Arenes",39.4690236,-0.3256365,"light_rail",1994
+11,"Dr. Lluch",39.4684375,-0.328127,"light_rail",1994
+12,"La Marina",39.472274,-0.3275746,,0
+13,"Serrería",39.4767346,-0.3344601,"light_rail",1994
+14,"Tarongers",39.4781922,-0.3395215,"light_rail",1994
+15,"Trinitat",39.4863223,-0.3674559,"light_rail",1994
+16,"Benimaclet",39.4850264,-0.3630382,"light_rail",1994
+17,"V. Zaragozá",39.4833269,-0.3572427,"light_rail",1994
+18,"Universitat Politècnica",39.4812122,-0.3500026,"light_rail",1994
+19,"La Carrasca",39.4796238,-0.3444889,"light_rail",1994
+20,"La Cadena",39.4752756,-0.3294029,"light_rail",1994
+21,"V. Zaragozá",39.4832971,-0.3572534,"light_rail",1994
+22,"Universitat Politècnica",39.4811835,-0.3500137,"light_rail",1994
+23,"La Carrasca",39.479595,-0.3444999,"light_rail",1994
+24,"Tarongers",39.4781633,-0.3395337,"light_rail",1994
+25,"Serrería",39.476702,-0.3344684,"light_rail",1994
+26,"La Cadena",39.4752445,-0.3294173,"light_rail",1994
+27,"Benimaclet",39.4849982,-0.3630506,"light_rail",1994
+28,"Trinitat",39.4863151,-0.3675372,"light_rail",1994
+29,"Pont de Fusta",39.4821884,-0.372913,"light_rail",1994
+30,"Palau de Congressos",39.4972359,-0.4000684,"light_rail",1994
+31,"Garbí",39.4921355,-0.3941063,"light_rail",1994
+32,"Benicalap",39.4899652,-0.3899912,"light_rail",1994
+33,"Trànsits",39.4895593,-0.3870497,"light_rail",1994
+34,"Marxalenes",39.4879416,-0.3838442,"light_rail",1994
+35,"Reus",39.4859308,-0.3817171,"light_rail",1994
+36,"Sagunt",39.4865811,-0.3741907,"light_rail",1994
+37,"Florista",39.4957618,-0.3979925,"light_rail",1994
+38,"Palau de Congressos",39.4972837,-0.4000598,"light_rail",1994
+39,"Florista",39.4957735,-0.3979569,"light_rail",1994
+40,"Benicalap",39.4899905,-0.3899567,"light_rail",1994
+41,"Trànsits",39.4895871,-0.387044,"light_rail",1994
+42,"Reus",39.4859604,-0.3816827,"light_rail",1994
+43,"Sagunt",39.4864801,-0.3755171,"light_rail",1994
+44,"Garbí",39.492747,-0.3947103,"light_rail",1994
+45,"Marxalenes",39.4879481,-0.3838063,"light_rail",1994
+46,"Pont de Fusta",39.4821759,-0.3728677,"light_rail",1994
+47,"Empalme",39.4994406,-0.4022864,"light_rail",1994
+48,"Empalme",39.49946,-0.4022599,"light_rail",1994
+49,"Vicent Andrés Estellés",39.508561,-0.4199129,"light_rail",1994
+50,"La Granja",39.5039112,-0.4123489,"light_rail",1994
+51,"Sant Joan",39.5053349,-0.4165346,"light_rail",1994
+52,"Campus",39.5071025,-0.4173595,"light_rail",1994
+53,"Vicent Andrés Estellés",39.5085763,-0.4198625,"light_rail",1994
+54,"Campus",39.5070732,-0.4173357,"light_rail",1994
+55,"Sant Joan",39.5053601,-0.416508,"light_rail",1994
+56,"La Granja",39.5039555,-0.4123668,"light_rail",1994
+57,"TVV",39.5121647,-0.4246933,"light_rail",1999
+58,"Fira València",39.5040883,-0.4254916,"light_rail",1999
+59,"TVV",39.5121926,-0.4246728,"light_rail",1999
+60,"Santa Gemma - Parc Científic UV",39.5152106,-0.4224569,"light_rail",2005
+61,"Tomás y Valiente",39.5197257,-0.4257092,"light_rail",2005
+62,"Tomás y Valiente",39.5197183,-0.4256414,"light_rail",2005
+63,"Santa Gemma - Parc Científic UV",39.5151925,-0.4224235,"light_rail",2005
+64,"Lloma Llarga - Terramelar",39.5099157,-0.4304064,"light_rail",2005
+65,"La Coma",39.5215753,-0.4317286,"light_rail",2005
+66,"Mas del Rosari",39.5249934,-0.4354917,"light_rail",2005
+67,"La Coma",39.5215773,-0.4316738,"light_rail",2005
+68,"Mas del Rosari",39.5249353,-0.4358576,"light_rail",2005
+69,"Alameda",39.4731774,-0.3660657,"heavy_rail",1995
+70,"Facultats",39.4780954,-0.3619063,"heavy_rail",1995
+71,"Machado",39.492542,-0.3585187,"heavy_rail",1995
+72,"Machado",39.4925313,-0.3584794,"heavy_rail",1995
+73,"Facultats",39.4780842,-0.3618758,"heavy_rail",1995
+74,"Benimaclet",39.4848153,-0.3623692,"heavy_rail",1995
+75,"Benimaclet",39.4848032,-0.3623338,"heavy_rail",1995
+76,"Alameda",39.4731523,-0.3660492,"heavy_rail",1995
+77,"Alboraya-Palmaret",39.4963613,-0.3553391,"heavy_rail",1995
+78,"Alboraya-Palmaret",39.4962566,-0.3552765,"heavy_rail",1995
+79,"Alboraya-Peris Aragó",39.5009753,-0.3524746,"heavy_rail",0
+80,"Alboraya-Peris Aragó",39.5009457,-0.3523353,"heavy_rail",0
+81,"Almàssera",39.5121626,-0.3540392,"heavy_rail",0
+82,"Almàssera",39.5121518,-0.3540747,"heavy_rail",0
+83,"Meliana",39.5278419,-0.351667,"heavy_rail",0
+84,"Meliana",39.5278271,-0.3517014,"heavy_rail",0
+85,"Foios",39.5374072,-0.3535939,"heavy_rail",0
+86,"Foios",39.5373967,-0.3535605,"heavy_rail",0
+87,"Albalat dels Sorells",39.5453199,-0.3481362,"heavy_rail",0
+88,"Albalat dels Sorells",39.5453298,-0.3481785,"heavy_rail",0
+89,"Museros",39.5617685,-0.3405258,"heavy_rail",0
+90,"Museros",39.5617443,-0.3404999,"heavy_rail",0
+91,"La Pobla de Farnals",39.5787776,-0.330168,"heavy_rail",0
+92,"Massamagrell",39.570336,-0.3328805,"heavy_rail",0
+93,"Massamagrell",39.5703247,-0.3328508,"heavy_rail",0
+94,"Rafelbunyol",39.5878432,-0.3307401,"heavy_rail",0
+95,"Rafelbunyol",39.58782,-0.3307053,"heavy_rail",0
+96,"Aragón",39.4723986,-0.3574556,,2003
+97,"Colón",39.4701604,-0.37068,"heavy_rail",1998
+98,"Amistat-Casa de Salud",39.4704101,-0.3506684,,0
+99,"Ayora",39.4672689,-0.3429806,,2003
+100,"Alameda",39.4730577,-0.3659833,"heavy_rail",2003
+101,"Colón",39.4700917,-0.3706116,"heavy_rail",1998
+102,"Aragón",39.4723687,-0.3574713,,2003
+103,"Amistat-Casa de Salud",39.4703713,-0.3506966,,0
+104,"Ayora",39.4672617,-0.343044,,2003
+105,"Alameda",39.4730338,-0.3659631,"heavy_rail",2003
+106,"Xàtiva",39.4675606,-0.3770384,"heavy_rail",0
+107,"Xàtiva",39.4675605,-0.3770388,"heavy_rail",1998
+108,"Avinguda del Cid",39.4686059,-0.3977789,"heavy_rail",1998
+109,"Nou d'Octubre",39.4709499,-0.4076018,"heavy_rail",0
+110,"Mislata-Almassil",39.4755852,-0.4230081,"heavy_rail",0
+111,"Mislata",39.473657,-0.4171009,"heavy_rail",0
+112,"Àngel Guimerà",39.4701867,-0.3861929,,1998
+113,"Avinguda del Cid",39.4684802,-0.3978375,"heavy_rail",1998
+114,"Nou d'Octubre",39.4709157,-0.4076351,"heavy_rail",0
+115,"Mislata",39.4736142,-0.4171429,,0
+116,"Mislata-Almassil",39.4755382,-0.4230558,"heavy_rail",0
+117,"Àngel Guimerà",39.4701156,-0.3862025,,1998
+118,"Àngel Guimerà",39.4701256,-0.3849368,"heavy_rail",1988
+119,"Beniferri",39.4908716,-0.3994139,,1988
+120,"Campanar",39.4835377,-0.3941308,"heavy_rail",1988
+121,"Túria",39.4783188,-0.3903513,"heavy_rail",1988
+122,"Plaça d'Espanya",39.4662906,-0.382174,,1988
+123,"Àngel Guimerà",39.4701258,-0.384885,"heavy_rail",1988
+124,"Túria",39.478312,-0.3902909,"heavy_rail",1988
+125,"Campanar",39.4835611,-0.3940842,"heavy_rail",1988
+126,"Beniferri",39.4908847,-0.399376,,1988
+127,"Plaça d'Espanya",39.4663163,-0.3821265,,1988
+128,"Rosas",39.4927132,-0.4671762,"heavy_rail",2007
+129,"Manises",39.4896003,-0.4594018,"heavy_rail",0
+130,"Salt de l'Aigua",39.4853496,-0.4504124,"heavy_rail",2007
+131,"Quart de Poblet",39.480943,-0.4419612,"heavy_rail",2007
+132,"Faitanar",39.477628,-0.4331775,"heavy_rail",
+133,"Faitanar",39.4775519,-0.4332243,"heavy_rail",0
+134,"Salt de l'Aigua",39.4852904,-0.4504632,"heavy_rail",2007
+135,"Quart de Poblet",39.4808866,-0.4420386,"heavy_rail",2007
+136,"Manises",39.4895294,-0.4594511,"heavy_rail",0
+137,"Rosas",39.4926442,-0.4672163,"heavy_rail",2007
+138,"Aeroport",39.492745,-0.4743525,"heavy_rail",2007
+139,"La Cova",39.498923,-0.4844378,"heavy_rail",0
+140,"La Cova",39.4988939,-0.4844462,"heavy_rail",0
+141,"La Presa",39.5171834,-0.5159238,"heavy_rail",0
+142,"La Presa",39.5171641,-0.5159493,"heavy_rail",0
+143,"Riba-roja de Túria",39.5432765,-0.5594314,"heavy_rail",0
+144,"Masía de Traver",39.538228,-0.5467464,"heavy_rail",0
+145,"Masia de Traver",39.5382008,-0.5467618,"heavy_rail",0
+146,"Marítim - Serrería",39.4650038,-0.3387743,"heavy_rail",2007
+147,"Marítim - Serrería",39.4648349,-0.3385057,"light_rail",2007
+148,"Empalme",39.4995228,-0.4021602,"heavy_rail",1988
+149,"Empalme",39.4995454,-0.4021325,"heavy_rail",1988
+150,"Burjassot",39.5084062,-0.4067547,,0
+151,"Cantereria",39.5024673,-0.4112711,"heavy_rail",0
+152,"Cantereria",39.5024955,-0.4112616,"heavy_rail",0
+153,"Burjassot",39.5084257,-0.4067254,,0
+154,"Benimàmet",39.5017998,-0.4190193,"heavy_rail",0
+155,"Les Carolines-Fira",39.4992764,-0.4245076,"heavy_rail",0
+156,"Benimàmet",39.5018986,-0.4190148,"heavy_rail",0
+157,"Les Carolines-Fira",39.4993681,-0.4245966,"heavy_rail",0
+158,"Paterna",39.4986883,-0.4418764,"heavy_rail",0
+159,"Campament",39.4958186,-0.43534,"heavy_rail",0
+160,"Paterna",39.4987148,-0.4418653,"heavy_rail",0
+161,"Campament",39.4958513,-0.4353497,"heavy_rail",0
+162,"Santa Rita",39.5058752,-0.4553761,"heavy_rail",0
+163,"Fuente del Jarro",39.5112317,-0.464013,"heavy_rail",0
+164,"Fuente del Jarro",39.5112525,-0.4639948,"heavy_rail",0
+165,"La Vallesa",39.5380838,-0.4983045,"heavy_rail",0
+166,"La Canyada",39.5268107,-0.4870626,"heavy_rail",0
+167,"Entrepins",39.5432681,-0.5140321,"heavy_rail",0
+168,"Entrepins",39.5432451,-0.5140235,"heavy_rail",0
+169,"El Clot",39.5498966,-0.5280533,"heavy_rail",0
+170,"Montesol",39.5554539,-0.5316683,"heavy_rail",0
+171,"El Clot",39.5498892,-0.5280895,"heavy_rail",0
+172,"Montesol",39.5554792,-0.5317241,"heavy_rail",0
+173,"L'Eliana",39.5616678,-0.5359533,"heavy_rail",0
+174,"L'Eliana",39.5616622,-0.5359919,"heavy_rail",0
+175,"Torre del Virrei",39.568928,-0.5421003,"heavy_rail",0
+176,"La Pobla de Vallbona",39.5822985,-0.5617538,"heavy_rail",0
+177,"La Pobla de Vallbona",39.582271,-0.5617778,"heavy_rail",0
+178,"Benaguasil 1r",39.5927506,-0.5781953,"heavy_rail",0
+179,"Benaguasil 1r",39.5927694,-0.578175,"heavy_rail",0
+180,"Benaguasil 2n",39.5990818,-0.5841349,"heavy_rail",0
+181,"Benaguasil 2n",39.5990632,-0.5841662,"heavy_rail",0
+182,"Llíria",39.622492,-0.5905604,"heavy_rail",0
+183,"Tossal del Rei",39.4958358,-0.3724161,"light_rail",2007
+184,"Sant Miquel dels Reis",39.4976403,-0.3698942,"light_rail",2007
+185,"Estadi del Llevant",39.49504,-0.3651801,"light_rail",2007
+186,"Orriols",39.4931609,-0.3675323,"light_rail",2007
+187,"Alfauir",39.4897091,-0.3654241,"light_rail",2007
+188,"Sant Miquel dels Reis",39.4976694,-0.3698819,"light_rail",2007
+189,"Tossal del Rei",39.4958466,-0.3724493,"light_rail",2007
+190,"Estadi del Llevant",39.4950153,-0.365156,"light_rail",2007
+191,"Orriols",39.4931374,-0.3675034,"light_rail",2007
+192,"Alfauir",39.4896858,-0.3654009,"light_rail",2007
+193,"Bailén",39.4635732,-0.3793848,"heavy_rail",2005
+194,"Bailén",39.4635358,-0.3792695,"heavy_rail",2005
+195,"Safranar",39.455039,-0.3978542,"heavy_rail",1988
+196,"Patraix",39.4564794,-0.3904023,"heavy_rail",1988
+197,"Jesús",39.4593758,-0.3846576,"heavy_rail",1988
+198,"Safranar",39.4550113,-0.3978354,"heavy_rail",1988
+199,"Patraix",39.4564503,-0.3904183,"heavy_rail",1988
+200,"Jesús",39.4593482,-0.3846397,"heavy_rail",1988
+201,"Sant Isidre",39.4506254,-0.4030134,"heavy_rail",0
+202,"Sant Isidre",39.4506068,-0.4029879,"heavy_rail",0
+203,"València Sud",39.4408244,-0.4105275,"heavy_rail",0
+204,"València Sud",39.4408122,-0.4104942,"heavy_rail",0
+205,"Paiporta",39.4322519,-0.4182835,"heavy_rail",0
+206,"Paiporta",39.4322123,-0.4182573,"heavy_rail",0
+207,"Picanya",39.4331132,-0.4371415,"heavy_rail",0
+208,"Picanya",39.4330892,-0.4371487,"heavy_rail",0
+209,"Torrent",39.4360604,-0.4607984,"heavy_rail",0
+210,"Torrent",39.4360478,-0.460761,"heavy_rail",0
+211,"Torrent Avinguda",39.4314053,-0.4722157,"heavy_rail",2004
+212,"Torrent Avinguda",39.4313245,-0.4723364,"heavy_rail",2004
+213,"Col·legi El Vedat",39.4114616,-0.4601744,"heavy_rail",0
+214,"Realón",39.3939819,-0.4639431,"heavy_rail",0
+215,"Sant Ramon",39.3842749,-0.4673148,"heavy_rail",0
+216,"Realón",39.3939868,-0.4639799,"heavy_rail",0
+217,"Picassent",39.3630515,-0.4647938,"heavy_rail",0
+218,"Picassent",39.3630556,-0.4648291,"heavy_rail",0
+219,"Omet",39.353213,-0.4736462,"heavy_rail",0
+220,"Espioca",39.3265079,-0.4686462,"heavy_rail",0
+221,"Font Almaguer",39.2893687,-0.4644025,"heavy_rail",0
+222,"Font Almaguer",39.2893669,-0.464365,"heavy_rail",0
+223,"Ausiàs March",39.2495438,-0.4919445,"heavy_rail",0
+224,"Alginet",39.2629223,-0.475039,"heavy_rail",0
+225,"Alginet",39.2629396,-0.4750824,"heavy_rail",0
+226,"Benimodo",39.216531,-0.5194496,"heavy_rail",0
+227,"Carlet",39.2275705,-0.525205,"heavy_rail",0
+228,"Carlet",39.2275734,-0.5252367,"heavy_rail",0
+229,"L'Alcúdia",39.1931884,-0.5102484,"heavy_rail",0
+230,"L'Alcúdia",39.1931909,-0.5102825,"heavy_rail",0
+231,"Montortal",39.1743341,-0.5156401,"heavy_rail",0
+232,"Massalavés",39.1441594,-0.518408,"heavy_rail",0
+233,"Alberic",39.1170067,-0.5236343,"heavy_rail",0
+234,"Alberic",39.1170177,-0.5236708,"heavy_rail",0
+235,"Villanueva de Castellón",39.0807248,-0.5133481,"heavy_rail",0
+236,"Russafa",39.4641083,-0.3694827,,
+237,"Amado Granell-Montolivet",39.4593675,-0.3651681,,
+238,"Russafa",39.4640762,-0.3695396,,2022
+239,"Alacant",39.4648977,-0.3774505,,
+240,"Alacant",39.4648888,-0.3774058,,2022
+241,"Amado Granell-Montolivet",39.4593531,-0.3652109,,2022
+242,"Quatre Carreres",39.4524049,-0.3602028,,
+243,"Quatre Carreres",39.4523931,-0.3602358,,2022
+244,"L'Oceanogràfic",39.4519522,-0.3473811,,
+245,"L'Oceanogràfic",39.4519216,-0.3473791,,2022
+246,"Ciutat Arts i Ciències - Justícia",39.452715,-0.3532882,,2022
+247,"Ciutat Arts i Ciències - Justícia",39.4526655,-0.3533228,,
+248,"Ciutat Arts i Ciències - Justícia",39.4527625,-0.3533541,,
+249,"Moreres",39.4499696,-0.3384552,,
+250,"Moreres",39.4500012,-0.3384756,,2022
+251,"Natzaret",39.4499309,-0.3347644,,2022
+252,"Natzaret",39.4498751,-0.3347839,,

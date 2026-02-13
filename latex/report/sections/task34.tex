@@ -1,0 +1,93 @@
+\chapter[How heterogeneity affects generosity]{How heterogeneity affects generosity\\\large A game-theory on networks perspective}
+%
+\resp{Quaglio Emanuele}
+
+\section{Ultimatum Game with co-evolving strategies on a graph}
+
+%\usepackage[a4paper,margin=1in]{geometry}
+%\usepackage{amsmath,amssymb}
+%\usepackage{microtype}
+
+
+\newcommand{\Ind}{\mathbf{1}}
+
+%When simulating the dynamics of sociophysics models on complex networks, local interactions can yield collective outcomes that differ strongly from those expected in well-mixed populations. In the context of game simulations, stable strategies can emerge that are far from the Nash equilibrium.
+
+Simulating evolutionary game dynamics on networks \cite{Hofbauer2003} requires defining local payoffs as functions of the node strategies, and update rules for these strategies as functions of the payoffs. In this work I study how \emph{generosity} and \emph{cooperation} are affected by heterogeneity both in the network topology and in the population of update rules.
+
+In particular, in the Ultimatum Game (UG) on a network, each agent $i$ carries two continuous strategy parameters $(p_i, q_i) \in [0,1]^2$, respectively offer and acceptance threshold.
+
+Playing in both directions, offers are accepted if $p_i \ge q_j$. Payoffs are then accumulated over neighbors: $\Pi_i \;=\; \sum_{j \in \Gamma_i}\Big[ \Ind(p_i \ge q_j)(1-p_i) \;+\; \Ind(p_j \ge q_i)p_j \Big]$, where $\Gamma_i$ is the neighbor set of node $i$, following \cite{Sinatra_2009}.
+
+On top of strategy evolution, mimicking the method applied by \cite{Cardillo_2010} on a different game, I study heterogeneous evolutionary update rules: nodes may update their strategy by different rules, and the update rule itself can spread/transform.
+
+The rules from \cite{Cardillo_2010} are:
+\begin{itemize}
+  \item \textbf{Replicator (REP):} pick a random neighbor $j$. If $\Pi_j > \Pi_i$, copy $(p_j,q_j,\mathrm{rule}_j)$ with probability $\Pr(i \leftarrow j)=\frac{\Pi_j - \Pi_i}{2\max(k_i, k_j)}$.
+
+  \item \textbf{Unconditional Imitation (UI):} if the neighbor with maximum payoff exceeds $\Pi_i$, copy that neighbor's $(p,q,\mathrm{rule})$.
+
+  \item \textbf{Moran-like (MOR):} copy $(p,q,\mathrm{rule})$ from a neighbor sampled with probability proportional to its payoff.
+
+\end{itemize}
+
+Additionally, \cite{Sinatra_2009} applies \textbf{Social-Penalty (SP):} re-randomize the closed neighborhood of the node that has globally minimal payoff.
+
+To study the effect of degree heterogeneity, a good choice is the parametric model by G\'omez-Garde\~nes--Moreno \cite{Gomez-Gardenez_Moreno_2006}, used by \cite{Cardillo_2010}, which interpolates between scale-free (BA-like) behavior and homogeneous (ER-like) behavior with a parameter $\alpha \in [0,1]$ proportional to homogeneity.
+
+\section{Methods and Results}
+
+\paragraph{Synthetic network generation.} I implement the model proposed by \cite{Gomez-Gardenez_Moreno_2006} in the following way:
+\begin{enumerate}
+  \item Start from an empty graph on $N$ nodes.
+  \item Create an initial clique of size $m_0$.
+  \item For each new node $i = m_0+1,\dots,N$, add $m$ edges and:
+  \begin{itemize}
+    \item with probability $\alpha$: attach to a uniformly random node,
+    \item with probability $1-\alpha$: attach preferentially $\propto k$.
+  \end{itemize}
+  \item During (3), enforce a simple graph (no self-loops / multi-edges).
+\end{enumerate}
+
+\paragraph{Ultimatum Game implementation.} Since convergence of the evolutionary dynamics could require a large number of generations, maximum speed is obtained by employing \texttt{Rcpp} instead of plain \texttt{R}. The UG round-robins are implemented by looping over the edges, computing an outcome in both directions.
+
+\paragraph{Co-evolution of update rules.} In the explored settings, update rules are expected to change the state of a given node as a (non-linear, possibly stochastic) function of its neighborhood; thus, looping over nodes and quickly accessing their connections becomes necessary. For this reason I decide to implement the co-evolution step in \texttt{Rcpp} using CSR format for the adjacency matrix. Initialization is uniformly random from a set of rules.
+
+\paragraph{Co-evolutionary Social-Penalty variant.} I modify the SP implementation in \cite{Sinatra_2009} to suit the co-evolutionary settings of \cite{Cardillo_2010}. Indeed, I want the update of a node to only be influenced by the update rule of the node itself. In standard SP, all neighbors are affected\cite{bak_sneppen_1993}; instead, my variant:
+\begin{enumerate}
+  \item Finds the node $i_{\min}$ with minimum payoff $\min_i \Pi_i$.
+  \item For nodes in $\Gamma[i_{\min}] = \{i_{\min}\}\cup \Gamma(i_{\min})$ \textbf{that currently have rule SP}: re-randomizes $(p,q,\mathrm{rule})$ by uniform sampling.
+\end{enumerate}
+
+\paragraph{Preliminary analysis.} Networks with $100$, $1000$, $10000$, and $100000$ nodes are tested to verify that even smaller sizes manifest a qualitatively similar behaviour to their larger counterparts. This permits using reduced sizes to check simulations up to $10^8$ generations for the SP update rule, characterized by slow convergence to the limiting distribution. This allows me to choose size and time-length reasonably low, though still sufficient to qualitatively reproduce the main findings of \cite{Sinatra_2009} and \cite{Cardillo_2010}.
+
+\paragraph{Combinatorial analysis.} I explore the $(\alpha,\mathrm{rule})$ space cumulating statistics over 100 instances per configuration. The following quantities are stored:
+\begin{itemize}
+  \item degrees $k_i$;
+  \item $p_i, q_i, \mathrm{rule}_i$ at multiple generations over the time-length of the simulation;
+  \item rule--rule edge endpoints at the final generation;
+\end{itemize}
+and the following summaries are computed:
+\begin{itemize}
+  \item mean final offer per degree $\operatorname{E}[p|k]$;
+  \item mean and standard deviation of $p$ per rule over time $\operatorname{E}[p|\texttt{rule}]_t$, $\sqrt{\operatorname{Var}[p|\texttt{rule}]}_t$;
+  \item rule abundance fractions over time $\operatorname{P}(rule)_t$;
+  \item neighbor-rule joint distribution $\operatorname{P}(\mathrm{rule}_i,\mathrm{rule}_j)$ over edges.
+\end{itemize}
+
+\paragraph{Results.}The results confirm and extend the findings in \cite{Sinatra_2009} and \cite{Cardillo_2010} that:
+\begin{itemize}
+  \item degree heterogeneity positively affects mean offer $p$;
+  \item the Social-Penalty rule has the greatest effect in increasing offer;
+  \item compared to the Replicator rule alone, heterogeneous mixtures of update rules increase offer even without SP;
+  \item for all $\alpha$ and all rule sets without SP, strategies with $q_i > p_i$ are strongly disfavoured, while SP dynamics preserve very greedy, low-offer/high-acceptance-threshold strategies.
+\end{itemize}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.98\linewidth]{figures/task34/grid_final_p_N_1000.png}
+    \caption{\textbf{Effect of heterogeneity on generosity:} distributions of offer $p$ over $100$ instances of networks of size $N=1000$, under different degree heterogeneity $1-\alpha$, and different initial populations of update-rules (0: REP, 1: UI, 2: MOR, 3: SP).}
+    \label{fig:grid_final_p_over_alpha_and_rulesets}
+\end{figure}
+
+\newpage

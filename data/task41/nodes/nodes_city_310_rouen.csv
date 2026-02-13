@@ -1,0 +1,59 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Hôtel de ville de Sotteville",49.4141716,1.0902333,"light_rail",1994
+2,"14-Juillet",49.4091951,1.0832036,"light_rail",1997
+3,"Garibaldi",49.4188601,1.0908144,"light_rail",1994
+4,"Jean Zay",49.4041892,1.084389,"light_rail",1997
+5,"Champ de Courses",49.4014228,1.0758883,"light_rail",1997
+6,"Ernest Renan",49.3983988,1.0729689,"light_rail",1997
+7,"Le Parc",49.395354,1.0693817,"light_rail",1997
+8,"Maryse Bastié",49.3919501,1.0700808,"light_rail",1997
+9,"Honoré de Balzac",49.4260842,1.0868742,"light_rail",1994
+10,"Europe",49.427964,1.0815621,"light_rail",1994
+11,"Technopôle",49.3867991,1.070826,,1997
+12,"Toit Familial",49.4012346,1.081543,"light_rail",1997
+13,"Voltaire",49.4230821,1.0890324,"light_rail",1994
+14,"Voltaire",49.423083,1.0890772,,0
+15,"Toit Familial",49.4012171,1.0815743,"light_rail",1997
+16,"Technopôle",49.3867975,1.0708659,"light_rail",1997
+17,"Europe",49.4284657,1.0808541,"light_rail",1994
+18,"Champ de Courses",49.4013991,1.075883,"light_rail",1997
+19,"Ernest Renan",49.3983718,1.072967,"light_rail",1997
+20,"Garibaldi",49.4188671,1.090853,"light_rail",1994
+21,"Honoré de Balzac",49.4261117,1.0868946,"light_rail",1994
+22,"Hôtel de ville de Sotteville",49.414154,1.0902619,"light_rail",1994
+23,"Jean Zay",49.4042094,1.0844147,"light_rail",1997
+24,"Le Parc",49.3953503,1.0694288,"light_rail",1997
+25,"Maryse Bastié",49.3919431,1.0701192,"light_rail",1997
+26,"14-Juillet",49.4091843,1.0832446,"light_rail",1997
+27,"Georges Braque",49.4005384,1.0423639,"light_rail",1994
+28,"Georges Braque",49.4005206,1.042278,"light_rail",1994
+29,"Saint-Sever",49.4312383,1.0814665,"light_rail",1994
+30,"Saint-Sever",49.4312152,1.0814768,"light_rail",1994
+31,"Joffre-Mutualité",49.4353078,1.0866304,"light_rail",1994
+32,"Joffre-Mutualité",49.4352976,1.0866693,"light_rail",1994
+33,"Beauvoisine",49.448454,1.1003294,"light_rail",1994
+34,"Théâtre des Arts",49.4398904,1.0892998,"light_rail",1994
+35,"Palais de Justice",49.4426718,1.090957,"light_rail",1994
+36,"Palais de Justice",49.4426808,1.0909169,"light_rail",1994
+37,"Gare Rue Verte",49.4484538,1.0945547,"light_rail",1994
+38,"Beauvoisine",49.448441,1.1003219,"light_rail",1994
+39,"Théâtre des Arts",49.439882,1.089355,"light_rail",1994
+40,"Gare Rue Verte",49.4484382,1.0945675,"light_rail",1994
+41,"Boulingrin",49.4470306,1.105098,"light_rail",1994
+42,"Boulingrin",49.4470058,1.1050799,"light_rail",1994
+43,"Théâtre des Arts",49.4399861758687,1.09007693271863,"brt",2001
+44,"Mont-Riboudet",49.4490441070247,1.06423972824254,"brt|bus",2001
+45,"Pissarro",49.4554354468517,1.03419232908468,"brt",2001
+46,"Monet",49.4573183931099,1.03618099420999,"brt",2001
+47,"CHU Charles Nicolle",49.4393017429338,1.10989264020358,"brt",2001
+48,"Mairie - V. Schoelcher",49.4881539663031,1.04884295474267,"brt",
+49,"Mont aux Malades",49.4660653457651,1.07143468702876,"brt",2002
+50,"Tamarelle",49.4616977627151,1.13167693909253,"brt",2007
+51,"Deux-Rivières",49.4403798090231,1.12787383186543,,2007
+52,"Durécu-Lavoisier",49.4427649160619,1.14989826505016,"brt",2007
+53,"République",49.439135752664,1.09692020500697,,2001
+54,"Stade Diochon",49.412250751697,1.07286503259866,"brt|bus",2014
+55,"Belges",49.4416776596946,1.08258533739161,"brt",2001
+56,"Marie Curie - MTC",49.4379041443103,1.11990027395891,,
+57,"Zénith - Parc Expo",49.3888892492856,1.05599203459784,"brt|bus",2019
+58,"Tourville",49.3306844295653,1.09568025351257,"bus",

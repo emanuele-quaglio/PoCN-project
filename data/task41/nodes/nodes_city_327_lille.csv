@@ -1,0 +1,36 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Lille Flandres",50.6375025,3.0708018,"light_rail",1909
+2,"Gare Lille Europe",50.6400192,3.0739987,"light_rail",1909
+3,"Gare Lille Europe",50.6399986,3.0739372,"light_rail",1909
+4,"Arrêt de tram Romarin (dir.Lille Flandres)",50.645438,3.0750494,"light_rail",1909
+5,"Arrêt de tram Romarin (dir.Tourcoing/Roubaix)",50.6459447,3.0756211,"light_rail",1909
+6,"Phalempins",50.7323439,3.1576346,"heavy_rail",2000
+7,"13139",50.717284,3.1626462,"heavy_rail",1999
+8,"Tourcoing Centre",50.7209577,3.1600924,"heavy_rail",1999
+9,"Colbert",50.7258472,3.1565704,"heavy_rail",2000
+10,"13142",50.7394825,3.1796544,"heavy_rail",2000
+11,"C.H. Dron",50.7434032,3.180859,"heavy_rail",2000
+12,"Gare Lille - Flandres",50.6374689,3.0710152,"heavy_rail",1983
+13,"Mairie de Lille",50.6328076,3.0706587,"heavy_rail",1989
+14,"Gare Lille - Flandres",50.6373662,3.0710791,"heavy_rail",1989
+15,"13147",50.6372948,3.0712173,"heavy_rail",1983
+16,"13148",50.6423001,3.0887019,"heavy_rail",1995
+17,"13149",50.6302893,3.0975442,"heavy_rail",1983
+18,"Villeneuve d'Ascq Hôtel de Ville",50.6191147,3.1307386,"heavy_rail",1983
+19,"Villeneuve d'Ascq Hôtel de Ville",50.6191838,3.1308523,"heavy_rail",1983
+20,"Porte des Postes",50.6184476,3.0501806,"heavy_rail",1984
+21,"Wazemmes",50.6234558,3.0515983,"heavy_rail",1984
+22,"13154",50.6316357,3.0608677,"heavy_rail",1983
+23,"Cormontaigne",50.6262355,3.0402998,,0
+24,"Porte des Postes",50.6184387,3.0502802,"heavy_rail",1989
+25,"13157",50.6220789,3.0455127,"heavy_rail",1989
+26,"13158",50.6262287,3.0403082,"heavy_rail",1989
+27,"13159",50.629911,3.0357796,"heavy_rail",1989
+28,"13160",50.6339259,3.030842,"heavy_rail",1989
+29,"13161",50.6443751,3.0139024,"heavy_rail",1989
+30,"13162",50.645574,2.9851942,"heavy_rail",1989
+31,"13163",50.6463068,2.9952327,"heavy_rail",1989
+32,"13164",50.6467576,3.0074105,,0
+33,"13165",50.6420731,3.099278,"heavy_rail",1995
+34,"13166",50.6420965,3.1100713,"heavy_rail",1995
+35,"13167",50.6698786,3.1313678,"heavy_rail",1999

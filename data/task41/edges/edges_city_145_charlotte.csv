@@ -1,0 +1,7 @@
+"nodeID_from","nodeID_to","mode","line","year"
+23,26,"light_rail","2089-lynx-blue-line",2018
+15,23,"light_rail","2089-lynx-blue-line",2018
+1,15,"light_rail","2089-lynx-blue-line",2007
+31,33,"tram","2090-lynx-gold-line",2021
+14,42,"tram","2090-lynx-gold-line",2021
+14,31,"tram","2090-lynx-gold-line",2015

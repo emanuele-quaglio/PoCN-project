@@ -1,0 +1,6 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,6,"heavy_rail","4738-red-line",1981
+5,6,"heavy_rail","4738-red-line",1983
+5,8,"heavy_rail","4738-red-line",1985
+8,10,"heavy_rail","4739-shuttle",1996
+8,9,"heavy_rail","4738-red-line",1987

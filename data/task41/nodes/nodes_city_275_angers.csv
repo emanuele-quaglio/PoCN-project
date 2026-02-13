@@ -1,0 +1,69 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Bascule",47.5087978,-0.5916098,,0
+2,"Avrillé - Ardenne",47.5115745,-0.5960781,"light_rail",2011
+3,"Avrillé - Ardenne",47.5115928,-0.5960551,"light_rail",2011
+4,"Bascule",47.508751,-0.5916579,"light_rail",2011
+5,"Saint-Gilles",47.5065666,-0.5895201,"light_rail",2011
+6,"Saint-Gilles",47.5065875,-0.589468,"light_rail",2011
+7,"Capucins",47.4869526,-0.5551212,"light_rail",2011
+8,"Hauts de Saint-Aubin",47.4921925,-0.5605963,"light_rail",2011
+9,"Jean Moulin",47.4905451,-0.5521106,"light_rail",2011
+10,"Verneau",47.4924666,-0.56727,"light_rail",2011
+11,"Acacias",47.503713,-0.5863772,"light_rail",2011
+12,"Acacias",47.5037316,-0.5863345,"light_rail",2011
+13,"Bois du Roy",47.4996691,-0.5831547,"light_rail",2011
+14,"Bois du Roy",47.4996855,-0.5831251,"light_rail",2011
+15,"Plateau Mayenne",47.4958235,-0.5800448,"light_rail",2011
+16,"Plateau Mayenne",47.4958048,-0.5800795,"light_rail",2011
+17,"Terra Botanica",47.4941878,-0.5747714,"light_rail",2011
+18,"Terra Botanica",47.4942082,-0.5747989,"light_rail",2011
+19,"Verneau",47.4924949,-0.5672636,"light_rail",2011
+20,"Hauts de Saint-Aubin",47.4922204,-0.5605924,"light_rail",2011
+21,"Jean Moulin",47.4905368,-0.5520747,"light_rail",2011
+22,"Capucins",47.4869382,-0.5550856,"light_rail",2011
+23,"CHU-Hôpital",47.4814717,-0.5540423,"light_rail",2011
+24,"CHU Hôpital",47.4814654,-0.5539975,"light_rail",2011
+25,"Berges de Maine",47.4794654,-0.5495913,"light_rail",2011
+26,"Berges de Maine",47.4794987,-0.5495676,"light_rail",2011
+27,"Saint-Serge - Université",47.4768135,-0.5512707,"light_rail",2011
+28,"Saint-Serge - Université",47.4767977,-0.5512355,"light_rail",2011
+29,"Place Molière",47.4741799,-0.5546982,"light_rail",2011
+30,"Molière",47.4741956,-0.5546752,"light_rail",2011
+31,"Ralliement",47.4711714,-0.551633,"light_rail",2011
+32,"Ralliement",47.4711829,-0.5516108,"light_rail",2011
+33,"Foch - Haras",47.4668283,-0.5525889,"light_rail",2011
+34,"Foch - Maison Bleue",47.4690062,-0.5496766,"light_rail",2011
+35,"Foch - Haras",47.4668096,-0.5525632,"light_rail",2011
+36,"Foch - Maison Bleue",47.4689834,-0.5496426,"light_rail",2011
+37,"Les Gares",47.4645405,-0.5554409,"light_rail",2011
+38,"Les Gares",47.4645436,-0.5554057,"light_rail",2011
+39,"Place la Fayette",47.4608827,-0.5546546,"light_rail",2011
+40,"Strasbourg",47.4576045,-0.5541079,"light_rail",2011
+41,"Place la Fayette",47.4608791,-0.5547383,"light_rail",2011
+42,"Strasbourg",47.4567331,-0.5539441,"light_rail",2011
+43,"Strasbourg",47.4566548,-0.553975,"light_rail",2011
+44,"Bamako",47.4521986,-0.5563881,"light_rail",2011
+45,"Bamako",47.4521796,-0.5563519,"light_rail",2011
+46,"Jean XXIII",47.4486486,-0.5628069,"light_rail",2011
+47,"Jean Vilar",47.4449518,-0.562253,"light_rail",2011
+48,"Jean XXIII",47.448663,-0.5628363,"light_rail",2011
+49,"Angers - Roseraie",47.4438997,-0.5539623,"light_rail",2011
+50,"Belle-Beille Technopôle",47.478572753555,-0.60580761159639,"light_rail",2022
+51,"Lakanal",47.4761721402236,-0.599342934399033,"light_rail",2022
+52,"La Barre",47.4732447185186,-0.597728964589152,"light_rail",2022
+53,"Patton",47.4733963625758,-0.591814884148846,"light_rail",2022
+54,"Élysée",47.4735411700131,-0.586992145522288,"light_rail",2022
+55,"Montesquieu",47.4732290927052,-0.577840311885893,"light_rail",2022
+56,"Front-de-Maine",47.4716389378265,-0.567388052993692,"light_rail",2022
+57,"Doutre",47.4740698465829,-0.560794414486622,"light_rail",2022
+58,"Molière",47.4741806752257,-0.554677901800886,"light_rail",2022
+59,"Saint-Serge Université",47.4768212382591,-0.551231597486378,"light_rail",2022
+60,"Centre des Congrès",47.4742394034541,-0.546182493065658,"light_rail",2022
+61,"Bellefontaine",47.4712829464273,-0.537808673760424,"light_rail",2022
+62,"Montaigne",47.469027870195,-0.532273601658716,"light_rail",2022
+63,"Jérusalem",47.4753131730193,-0.528821523111446,"light_rail",2022
+64,"Brisépotière",47.4789566325106,-0.528217886043308,"light_rail",2022
+65,"Dunant",47.4837026965668,-0.526785362325626,"light_rail",2022
+66,"Place de l'Europe",47.4879032395774,-0.526788569538752,"light_rail",2022
+67,"Montplaisir",47.4909992201823,-0.527007881131198,"light_rail",2022
+68,"Hôtel de Ville",47.4718325578945,-0.546589931773298,"light_rail",2022

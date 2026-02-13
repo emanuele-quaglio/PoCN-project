@@ -1,0 +1,40 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Grand",38.6293963,-90.2350764,"light_rail",1993
+2,"Convention Center",38.6301509,-90.1891539,"light_rail",1993
+3,"8th & Pine",38.6278615,-90.1926746,"light_rail",1993
+4,"Forest Park-DeBaliviere",38.6477145,-90.2843028,"light_rail",1993
+5,"Cortex",38.6336362,-90.250947,"light_rail",2018
+6,"Stadium",38.6237022,-90.1943695,"light_rail",1993
+7,"Union Station",38.6265515,-90.2065985,"light_rail",1993
+8,"Civic Center",38.6245607,-90.2032189,"light_rail",1993
+9,"Central West End",38.6357697,-90.2617849,"light_rail",1993
+10,"Laclede's Landing",38.6293778,-90.1836148,"light_rail",1993
+11,"East Riverfront",38.6283724,-90.1741974,"light_rail",1994
+12,"5th & Missouri",38.6250725,-90.1593101,"light_rail",1993
+13,"Emerson Park",38.6285741,-90.1366793,"light_rail",2001
+14,"Wellston",38.6681312,-90.2982787,"light_rail",1993
+15,"UMSL South",38.7049293,-90.3050938,"light_rail",1993
+16,"Rock Road",38.6849163,-90.3013839,"light_rail",1993
+17,"Delmar Loop",38.6555389,-90.2945108,"light_rail",1993
+18,"UMSL North",38.7128302,-90.3061651,"light_rail",1993
+19,"North Hanley",38.7199274,-90.3151635,"light_rail",1993
+20,"Lambert Airport Terminal 2",38.7363108,-90.3563663,"light_rail",1998
+21,"Lambert Airport Terminal 1",38.7412154,-90.3646835,"light_rail",1994
+22,"Jackie Joyner-Kersee Center",38.6230867,-90.1240732,"light_rail",2001
+23,"Washington Park",38.6135414,-90.0947325,"light_rail",2001
+24,"Fairview Heights",38.5932553,-90.0476024,"light_rail",2001
+25,"Memorial Hospital",38.5575492,-90.0154085,"light_rail",2001
+26,"Swansea",38.535805,-89.9870002,"light_rail",2001
+27,"Belleville",38.5219649,-89.9746552,"light_rail",2001
+28,"College",38.5162932,-89.9196207,"light_rail",2001
+29,"Shiloh-Scott",38.5389501,-89.8790311,"light_rail",2003
+30,"Skinker",38.6492184,-90.2998348,"light_rail",2006
+31,"University City-Big Bend",38.6515304,-90.3145282,"light_rail",2006
+32,"Clayton",38.6456064,-90.3395981,"light_rail",2006
+33,"Forsyth",38.6490422,-90.3278888,"light_rail",2006
+34,"Richmond Heights",38.6351021,-90.3422334,"light_rail",2006
+35,"Brentwood I-64",38.6287044,-90.3380485,"light_rail",2006
+36,"Maplewood-Manchester",38.6143698,-90.3315126,"light_rail",2006
+37,"Sunnen",38.6078285,-90.3302595,"light_rail",2006
+38,"Shrewsbury-Lansdowne I-44",38.5934547,-90.3194096,"light_rail",2006
+39,"MidAmerica St. Louis Airport",38.5493004331325,-89.8132738043391,"light_rail",2026

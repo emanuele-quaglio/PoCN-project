@@ -1,0 +1,154 @@
+\chapter{Public transport in large cities worldwide}
+
+\resp{Quaglio Emanuele}
+
+\section{Dataset and framework}\label{dataset-and-framework}
+
+The dataset at \cite{citylines.co} report the
+development over time of public transportation networks (different modes
+and potentially different lines per mode) across a variety of cities
+around the world. I build for each city a node list (nodeID, nodeLabel, latitude, longitude, mode, year) and and edges list (nodeID\_from, nodeID\_to, mode, line, year). The data is essentially
+tabular, with entities Stations and Sections roughly corresponding to
+nodes and edges, plus additional tables for transportation lines,
+systems, and modes, and tables storing relationships between these
+entities. The data is geometric in nature: each station features a
+position, and each section features a polygonal chain. Position and
+chain are represented respectively as Point and LineString according to
+GeoJSON standard \cite{geoJSON}, based on \verb|(longitude, latitude)| coordinates following
+WGS 84 system. The schemas of the tables are the following: 
+\begin{itemize}
+ \item stations:
+id, name, geometry, buildstart, opening, closure, city\_id;
+ \item sections:
+id, geometry, buildstart, opening, closure, length, city\_id;
+ \item cities:
+id, name, coords, start\_year, url\_name, country, country\_state,
+length; 
+ \item lines: id, city\_id, name, url\_name, color, system\_id, transport\_mode\_id;
+ \item systems: id, city\_id, name, historic, length; -
+transport\_modes: id, name; 
+ \item section\_lines: id, section\_id, line\_id,
+created\_at, updated\_at, city\_id, fromyear, toyear,
+deprecated\_line\_group; 
+ \item station\_lines: id, station\_id, line\_id,
+city\_id, created\_at, updated\_at, fromyear, toyear,
+deprecated\_line\_group.
+\end{itemize}
+
+
+
+\section{Pipeline and preliminary
+analysis}\label{pipeline-and-preliminary-analysis}
+
+\subsection{From raw JSON to specified node/edge
+files.}\label{from-raw-json-to-specified-nodeedge-files.}
+
+\paragraph{Inspection and conversion.} 
+From an inspection of the JSON data
+files, I confirm they have columnar structure, so I decide to convert
+them into a more convenient tabular representation. I choose Parquet
+over CSV for type-preservation (since they are present in the original
+JSON) and higher speed / memory efficiency.
+
+\paragraph{Graph construction.} After filtering table rows by city, I
+define the desired fields for the nodes and edges files, skipping cities
+with no stations. 
+
+\paragraph{} For the nodes: 
+\begin{itemize}
+\item nodeLabel: use \texttt{name} field or
+(if not available) fallback to original ID; 
+\item nodeID: sort by original
+IDs and remap to dense indexes; 
+\item year: use \texttt{Stations.opening} of
+the station or (if not available) fallback to its earliest
+\texttt{station\_lines.fromyear}; 
+\item mode: in order not to lose or
+distort mode information, I preserve all the (sorted, unique) modes
+associated by joining \texttt{station\_lines}-\textgreater{}\texttt{lines}
+-\textgreater{}\texttt{transport\_modes}, concatenated. The idea is that
+for mixing analysis it'll be possible to convert it into a custom
+\texttt{multiple-modes} mode feature, to properly count edges that
+connect stations ``heterogeneously''. But at the same time, it will be
+still possible to do finer analysis (checking presence of a specific
+mode in the set obtained from splitting by \texttt{"\textbar{}"}
+separator).
+\end{itemize}
+
+\paragraph{} For the edges, I decide to \textbf{admit multigraphs} (and simplify them when necessary during analysis). Indeed, I identify them by both keys
+\texttt{section} and \texttt{line}. The motivation behind this choice is
+that I think it would be useful to be able to identify a station as a
+``hub'' when multiple lines depart from it, even when they share the
+same physical section (e.g. shared rails).
+\begin{itemize}
+\item line: use \verb|Lines.url_name| or fallback to \verb|Lines.name|; 
+\item year: use \verb|section_lines.fromyear| or fallback to \verb|Sections.opening|; 
+\item \verb|nodeID_from|, \verb|nodeID_to|: associate each
+section endpoint to a node based on the geometric procedure described
+below; furthermore, sort endpoint IDs and drop self-loops.
+\end{itemize}
+
+\paragraph{Edge-to-nodes snapping procedure.} 
+Each endpoint of a \texttt{section} is snapped to the \texttt{station} at minimal Haversine distance. To avoid spurious links due to noisy data, a section is kept
+only as long as said minimal distances are below a certain
+city-dependend threshold: 
+\begin{equation}
+thr_{city}=\min(\max(200m,\ d_{q99}),\ 1500m)  
+\end{equation}
+where $d_{q99}$ is the 99th percentile distance between endpoint and nearest station, distribution computed over all city section endpoints.
+The acceptance threshold is higher for cities where said minimal distances are generally higher (due to noisy data acquisition / more sparse transport system / etc\ldots), but can never be below 200m or above 1500m.
+
+\subsection{Sanity checks, filtering, global
+analysis.}\label{sanity-checks-filtering-global-analysis.}
+
+\paragraph{Preliminary global analysis.} To check the quality of the
+produced networks I follow these steps: 
+\begin{enumerate}
+\item I build per-city networks with \texttt{igraph}: both muligraphs and \emph{simplified} graphs. 
+\item I compute, per each city/network (mostly on the simplified graph), some
+relevant summary metrics, stored in \texttt{per\_city\_summary.csv}: number of nodes, number of edges of the simple
+    and the multigraph, density of the simple graph; mean degree of the
+    simple and the multigraph; number
+    of connected components, giant component fraction, global clustering
+    coefficient; mean, median, and 90th percentile distance, and diameter, of the LCC; number of communities and resulting modularity
+    after applying Louvain and Infomap method; mean and
+    max edge multiplicity of the multigraph.
+\item I generate and visualize across-cities
+distributions of said metrics. 
+\item To better inspect each global metrics
+and the underlying individual networks, I select some representative
+cities: in particular, those approximately located at the mean value, at
+the 10th percentile and at the 90th percentile of the across-cities
+distribution. This is done in order to have a glimpse of both the most
+typical and some more atypical networks, still neglecting fully
+pathological reconstructions. 
+\item Finally, I plot the simple and
+multigraph and the degree distribution of these representative cities.
+\end{enumerate}
+
+\paragraph{Pathology filtering.} Upon inspection, aided by the previous procedure, I observe that a
+substantial proportion of cities present a patological network
+reconstruction: the most common phenomenon is presence of very long
+edges connecting non-subsequent stations, in some cases just the first
+and last of a line. I suspect this could be caused by incomplete data on
+the sections \texttt{LineString}, by sections that weren't updated upon
+later introduction of new stops and stations, or simply by noisy
+geometric data. To partially amend this problem and reconstruct cleaner
+(although possibly biased) global statistics, I attempt filtering out
+this family of pathological networks by discarding networks with a mean
+degree lower than a certain threshold (since typical transport lines are
+made of linear chains of stops connected by hub stations). By setting
+this threshold to 1, more than 20\% of the cities are kept for further
+analysis, whose networks appear reasonably well reconstructed upon
+visual inspection.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.49\linewidth]{figures/task41/n_nodes_distribution.pdf}\hfill
+    \includegraphics[width=0.49\linewidth]{figures/task41/reference_cities_simple_graphs.pdf}
+    \caption{Left: size distribution of public transport networks across several cities in the world. The cities are filtered by mean degree $\geq 1$. Right: the reconstructed networks of Genoa, Vienna and Bordeaux, respectively representing the 10th percentile, mean, and 90th percentile of the global size distribution. Node size encodes degree, node color encodes community according to Louvain method.}
+    \label{fig:n_nodes_and_representatives}
+\end{figure}
+
+
+\newpage

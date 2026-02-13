@@ -1,0 +1,73 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Université",47.7335153,7.31518,"light_rail",2006
+2,"Palais des Sports",47.7374804,7.3192846,"light_rail",2006
+3,"Illberg",47.7321343,7.3104628,"light_rail",2006
+4,"Nations",47.7363163,7.3014066,"light_rail",2006
+5,"Coteaux",47.7349079,7.297603,"light_rail",2006
+6,"Bel Air",47.7332691,7.3040548,"light_rail",2006
+7,"Bel Air",47.7333283,7.3040447,"light_rail",2006
+8,"Université",47.7335337,7.3150966,"light_rail",2006
+9,"Nations",47.7363556,7.301338,"light_rail",2006
+10,"Coteaux",47.7348725,7.2975357,"light_rail",2006
+11,"Palais des Sports",47.7374878,7.3192467,"light_rail",2006
+12,"Illberg",47.7321231,7.3103712,"light_rail",2006
+13,"Daguerre",47.7425359,7.3243916,"commuter_rail|light_rail",2006
+14,"Zu Rhein",47.7434198,7.3172447,,0
+15,"Zu Rhein",47.7436692,7.3168405,,0
+16,"Daguerre",47.7425362,7.3243248,"commuter_rail|light_rail",2006
+17,"Mairie",47.7493034,7.3354873,"commuter_rail|light_rail",2006
+18,"Porte Haute",47.7466184,7.3318381,"commuter_rail|light_rail",2006
+19,"Tour Nessel",47.7450641,7.3286264,"commuter_rail|light_rail",2006
+20,"Mairie",47.7492857,7.335566,"commuter_rail|light_rail",2006
+21,"Porte Haute",47.7465908,7.3318742,"commuter_rail|light_rail",2006
+22,"Tour Nessel",47.7450366,7.3286489,"commuter_rail|light_rail",2006
+23,"Porte Jeune",47.74947,7.3403456,"commuter_rail|light_rail",2006
+24,"Nouveau Bassin",47.7595131,7.350892,"light_rail",2006
+25,"Nordfeld",47.7525817,7.3457765,"light_rail",2006
+26,"Porte Jeune",47.7495889,7.3400086,"commuter_rail|light_rail",2006
+27,"Lefebvre",47.7563294,7.3480486,"light_rail",2006
+28,"Grand Rex",47.7525359,7.3374253,"light_rail",2006
+29,"Cité Administrative",47.7562853,7.3360393,"light_rail",2006
+30,"Musée de l'Auto",47.7604066,7.3321713,"light_rail",2006
+31,"République",47.7460356,7.3413752,"commuter_rail|light_rail",2006
+32,"Grand Rex",47.7524625,7.3373826,"light_rail",2006
+33,"Cité Administrative",47.756208,7.3360271,"light_rail",2006
+34,"Musée de l'Auto",47.760324,7.3321947,"light_rail",2006
+35,"Porte Jeune",47.7496532,7.3400164,"light_rail",2006
+36,"Porte Jeune",47.749536,7.3403537,"light_rail",2006
+37,"République",47.7460139,7.3413292,"commuter_rail|light_rail",2006
+38,"Nouveau Bassin",47.7595625,7.3509912,"light_rail",2006
+39,"Nordfeld",47.7525767,7.3458494,"light_rail",2006
+40,"Lefebvre",47.7563367,7.3481109,"light_rail",2006
+41,"Gare Centrale",47.7428272,7.3431727,"commuter_rail|light_rail",2009
+42,"Gare Centrale",47.7428749,7.3431159,"light_rail",2006
+43,"Doller",47.7628396,7.3257784,"light_rail",2006
+44,"Doller",47.7628218,7.3257367,"light_rail",2006
+45,"Stade de Bourtzwiller",47.7674346,7.3219682,"light_rail",2006
+46,"Rattachement",47.7699067,7.3211542,"light_rail",2006
+47,"Stade de Bourtzwiller",47.7673784,7.3219549,"light_rail",2006
+48,"Rattachement",47.7697968,7.3211249,"light_rail",2006
+49,"Saint-Nazaire",47.7731049,7.3294567,"light_rail",2006
+50,"Saint-Nazaire",47.7731054,7.3295218,"light_rail",2006
+51,"Tuilerie",47.7709691,7.325504,"light_rail",2006
+52,"Tuilerie",47.7709699,7.3256214,"light_rail",2006
+53,"Châtaignier",47.7768391,7.3288397,"light_rail",2006
+54,"Châtaignier",47.7768178,7.3287963,"light_rail",2006
+55,"Dornach Gare",47.7462709,7.3092696,"commuter_rail|light_rail",2009
+56,"Dornach Gare",47.7464858,7.3088896,"commuter_rail|light_rail",2009
+57,"Musées",47.7502463,7.2982696,"commuter_rail|light_rail",2009
+58,"Musées",47.7500312,7.2986723,"commuter_rail|light_rail",2009
+59,"Lutterbach Gare",47.7580768,7.2764899,"commuter_rail|light_rail",2009
+60,"Lutterbach Gare",47.7580319,7.2764215,"commuter_rail|light_rail",2009
+61,"Graffenwald",47.7808089,7.2247805,"commuter_rail",2009
+62,"Graffenwald",47.7808371,7.2248085,"commuter_rail",2009
+63,"Cernay",47.8017761,7.1736641,"commuter_rail",2009
+64,"Cernay",47.8017403,7.1736592,"commuter_rail",2009
+65,"Vieux-Thann Z.I.",47.8020956,7.1326149,"commuter_rail",2009
+66,"Vieux-Thann Z.I.",47.802065,7.1326003,"commuter_rail",2009
+67,"Vieux-Thann",47.8057818,7.1194723,"commuter_rail",2009
+68,"Thann",47.809036,7.1070794,"commuter_rail",2009
+69,"Thann Centre",47.8099878,7.1010456,"commuter_rail",2009
+70,"Thann",47.8090694,7.1070899,"commuter_rail",2009
+71,"Thann Saint-Jacques",47.8132684,7.0934475,"commuter_rail",2009
+72,"Thann Saint-Jacques",47.8133343,7.09348,"commuter_rail",2009

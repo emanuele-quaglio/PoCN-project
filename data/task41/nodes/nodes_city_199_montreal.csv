@@ -1,0 +1,82 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Jean-Drapeau",45.5124696,-73.5332474,"heavy_rail",1967
+2,"Longueuil–Université-de-Sherbrooke",45.5249659,-73.5219729,"heavy_rail",1967
+3,"Laurier",45.5282239,-73.5886089,"heavy_rail",1966
+4,"Rosemont",45.5315669,-73.5974076,"heavy_rail",1966
+5,"Beaubien",45.5351456,-73.6045785,"heavy_rail",1966
+6,"Crémazie",45.5460864,-73.6388299,"heavy_rail",1966
+7,"Sauvé",45.5510299,-73.6562646,"heavy_rail",1966
+8,"Henri-Bourassa",45.5544766,-73.6681515,"heavy_rail",1966
+9,"Cartier",45.5598434,-73.6820184,"heavy_rail",2007
+10,"Montmorency",45.5582856,-73.7215259,"heavy_rail",2007
+11,"De la Concorde",45.5606846,-73.7095564,"heavy_rail",2007
+12,"Jean-Talon",45.5392329,-73.6138264,"heavy_rail",1966
+13,"Jarry",45.5432411,-73.6286581,"heavy_rail",1966
+14,"Sherbrooke",45.5186543,-73.568089,"heavy_rail",1966
+15,"Mont-Royal",45.5247175,-73.5814435,"heavy_rail",1966
+16,"Berri-UQAM",45.5154223440136,-73.5610024170777,"heavy_rail",1966
+17,"Champ-de-Mars",45.510082,-73.5564161,"heavy_rail",1966
+18,"Bonaventure",45.4982692,-73.5670909,"heavy_rail",1967
+19,"Square-Victoria-OACI",45.5020325,-73.5631239,"heavy_rail",1967
+20,"Place d’Armes",45.5060634,-73.5597607,"heavy_rail",1966
+21,"Lucien L'Allier",45.4949933,-73.5709676,"heavy_rail",1980
+22,"Atwater",45.4896787,-73.5863126,"heavy_rail",1966
+23,"Charlevoix",45.4783949,-73.5693747,"heavy_rail",1978
+24,"Jolicoeur",45.4567536,-73.5819831,"heavy_rail",1978
+25,"Monk",45.4510513,-73.5932034,"heavy_rail",1978
+26,"LaSalle",45.4709055,-73.5661442,"heavy_rail",1978
+27,"De l'Église",45.4628739,-73.5669594,"heavy_rail",1978
+28,"Angrignon",45.4462277,-73.603611,"heavy_rail",1978
+29,"Verdun",45.4593131,-73.5718358,"heavy_rail",1978
+30,"Lionel-Groulx",45.4825047,-73.5803077,"heavy_rail",1978
+31,"Guy-Concordia",45.4953505,-73.5798146,"heavy_rail",1966
+32,"Peel",45.5005644,-73.5750245,"heavy_rail",1966
+33,"McGill",45.5040687,-73.5715335,"heavy_rail",1966
+34,"Place-des-Arts",45.5080372,-73.5683367,"heavy_rail",1966
+35,"Saint-Laurent",45.5109236,-73.5648225,"heavy_rail",1966
+36,"Papineau",45.5240492,-73.5529443,"heavy_rail",1966
+37,"Beaudry",45.519546,-73.5571887,"heavy_rail",1966
+38,"Frontenac",45.5329932,-73.552479,"heavy_rail",1966
+39,"Viau",45.5612107,-73.547217,"heavy_rail",1976
+40,"Préfontaine",45.541717,-73.5542209,"heavy_rail",1976
+41,"Joliette",45.5468903,-73.5511268,"heavy_rail",1976
+42,"Assomption",45.5691651,-73.5472116,"heavy_rail",1976
+43,"Cadillac",45.5768391,-73.5467179,"heavy_rail",1976
+44,"Langelier",45.5827497,-73.5431832,"heavy_rail",1976
+45,"Radisson",45.5891558,-73.53942,"heavy_rail",1976
+46,"Honoré-Beaugrand",45.5964086,-73.5354197,"heavy_rail",1976
+47,"Pie IX",45.5542002,-73.5515006,"heavy_rail",1976
+48,"Georges-Vanier",45.488977,-73.5765137,"heavy_rail",1980
+49,"Place Saint-Henri",45.4771907,-73.5866584,"heavy_rail",1980
+50,"Vendôme",45.4739214,-73.6037345,"heavy_rail",1981
+51,"Villa-Maria",45.4796142,-73.6197379,"heavy_rail",1981
+52,"Snowdon",45.4863069,-73.6274954,"heavy_rail",1981
+53,"Université-de-Montréal",45.5034516,-73.6175641,"heavy_rail",1988
+54,"Côte-des-Neiges",45.4966415,-73.6234712,"heavy_rail",1988
+55,"Édouard-Montpetit",45.5101177556387,-73.6125614807044,"heavy_rail",1988
+56,"Acadie",45.5232203,-73.6237717,"heavy_rail",1988
+57,"Parc",45.5304337,-73.6244545,"heavy_rail",1987
+58,"De Castelnau",45.5352841,-73.6200292,"heavy_rail",1986
+59,"Fabre",45.5467272,-73.607922,"heavy_rail",1986
+60,"D’Iberville",45.5530778,-73.6022739,"heavy_rail",1986
+61,"Saint-Michel",45.559813,-73.5999419,"heavy_rail",1986
+62,"Outremont",45.5200867,-73.6149036,"heavy_rail",1988
+63,"Côte-Sainte-Catherine",45.4923068,-73.6328648,"heavy_rail",1982
+64,"Namur",45.4948911,-73.6529005,"heavy_rail",1984
+65,"Plamondon",45.4943764,-73.6378267,"heavy_rail",1982
+66,"De La Savane",45.5002999,-73.6616085,"heavy_rail",1984
+67,"Du Collège",45.5084157,-73.6729484,"heavy_rail",1984
+68,"Côte-Vertu",45.5142831,-73.6833019,"heavy_rail",1986
+69,"Gare Centrale de Montréal",45.5010531,-73.5683514,"light_rail",1943
+70,"McGill",45.5025768534273,-73.572318745156,"light_rail",
+71,"Du Quartier",45.4467377350419,-73.4334807160847,"light_rail",
+72,"Brossard",45.4379723545587,-73.430616275411,"light_rail",
+73,"Panama",45.464897652295,-73.4704276607642,"light_rail",
+74,"Île-des-Soeurs",45.470327564451,-73.5384195584823,"light_rail",
+75,"Griffintown–Bernard-Landry",45.4963673857578,-73.5587558775302,"light_rail",
+76,"Canora",45.5137773487327,-73.6340164974577,"light_rail",
+77,"Ville-de-Mont-Royal",45.5165310515093,-73.6434625889509,"light_rail",
+78,"Côte-de-Liesse",45.5218813050534,-73.6619548641127,"light_rail",
+79,"Montpellier",45.524753802772,-73.6720035092074,"light_rail",
+80,"Du Ruisseau",45.5289463583178,-73.6904819178858,"light_rail",
+81,"Bois-Franc",45.5219925574711,-73.7125602108028,"light_rail",

@@ -1,0 +1,172 @@
+
+============================
+File: Cities.json 
+Title: cities 
+n_fields: 8 
+fields:
+ - id
+ - name
+ - coords
+ - start_year
+ - url_name
+ - country
+ - country_state
+ - length
+
+type_names:
+ - id                        integer
+ - name                      text
+ - coords                    text
+ - start_year                integer
+ - url_name                  text
+ - country                   text
+ - country_state             text
+ - length                    integer
+
+============================
+File: Lines.json 
+Title: lines 
+n_fields: 7 
+fields:
+ - id
+ - city_id
+ - name
+ - url_name
+ - color
+ - system_id
+ - transport_mode_id
+
+type_names:
+ - id                        integer
+ - city_id                   integer
+ - name                      text
+ - url_name                  text
+ - color                     text
+ - system_id                 integer
+ - transport_mode_id         integer
+
+============================
+File: Section_lines.json 
+Title: section_lines 
+n_fields: 9 
+fields:
+ - id
+ - section_id
+ - line_id
+ - created_at
+ - updated_at
+ - city_id
+ - fromyear
+ - toyear
+ - deprecated_line_group
+
+type_names:
+ - id                        integer
+ - section_id                integer
+ - line_id                   integer
+ - created_at                timestamp without time zone
+ - updated_at                timestamp without time zone
+ - city_id                   integer
+ - fromyear                  integer
+ - toyear                    integer
+ - deprecated_line_group     integer
+
+============================
+File: Sections.json 
+Title: sections 
+n_fields: 7 
+fields:
+ - id
+ - geometry
+ - buildstart
+ - opening
+ - closure
+ - length
+ - city_id
+
+type_names:
+ - id                        integer
+ - geometry                  text
+ - buildstart                integer
+ - opening                   integer
+ - closure                   integer
+ - length                    integer
+ - city_id                   integer
+
+============================
+File: Station_lines.json 
+Title: station_lines 
+n_fields: 9 
+fields:
+ - id
+ - station_id
+ - line_id
+ - city_id
+ - created_at
+ - updated_at
+ - fromyear
+ - toyear
+ - deprecated_line_group
+
+type_names:
+ - id                        integer
+ - station_id                integer
+ - line_id                   integer
+ - city_id                   integer
+ - created_at                timestamp without time zone
+ - updated_at                timestamp without time zone
+ - fromyear                  integer
+ - toyear                    integer
+ - deprecated_line_group     integer
+
+============================
+File: Stations.json 
+Title: stations 
+n_fields: 7 
+fields:
+ - id
+ - name
+ - geometry
+ - buildstart
+ - opening
+ - closure
+ - city_id
+
+type_names:
+ - id                        integer
+ - name                      text
+ - geometry                  text
+ - buildstart                integer
+ - opening                   integer
+ - closure                   integer
+ - city_id                   integer
+
+============================
+File: Systems.json 
+Title: systems 
+n_fields: 5 
+fields:
+ - id
+ - city_id
+ - name
+ - historic
+ - length
+
+type_names:
+ - id                        integer
+ - city_id                   integer
+ - name                      text
+ - historic                  boolean
+ - length                    integer
+
+============================
+File: Transport_modes.json 
+Title: transport_modes 
+n_fields: 2 
+fields:
+ - id
+ - name
+
+type_names:
+ - id                        integer
+ - name                      text

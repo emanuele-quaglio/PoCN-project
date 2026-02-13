@@ -1,0 +1,9 @@
+"nodeID_from","nodeID_to","mode","line","year"
+3,21,"commuter_rail","4211-c-1",2022
+1,2,"commuter_rail","4212-c-1a",2005
+8,9,"commuter_rail","4211-c-1",2011
+9,10,"commuter_rail","4211-c-1",1980
+21,32,"light_rail","4213-1",2022
+3,21,"light_rail","4213-1",2022
+7,21,"commuter_rail","4211-c-1",1980
+3,7,"commuter_rail","4211-c-1",2002

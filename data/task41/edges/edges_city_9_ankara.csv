@@ -1,0 +1,17 @@
+"nodeID_from","nodeID_to","mode","line","year"
+3,15,"heavy_rail","3766-line-m1",1997
+17,18,"heavy_rail","3766-line-m1",1997
+15,17,"heavy_rail","3766-line-m1",1997
+18,21,"heavy_rail","3766-line-m1",1997
+21,22,"heavy_rail","3766-line-m1",1997
+22,23,"heavy_rail","3766-line-m1",1997
+42,44,"light_rail","3765-ankaray",1996
+43,44,"light_rail","3765-ankaray",1996
+49,53,"heavy_rail","3768-line-m4",2017
+3,14,"heavy_rail","3766-line-m1",2019
+64,77,"commuter_rail","3781-başkentray",2018
+3,53,"heavy_rail","3768-line-m4",2023
+3,14,"heavy_rail","3767-line-m2",2014
+23,30,"heavy_rail","3766-line-m1",2019
+6,43,"light_rail","3765-ankaray",2024
+23,30,"heavy_rail","3769-line-m3",2014

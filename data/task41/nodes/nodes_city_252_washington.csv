@@ -1,0 +1,180 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"National Airport",38.8529535138657,-77.043672205071,"heavy_rail",1977
+2,"Crystal City",38.8581479943373,-77.0500624169387,"heavy_rail",1977
+3,"Pentagon City",38.8632232063308,-77.0592495004497,"heavy_rail",1977
+4,"Pentagon",38.8694713699382,-77.0540318057039,"heavy_rail",1977
+5,"Arlington Cemetery",38.8847019726643,-77.0628706892131,"heavy_rail",1977
+6,"Rosslyn",38.8960875780269,-77.0709249229423,"heavy_rail",1977
+7,"Foggy Bottom",38.9006962969426,-77.0501256867066,"heavy_rail",1977
+8,"Farragut West",38.9013631254581,-77.0395402407361,"heavy_rail",1977
+9,"McPherson Square",38.9013435135002,-77.0319445738195,"heavy_rail",1977
+10,"Federal Triangle",38.8937080125259,-77.028084002622,"heavy_rail",1977
+11,"Smithsonian",38.8878175655725,-77.0277558524546,"heavy_rail",1977
+12,"L'Enfant Plaza",38.8849950899284,-77.0218684114056,"heavy_rail",1977
+13,"Capitol South",38.8850691173505,-77.0059139458928,"heavy_rail",1977
+14,"Eastern Market",38.8840709192743,-76.9951031447322,"heavy_rail",1977
+15,"Potomac Ave",38.8808950141718,-76.9854326563292,"heavy_rail",1977
+16,"Stadium Armory",38.8856927844845,-76.9771250586785,"heavy_rail",1977
+17,"Brookland-CUA",38.9331166848102,-76.9945495725951,"heavy_rail",1978
+18,"Federal Center SW",38.8850666201191,-77.0151778942665,"heavy_rail",1977
+19,"Ballston",38.8823269510863,-77.1117859208498,"heavy_rail",1979
+20,"Virginia Square",38.883249553558,-77.103620818742,"heavy_rail",1979
+21,"Clarendon",38.8871325661771,-77.09491879479,"heavy_rail",1979
+22,"Court House",38.8910855979179,-77.0847323974418,"heavy_rail",1979
+23,"Minnesota Ave",38.8991298135707,-76.9468841712382,"heavy_rail",1978
+24,"Deanwood",38.9082648158368,-76.9351759022894,"heavy_rail",1978
+25,"Cheverly",38.9166998845859,-76.9154456636227,"heavy_rail",1978
+26,"Landover",38.9337121566684,-76.8914702448444,"heavy_rail",1978
+27,"Addison Road",38.8867416340082,-76.8923990431364,"heavy_rail",1980
+28,"Capitol Heights",38.8897779489767,-76.9133778009257,"heavy_rail",1980
+29,"Benning Road",38.890720780108,-76.9378531133279,"heavy_rail",1980
+30,"Archives",38.8940526712199,-77.0219141672138,"heavy_rail",1983
+31,"King Street",38.8063917592244,-77.0618526641746,"heavy_rail",1983
+32,"Braddock Road",38.8144586363112,-77.0536577430547,"heavy_rail",1983
+33,"Vienna",38.8778168103563,-77.2714185203208,"heavy_rail",1986
+34,"Dunn Loring",38.8833494097097,-77.2281923068186,"heavy_rail",1986
+35,"West Falls Church",38.9007473194181,-77.189123079089,"heavy_rail",1986
+36,"East Falls Church",38.8857132876941,-77.1563087919075,"heavy_rail",1986
+37,"Shaw",38.9145826128667,-77.0220106487488,"heavy_rail",1991
+38,"Mount Vernon Square",38.9058283931253,-77.0219327375525,"heavy_rail",1991
+39,"U Street",38.9169113142419,-77.0289603855816,"heavy_rail",1991
+40,"Waterfront",38.8766949446724,-77.0171156473862,"heavy_rail",1991
+41,"Navy Yard",38.8766444841797,-77.004664892877,"heavy_rail",1991
+42,"Anacostia",38.862018652298,-76.9956244742895,"heavy_rail",1991
+43,"West Hyattsville",38.9550806895665,-76.9695676672372,"heavy_rail",1993
+44,"Prince George's Plaza",38.965292820367,-76.9560454051551,"heavy_rail",1993
+45,"College Park",38.9781078077878,-76.9283649717174,"commuter_rail|heavy_rail",1993
+46,"Greenbelt",39.0113536784023,-76.911082040162,"commuter_rail|heavy_rail",1993
+47,"Georgia Ave-Petworth",38.9363958360904,-77.0243257486905,"heavy_rail",1999
+48,"Columbia Heights",38.9288888041286,-77.0327192489678,"heavy_rail",1999
+49,"Branch Ave",38.8266801438792,-76.9120421337028,"heavy_rail",2001
+50,"Suitland",38.8438205807104,-76.9318955505794,"heavy_rail",2001
+51,"Naylor Road",38.8512589386307,-76.9564460683703,"heavy_rail",2001
+52,"Southern Ave",38.8408190625,-76.9756278022317,"heavy_rail",2001
+53,"Congress Heights",38.8459128409518,-76.9872725589328,"heavy_rail",2001
+54,"Largo Town Center",38.9003496714743,-76.8450426908459,"heavy_rail",2004
+55,"Morgan Blvd",38.8933261731076,-76.8690469555441,"heavy_rail",2004
+56,"Tysons Corner",38.9204895410598,-77.2217215992605,"heavy_rail",2014
+57,"McLean",38.9261437388801,-77.2066596018879,"heavy_rail",2014
+58,"Greensboro",38.9197945265871,-77.2326876193924,"heavy_rail",2014
+59,"Spring Hill",38.9286580949828,-77.2412658791253,"heavy_rail",2014
+60,"Wielhe-Reston",38.9475211606512,-77.3399327787983,"heavy_rail",2014
+61,"Dulles Airport",38.9556186663887,-77.4476528331154,"heavy_rail",2022
+62,"Ashburn",39.0045338799087,-77.4909067356941,"heavy_rail",2022
+63,"Loudon Gateway",38.9937405258881,-77.4658977681341,"heavy_rail",2022
+64,"Innovation Center",38.9604427157156,-77.4147103576663,"heavy_rail",2022
+65,"Herndon",38.954596439388,-77.3964155804684,"heavy_rail",2022
+66,"Reston Town Center",38.9528331625667,-77.3601600797802,"heavy_rail",2022
+67,"Potomac Yard",38.8347231249363,-77.0467006793481,"heavy_rail",2022
+68,"Union Station",38.9001921140002,-77.0045767918825,"tram",2016
+69,"Oklahoma Avenue",38.8978115659648,-76.970002646605,"tram",2016
+70,"19th Street",38.8988196711391,-76.9760878664029,"tram",2016
+71,"15th Street",38.8999910201453,-76.9827421340833,"tram",2016
+72,"13th Street",38.9001858654946,-76.9886486141898,"tram",2016
+73,"8th Street",38.9002146956333,-76.9948596574697,"tram",2016
+74,"5th Street",38.9001920060112,-76.9993793106984,"tram",2016
+75,"3rd Street",38.900212607541,-77.0019116984746,"tram",2016
+76,"NoMa–Gallaudet U",38.9071856,-77.003021,"heavy_rail",2004
+77,"Rhode Island Avenue–Brentwood",38.9208299,-76.9958935,"heavy_rail",1976
+78,"Union Station",38.8981284,-77.0053016,"commuter_rail|heavy_rail",1907
+79,"Riverdale",38.9629634,-76.9349772,"commuter_rail",
+80,"Riverdale",38.9629447,-76.9349394,"commuter_rail",1984
+81,"Muirkirk",39.0629556,-76.8841229,"commuter_rail",1994
+82,"Glenmont",39.0618131,-77.0535394,"heavy_rail",1998
+83,"Wheaton",39.0377697,-77.0500538,"heavy_rail",1990
+84,"Forest Glen",39.0145008,-77.0426408,"heavy_rail",1990
+85,"Savage",39.1228504,-76.7964226,"commuter_rail",1989
+86,"Laurel",39.1021615,-76.8418792,"commuter_rail",1884
+87,"Jessup",39.1516181,-76.7763459,"commuter_rail",1984
+88,"Laurel Race Track",39.1056777,-76.8339438,"commuter_rail",1911
+89,"Silver Spring",38.9937363,-77.0310916,"commuter_rail|heavy_rail",1978
+90,"Takoma",38.9759609,-77.0180177,"heavy_rail",1978
+91,"Fort Totten",38.9518047,-77.0020871,"heavy_rail",1978
+92,"Union Station",38.8977531,-77.0073735,"heavy_rail",1976
+93,"Metro Center",38.8983099,-77.0279401,"heavy_rail",1976
+94,"Gallery Place",38.8983032,-77.0220308,"heavy_rail",1976
+95,"Judiciary Square",38.8960677,-77.0166982,"heavy_rail",1976
+96,"Farragut North",38.9032864,-77.039761,"heavy_rail",1976
+97,"Dupont Circle",38.9097556,-77.0435426,"heavy_rail",1977
+98,"Van Ness–UDC",38.9438666,-77.0633716,"heavy_rail",1981
+99,"Woodley Park",38.9250246,-77.0523908,"heavy_rail",1981
+100,"Cleveland Park",38.9347528,-77.0580157,"heavy_rail",1981
+101,"Tenleytown–AU",38.9487941,-77.0795715,"heavy_rail",1984
+102,"Friendship Heights",38.9598743,-77.0852666,"heavy_rail",1984
+103,"Bethesda",38.9843478,-77.0941586,"heavy_rail",1984
+104,"Medical Center",38.9988459,-77.0968628,"heavy_rail",1984
+105,"Shady Grove",39.1198829,-77.1647269,"heavy_rail",1984
+106,"Rockville",39.0842195,-77.1462342,"commuter_rail|heavy_rail",1873
+107,"Twinbrook",39.0626761,-77.1213026,"heavy_rail",1984
+108,"North Bethesda",39.0485045,-77.113118,"heavy_rail",1984
+109,"Grosvenor–Strathmore",39.0295097,-77.1040928,"heavy_rail",1984
+110,"Dorsey",39.1810428,-76.7454471,"commuter_rail",1996
+111,"Bowie State",39.0177256,-76.7649857,"commuter_rail",1989
+112,"Seabrook",38.9732951,-76.8431069,"commuter_rail|heavy_rail",1935
+113,"New Carrollton",38.9481527,-76.8723452,"commuter_rail|heavy_rail",1978
+114,"Odenton",39.0882349,-76.7057006,"commuter_rail|heavy_rail",1872
+115,"BWI Thurgood Marshall Airport",39.1919852,-76.6945299,"commuter_rail|heavy_rail",1980
+116,"Kensington",39.0268317,-77.0717151,"commuter_rail",1891
+117,"Garrett Park",39.0389996,-77.0935735,"commuter_rail",1984
+118,"Washington Grove",39.1364562,-77.1777457,"commuter_rail",1873
+119,"Metropolitan Grove",39.1494362,-77.2261261,"commuter_rail",1987
+120,"Gaithersburg",39.1415132,-77.1925416,"commuter_rail",1873
+121,"Germantown",39.1733038,-77.2706355,"commuter_rail",1984
+122,"Boyds",39.1842254,-77.3142892,"commuter_rail",1873
+123,"New Jersey Avenue Station",38.8938709977261,-77.0101741361696,"commuter_rail",1851
+124,"B&O Station",38.8910984517065,-77.0136382010447,"commuter_rail",1835
+125,"Saint Denis",39.2243432,-76.7038514,"commuter_rail",1984
+126,"Camden Station",39.2836074,-76.619654,"commuter_rail",1857
+127,"College Park",38.9771365299608,-76.9291089393334,"commuter_rail",1984
+128,"Berwyn",38.9939203363729,-76.9221339109416,"commuter_rail",1984
+129,"Elkridge",39.1787763942399,-76.7471608813233,"commuter_rail",1984
+130,"Hyattsville",38.9523470095326,-76.9400040545473,"commuter_rail",1984
+131,"Silver Spring",38.9901920214487,-77.0271142585368,"commuter_rail",1878
+132,"Halethorpe",39.2358265,-76.6914588,"commuter_rail",2013
+133,"Halethorpe",39.2386154048336,-76.6912598025107,"commuter_rail|heavy_rail",1976
+134,"Mount Clare Station",39.2851025052124,-76.6327665454719,"commuter_rail",1830
+135,"West Baltimore",39.2933185,-76.6532979,"commuter_rail",1984
+136,"Baltimore Penn Station",39.3081419,-76.6159971,"commuter_rail|heavy_rail",1911
+137,"Charles Street Union Station",39.3081536563023,-76.6160452463148,"heavy_rail",1886
+138,"Northern Central Railway Station",39.3081707684194,-76.6160662638865,"heavy_rail",1872
+139,"Dickerson",39.2199917,-77.422135,"commuter_rail",1891
+140,"Barnesville",39.2097398,-77.3825488,"commuter_rail",1873
+141,"Point of Rocks",39.2734749,-77.5333935,"commuter_rail",1873
+142,"Monocacy",39.3822489,-77.3945035,"commuter_rail",2001
+143,"Frederick",39.4124169,-77.4055235,"commuter_rail",2001
+144,"Brunswick",39.3120753,-77.6278542,"commuter_rail",1891
+145,"Harpers Ferry",39.3246237,-77.7309461,"commuter_rail",1889
+146,"Duffields",39.3620961,-77.828005,"commuter_rail",1984
+147,"Martinsburg",39.4585684,-77.9605448,"commuter_rail",1848
+148,"L'Enfant",38.8857884,-77.0219835,"commuter_rail",1992
+149,"Crystal City",38.85914,-77.0483213,"commuter_rail",1992
+150,"Alexandria",38.806295,-77.0622137,"commuter_rail",1905
+151,"Van Dorn Street",38.7993595,-77.1291012,"heavy_rail",1991
+152,"Eisenhower Avenue",38.800382,-77.0711299,"heavy_rail",1983
+153,"Huntington",38.7938324,-77.0753642,"heavy_rail",1983
+154,"Backlick Road",38.7968111,-77.1834102,"commuter_rail",1992
+155,"Rolling Road",38.7948523,-77.2579274,"commuter_rail",1992
+156,"Burke Centre",38.7975415,-77.2975884,"commuter_rail",1992
+157,"Manassas Park",38.7659987,-77.4403652,"commuter_rail",1992
+158,"Manassas",38.7501052,-77.4741001,"commuter_rail",1914
+159,"Broad Run",38.7293269,-77.5260768,"commuter_rail",1992
+160,"Franconia–Springfield",38.76599,-77.168665,"commuter_rail|heavy_rail",1995
+161,"Lorton",38.7157699,-77.2139177,"commuter_rail",1992
+162,"Woodbridge",38.6590711,-77.2482694,"commuter_rail",1992
+163,"Rippon",38.6127979,-77.2534781,"commuter_rail",1992
+164,"Quantico",38.5218901,-77.2931516,"commuter_rail",1872
+165,"Brooke",38.3873665,-77.3806559,"commuter_rail",1992
+166,"Leeland Road",38.3470547,-77.4384444,"commuter_rail",1992
+167,"Fredericksburg",38.298058,-77.4574844,"commuter_rail",1837
+168,"Spotsylvania",38.2200178,-77.4405352,"commuter_rail",2015
+169,"Martin State Airport",39.338475,-76.4196724,"commuter_rail",1991
+170,"Edgewood",39.4159504,-76.2927416,"commuter_rail",1991
+171,"Aberdeen",39.5081805,-76.1632134,"commuter_rail",1898
+172,"Perryville",39.558017,-76.0737539,"commuter_rail",1905
+173,"Arlington Junction",38.8639093426231,-77.0534135806099,"tram",1896
+174,"Hatfield Junction",38.8741283537154,-77.0819242760271,"tram",1907
+175,"Clarendon",38.8861139129299,-77.0961722679444,"tram",1896
+176,"Fairfax Courthouse",38.8463632876619,-77.3069428003567,"tram",1896
+177,"Rossyln",38.8995672465313,-77.0709022371273,"tram",1892
+178,"B&P Station",38.8918024027984,-77.0203382038181,"heavy_rail",1872
+179,"Union Station",38.905193855189,-77.0698525028177,"tram",1897

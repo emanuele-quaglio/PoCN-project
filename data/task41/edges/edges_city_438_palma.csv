@@ -1,0 +1,16 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,3,"light_rail","4377-m1",2007
+1,10,"light_rail","4377-m1",2007
+1,3,"light_rail","4376-m2",2013
+17,29,"tram","4428-linia-1",
+10,32,"light_rail","4377-m1",2025
+1,16,"light_rail","4376-m2",2013
+1,16,"light_rail","7013-t1",2022
+1,16,"light_rail","7016-t2",2022
+1,16,"light_rail","7017-t3",2022
+1,3,"light_rail","7013-t1",2022
+1,3,"light_rail","7016-t2",2022
+1,3,"light_rail","7017-t3",2022
+16,38,"light_rail","7013-t1",2000
+16,38,"light_rail","7016-t2",2000
+16,38,"light_rail","7017-t3",2000

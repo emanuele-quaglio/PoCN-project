@@ -1,0 +1,160 @@
+Base directory: /home/ema/Uni/Semester6/ComplexNetworks/projects/sociophysics-games-on-complex-networks/R/plots_grid
+Matched folders: 89
+Unique combinations (N, alpha, rules): 89
+
+=== Unique combinations ===
+- N=  100	alpha=0	rules=0
+- N=  100	alpha=0	rules=0-1-2
+- N=  100	alpha=0	rules=0-1-2-3
+- N=  100	alpha=0	rules=0-2
+- N=  100	alpha=0	rules=0-3
+- N=  100	alpha=0	rules=1-2
+- N=  100	alpha=0	rules=3
+- N=  100	alpha=0.25	rules=0
+- N=  100	alpha=0.25	rules=0-1-2
+- N=  100	alpha=0.25	rules=0-1-2-3
+- N=  100	alpha=0.25	rules=0-2
+- N=  100	alpha=0.25	rules=0-3
+- N=  100	alpha=0.25	rules=1-2
+- N=  100	alpha=0.25	rules=3
+- N=  100	alpha=0.5	rules=0
+- N=  100	alpha=0.5	rules=0-1-2
+- N=  100	alpha=0.5	rules=0-1-2-3
+- N=  100	alpha=0.5	rules=0-2
+- N=  100	alpha=0.5	rules=0-3
+- N=  100	alpha=0.5	rules=1-2
+- N=  100	alpha=0.5	rules=3
+- N=  100	alpha=0.75	rules=0
+- N=  100	alpha=0.75	rules=0-1-2
+- N=  100	alpha=0.75	rules=0-1-2-3
+- N=  100	alpha=0.75	rules=0-2
+- N=  100	alpha=0.75	rules=0-3
+- N=  100	alpha=0.75	rules=1-2
+- N=  100	alpha=0.75	rules=3
+- N=  100	alpha=1	rules=0
+- N=  100	alpha=1	rules=0-1-2
+- N=  100	alpha=1	rules=0-1-2-3
+- N=  100	alpha=1	rules=0-2
+- N=  100	alpha=1	rules=0-3
+- N=  100	alpha=1	rules=1-2
+- N=  100	alpha=1	rules=3
+- N= 1000	alpha=0	rules=0
+- N= 1000	alpha=0	rules=0-1-2
+- N= 1000	alpha=0	rules=0-1-2-3
+- N= 1000	alpha=0	rules=0-2
+- N= 1000	alpha=0	rules=0-3
+- N= 1000	alpha=0	rules=1-2
+- N= 1000	alpha=0	rules=3
+- N= 1000	alpha=0.25	rules=0
+- N= 1000	alpha=0.25	rules=0-1-2
+- N= 1000	alpha=0.25	rules=0-1-2-3
+- N= 1000	alpha=0.25	rules=0-2
+- N= 1000	alpha=0.25	rules=0-3
+- N= 1000	alpha=0.25	rules=1-2
+- N= 1000	alpha=0.25	rules=3
+- N= 1000	alpha=0.5	rules=0
+- N= 1000	alpha=0.5	rules=0-1-2
+- N= 1000	alpha=0.5	rules=0-1-2-3
+- N= 1000	alpha=0.5	rules=0-2
+- N= 1000	alpha=0.5	rules=0-3
+- N= 1000	alpha=0.5	rules=1-2
+- N= 1000	alpha=0.5	rules=3
+- N= 1000	alpha=0.75	rules=0
+- N= 1000	alpha=0.75	rules=0-1-2
+- N= 1000	alpha=0.75	rules=0-1-2-3
+- N= 1000	alpha=0.75	rules=0-2
+- N= 1000	alpha=0.75	rules=0-3
+- N= 1000	alpha=0.75	rules=1-2
+- N= 1000	alpha=0.75	rules=3
+- N= 1000	alpha=1	rules=0
+- N= 1000	alpha=1	rules=0-1-2
+- N= 1000	alpha=1	rules=0-1-2-3
+- N= 1000	alpha=1	rules=0-2
+- N= 1000	alpha=1	rules=0-3
+- N= 1000	alpha=1	rules=1-2
+- N= 1000	alpha=1	rules=3
+- N=10000	alpha=0	rules=0
+- N=10000	alpha=0	rules=0-1-2
+- N=10000	alpha=0	rules=0-1-2-3
+- N=10000	alpha=0	rules=0-2
+- N=10000	alpha=0	rules=0-3
+- N=10000	alpha=0	rules=1-2
+- N=10000	alpha=0	rules=3
+- N=10000	alpha=0.25	rules=0
+- N=10000	alpha=0.25	rules=0-1-2
+- N=10000	alpha=0.25	rules=0-1-2-3
+- N=10000	alpha=0.25	rules=0-2
+- N=10000	alpha=0.25	rules=0-3
+- N=10000	alpha=0.25	rules=1-2
+- N=10000	alpha=0.25	rules=3
+- N=10000	alpha=0.5	rules=0
+- N=10000	alpha=0.5	rules=0-3
+- N=10000	alpha=0.5	rules=3
+- N=10000	alpha=1	rules=0
+- N=10000	alpha=1	rules=3
+
+=== Grouped by N ===
+
+N=100
+  alphas: 0, 0p25, 0p5, 0p75, 1
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+N=1000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+N=10000
+  alphas: 0, 0p25, 0p5, 1
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+=== Grouped by alpha ===
+
+alpha=0 (raw=0)
+  N:      100, 1000, 10000
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+alpha=0.25 (raw=0p25)
+  N:      100, 1000, 10000
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+alpha=0.5 (raw=0p5)
+  N:      100, 1000, 10000
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+alpha=0.75 (raw=0p75)
+  N:      100, 1000
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+alpha=1 (raw=1)
+  N:      100, 1000, 10000
+  rules:  0, 0-1-2, 0-1-2-3, 0-2, 0-3, 1-2, 3
+
+=== Grouped by rules ===
+
+rules=0
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=0-1-2
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=0-1-2-3
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=0-2
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=0-3
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=1-2
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1
+
+rules=3
+  N:      100, 1000, 10000
+  alphas: 0, 0p25, 0p5, 0p75, 1

@@ -1,0 +1,15 @@
+"nodeID_from","nodeID_to","mode","line","year"
+2,10,"commuter_rail","1735-metro-2",2021
+19,29,"commuter_rail","1734-metro-1",2021
+6,52,"commuter_rail","1736-pmrda-metro",2023
+29,53,"commuter_rail","1737-metro-1-ext",2023
+19,60,"commuter_rail","1737-metro-1-ext",2023
+56,57,"commuter_rail","1740-metro-4",2025
+2,58,"commuter_rail","1739-metro-2-ext",2024
+10,59,"commuter_rail","1739-metro-2-ext",2024
+6,61,"commuter_rail","1738-metro-3-ext",2024
+69,74,"light_rail","1741-metro-6",2025
+19,75,"light_rail","1742-metro-7",2025
+59,76,"light_rail","1744-metro-9",2025
+43,58,"light_rail","1743-metro-8",2025
+26,27,"tram","1746-hcmtr-pcmc",2025

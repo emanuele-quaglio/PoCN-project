@@ -1,0 +1,271 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"7th Street/Metro Center",34.0486686,-118.2586637,"light_rail",1991
+2,"Pico",34.0407563,-118.2660609,"light_rail",1990
+3,"Vernon",34.0030227,-118.243272,"light_rail",1990
+4,"Grand/LATTC",34.0332079,-118.2693483,"light_rail",1990
+5,"LATTC/Ortho Institute",34.029217,-118.2734912,"light_rail",2012
+6,"San Pedro Street",34.0268777,-118.2555656,"light_rail",1990
+7,"Washington",34.019784,-118.2430368,"light_rail",1990
+8,"Florence",33.9738422,-118.243246,"light_rail",1990
+9,"Slauson",33.9888756,-118.243354,"light_rail",1990
+10,"103rd Street/Watts Towers",33.9423486,-118.2431255,"light_rail",1990
+11,"Willowbrook",33.9281239,-118.2375452,"light_rail",1990
+12,"Firestone",33.9597198,-118.2431616,"light_rail",1990
+13,"Compton",33.897636,-118.2242379,"light_rail",1990
+14,"Artesia",33.8762349,-118.222529,"light_rail",1990
+15,"Del Amo",33.8482786,-118.2109869,"light_rail",1990
+16,"Wardlow",33.8199253,-118.1960927,"light_rail",1990
+17,"Pacific Coast Highway",33.7891863,-118.1893406,"light_rail",1990
+18,"Willow Street",33.8071679,-118.1898467,"light_rail",1990
+19,"Anaheim Street",33.782057,-118.1893438,"light_rail",1990
+20,"1st Street",33.7685852,-118.1893666,"light_rail",1990
+21,"Downtown Long Beach",33.7680675,-118.1929576,"light_rail",1990
+22,"Pacific Avenue",33.7724945,-118.1937098,"light_rail",1990
+23,"5th Street",33.7734501,-118.1894091,"light_rail",1990
+24,"Jefferson / USC",34.0222472,-118.2780229,"light_rail",2012
+25,"Expo/Vermont",34.0182194,-118.2906791,"light_rail",2012
+26,"Expo/Western",34.0183003,-118.3076978,"light_rail",2012
+27,"Farmdale",34.0239896,-118.3466525,"light_rail",2012
+28,"Expo/Crenshaw",34.0226892,-118.3361148,"light_rail",2012
+29,"Expo Park/USC",34.0182155,-118.2854611,"light_rail",2012
+30,"Expo/La Brea",34.024749,-118.3549711,"light_rail",2012
+31,"La Cienega/Jefferson",34.0262988,-118.3718972,"light_rail",2012
+32,"Culver City",34.0278145,-118.3886171,"light_rail",2012
+33,"Palms",34.0292512,-118.4039883,"light_rail",2016
+34,"Expo/Sepulveda",34.0354021,-118.4339878,"light_rail",2016
+35,"Westwood/Rancho Park",34.0368073,-118.4244022,"light_rail",2016
+36,"Expo/Bundy",34.0316922,-118.4527184,"light_rail",2016
+37,"Downtown Santa Monica",34.0140227,-118.4913716,"light_rail",2016
+38,"17th Street/Santa Monica College",34.0231296,-118.4803522,"light_rail",2016
+39,"26th Street/Bergamot",34.0280103,-118.4690182,"light_rail",2016
+40,"Westlake/MacArthur Park",34.0567711,-118.2759007,"heavy_rail",1993
+41,"Civic Center/Grand Park",34.0550545,-118.2460654,"heavy_rail",1993
+42,"Wilshire/Vermont",34.062655,-118.2905756,"heavy_rail",1996
+43,"7th Street/Metro Center",34.048747,-118.2586794,"heavy_rail",1993
+44,"Union Station",34.0563206,-118.2349498,"heavy_rail",1993
+45,"Pershing Square",34.0494692,-118.2510992,"heavy_rail",1993
+46,"Vermont/Beverly",34.0763482,-118.291742,"heavy_rail",1999
+47,"Vermont/Santa Monica",34.0908334,-118.2917024,"heavy_rail",1999
+48,"Hollywood/Western",34.1016867,-118.3092033,"heavy_rail",1999
+49,"Wilshire/Normandie",34.0616353,-118.3009017,"heavy_rail",1996
+50,"Wilshire/Western",34.0616024,-118.3088699,"heavy_rail",1996
+51,"Hollywood/Highland",34.1016863,-118.3392014,"heavy_rail",2000
+52,"Hollywood/Vine",34.1016156,-118.3255283,"heavy_rail",1999
+53,"North Hollywood",34.1686189,-118.3767776,"heavy_rail",2000
+54,"Vermont/Sunset",34.0981497,-118.2917025,"heavy_rail",1999
+55,"Universal City/Studio City",34.1385136555509,-118.362498324686,"heavy_rail",2000
+56,"Indiana",34.034622,-118.1921421,"light_rail",2009
+57,"Soto",34.0440848,-118.2105885,"light_rail",2009
+58,"Pico/Aliso",34.0477136,-118.2264831,"light_rail",2009
+59,"Mariachi Plaza",34.0472646,-118.2198784,"light_rail",2009
+60,"East Los Angeles Civic Center",34.0333951,-118.1616424,"light_rail",2009
+61,"Maravilla",34.03334,-118.1686065,"light_rail",2009
+62,"Atlantic",34.0334253,-118.154036,"light_rail",2009
+63,"Union Station",34.0559961851147,-118.234773456979,"light_rail",2003
+64,"Chinatown",34.063934975589,-118.235832280803,"light_rail",2003
+65,"Lincoln/Cypress",34.0811145769408,-118.220217837974,"light_rail",2003
+66,"Heritage Square",34.0873522758904,-118.213122441705,"light_rail",2003
+67,"Southwest Museum",34.0984538633519,-118.20642888278,"light_rail",2003
+68,"Highland Park",34.1113730740514,-118.192293663026,"light_rail",2003
+69,"South Pasadena",34.1152765394192,-118.15782100322,"light_rail",2003
+70,"Fillmore",34.1335187567415,-118.148114594545,"light_rail",2003
+71,"Del Mar",34.1420557394726,-118.148213861621,"light_rail",2003
+72,"Memorial Park",34.1486361434932,-118.147432695425,"light_rail",2003
+73,"Lake",34.1518321162834,-118.131430983001,"light_rail",2003
+74,"Allen",34.1524315371691,-118.11389338764,"light_rail",2003
+75,"Sierra Madre Villa",34.1477356,-118.0807891,"light_rail",2003
+76,"Arcadia",34.1428513215409,-118.0291324195,"light_rail",2016
+77,"Duarte/City of Hope",34.1325431391024,-117.967267513277,"light_rail",2016
+78,"Monrovia",34.1330664341447,-118.003066524489,"light_rail",2016
+79,"Irwindale",34.1291491790865,-117.932054950926,"light_rail",2016
+80,"Azusa Downtown",34.1360379327024,-117.906244999411,"light_rail",2016
+81,"APU/Citrus College",34.1368232,-117.8912677,"light_rail",2016
+82,"Avalon",33.9274313,-118.2647582,"light_rail",1995
+83,"Harbor Freeway",33.928633,-118.2806697,"light_rail",1995
+84,"Vermont/Athens",33.928649,-118.2913332,"light_rail",1995
+85,"Hawthorne/Lennox",33.9333127,-118.3513177,,
+86,"Crenshaw",33.925192,-118.3261078,"light_rail",1995
+87,"Willowbrook/Rosa Parks",33.9281929,-118.2377243,"light_rail",1995
+88,"Long Beach Boulevard",33.9246772,-118.2095864,"light_rail",1995
+89,"Lakewood Boulevard",33.9130423,-118.1401022,"light_rail",1995
+90,"Norwalk",33.9140284,-118.1044662,"light_rail",1995
+91,"Mariposa",33.9234193,-118.3875361,"light_rail",1995
+92,"El Segundo",33.91656,-118.387097,"light_rail",1995
+93,"Aviation/LAX",33.9295802,-118.3769007,"light_rail",1995
+94,"Douglas",33.9055031,-118.3833191,"light_rail",1995
+95,"Redondo Beach",33.8944653,-118.3688659,"light_rail",1995
+96,"North Hollywood",34.1687695,-118.3777577,"brt",2005
+97,"Laurel Canyon",34.1685240436964,-118.396497956282,"brt",2005
+98,"Woodman/Valley Glen",34.1791715,-118.4297467,"brt",2005
+99,"Valley College",34.1729521,-118.4230485,"brt",2005
+100,"Van Nuys",34.1805642,-118.4483827,"brt",2005
+101,"Sepulveda",34.1807214,-118.4686253,"brt",2005
+102,"Woodley",34.1862566,-118.4844912,"brt",2005
+103,"Balboa",34.1859275,-118.5007828,"brt",2005
+104,"Reseda",34.1803949179709,-118.536012911959,"brt",2005
+105,"Tampa",34.1812812480756,-118.553473552522,"brt",2005
+106,"Pierce College",34.1871749701118,-118.570961940383,"brt",2005
+107,"De Soto",34.1886595262881,-118.588451600229,"brt",2005
+108,"Canoga",34.1905199,-118.5965892,"brt",2005
+109,"Canoga",34.1909766,-118.5962359,"brt",2012
+110,"Sherman Way",34.2006608,-118.5971477,"brt",2012
+111,"Roscoe",34.2197883517831,-118.5972205,"brt",2012
+112,"Nordhoff",34.2354621614461,-118.597251229839,"brt",2012
+113,"Chatsworth",34.2520068,-118.5993153,"brt",2012
+114,"32686",34.1803386,-118.6014933,"brt",2005
+115,"Harbor Freeway",33.929043,-118.2808203,"brt",2009
+116,"Rosecrans",33.9022151,-118.2865997,"brt",2009
+117,"Harbor Gateway Transit Center",33.8688289,-118.2877946,"brt",2009
+118,"Manchester",33.9604286,-118.2808007,"brt",2009
+119,"Slauson",33.9889734,-118.2804907,"brt",2009
+120,"37th Street/USC",34.0180593,-118.27995,"brt",2009
+121,"Flower Street & Adams Boulevard",34.0274493,-118.2750441,"brt",2009
+122,"Flower Street & 23rd Street",34.0303335,-118.2729643,"brt",2009
+123,"Flower Street & Washington Boulevard",34.033587,-118.2710611,"brt",2009
+124,"Flower Street & Pico Boulevard",34.0398297,-118.2670313,"brt",2009
+125,"Flower Street & Olympic Boulevard",34.0441378,-118.2630269,"brt",2009
+126,"Flower Street & 7th Street",34.0483016,-118.2591465,"brt",2009
+127,"Grand Avenue & 5th Street",34.0498584,-118.2542485,"brt",2009
+128,"Grand Avenue & 3rd Street",34.0525537,-118.2517912,"brt",2009
+129,"1st Street & Hill Street",34.0545656,-118.2469834,"brt",2009
+130,"Spring Street & Temple Street",34.0541916,-118.2433081,"brt",2009
+131,"Arcadia Street & Los Angeles Street",34.0551748,-118.2390115,"brt",2009
+132,"HOV Roadway & Adams Boulevard",34.0285646,-118.274761,"brt",2009
+133,"Figueroa Street & 23rd Street",34.0310551,-118.2741695,"brt",2009
+134,"Figueroa Street & Washington Boulevard",34.0346898,-118.2718526,,
+135,"Figueroa Street & Pico Boulevard",34.0404672,-118.268165,"brt",2009
+136,"Figueroa Street & Olympic Boulevard",34.0453256,-118.2636643,"brt",2009
+137,"Figueroa Street & 7th Street",34.0496756,-118.2596255,"brt",2009
+138,"6th Street & Flower Street",34.0499674,-118.2571895,"brt",2009
+139,"Olive Street & General Thaddeus Kosciuszko Way",34.0533892,-118.249226,"brt",2009
+140,"Olive Street & 5th Street",34.0496545,-118.2526838,"brt",2009
+141,"Aliso Street & Los Angeles Street",34.0549354,-118.2397658,"brt",2009
+142,"LA County+USC Medical Center",34.0554834,-118.2104612,"brt",2009
+143,"Cal State LA",34.0625285,-118.1680592,"brt",2009
+144,"El Monte Station",34.0720301,-118.0446777,"brt",2009
+145,"Moorpark",34.2849017,-118.8781239,"commuter_rail",1992
+146,"Simi Valley",34.2708799,-118.696492,"commuter_rail",1992
+147,"Chatsworth",34.2535009,-118.5995048,"commuter_rail",1992
+148,"Northridge",34.2308218,-118.5458227,"commuter_rail",1992
+149,"Van Nuys",34.2114588,-118.4474536,"commuter_rail",1992
+150,"Burbank Airport–South",34.1929783,-118.3538381,"commuter_rail",1992
+151,"Burbank Airport–North",34.2070741,-118.3509803,"commuter_rail",2018
+152,"Sun Valley",34.2218686,-118.3727019,"commuter_rail",2001
+153,"Downtown Burbank",34.1794333,-118.313289,"commuter_rail",1992
+154,"Glendale",34.1249319,-118.2602555,"commuter_rail",1992
+155,"Los Angeles Union Station",34.0544842,-118.2349866,"commuter_rail",1992
+156,"Camarillo",34.216792,-119.0332605,"commuter_rail",1994
+157,"Oxnard",34.200032,-119.1762015,"commuter_rail",1994
+158,"East Ventura",34.2505662,-119.2038664,"commuter_rail",2002
+159,"Santa Clarita",34.4136337,-118.5256197,"commuter_rail",1992
+160,"Newhall",34.3807082,-118.5277793,"commuter_rail",2000
+161,"Sylmar/San Fernando",34.292131,-118.4496703,"commuter_rail",1994
+162,"Los Angeles Union Station",34.0543449,-118.2343827,"commuter_rail",1992
+163,"Los Angeles Union Station",34.054471,-118.2348866,"commuter_rail",1992
+164,"Via Princessa",34.4090378,-118.4710696,"commuter_rail",1994
+165,"Vincent Grade/Acton",34.4971943,-118.1186577,"commuter_rail",1994
+166,"Palmdale",34.5900669,-118.1191553,"commuter_rail",1994
+167,"Lancaster",34.6979524,-118.1362883,"commuter_rail",1994
+168,"Claremont",34.0939597,-117.7169207,"commuter_rail",1992
+169,"Pomona–North",34.093704,-117.7549306,"commuter_rail",1992
+170,"Covina",34.0921163,-117.8896471,"commuter_rail",1992
+171,"Baldwin Park",34.0869623,-117.9569877,"commuter_rail",1993
+172,"El Monte",34.0762973,-118.0348155,"commuter_rail",1992
+173,"Cal State LA",34.0626607,-118.1681496,"commuter_rail",1994
+174,"Upland",34.0944135,-117.6482629,"commuter_rail",1993
+175,"Montclair",34.0939667,-117.6969013,"commuter_rail",1993
+176,"Rancho Cucamonga",34.0919481,-117.5598706,"commuter_rail",1994
+177,"Fontana",34.0950795,-117.438854,"commuter_rail",1993
+178,"Rialto",34.0967166,-117.3732525,"commuter_rail",1993
+179,"Rialto",34.0967693,-117.3709136,,
+180,"San Bernardino Depot",34.1044172,-117.3094121,"commuter_rail",1993
+181,"San Bernardino–Downtown",34.0997589,-117.2948459,"commuter_rail",2017
+182,"Montebello/Commerce",34.0069499,-118.1246419,"commuter_rail",1993
+183,"Industry",34.0082423,-117.8448582,"commuter_rail",1993
+184,"Downtown Pomona",34.0589241,-117.751031,"commuter_rail",1993
+185,"East Ontario",34.0395488,-117.5788175,"commuter_rail",1993
+186,"Pedley",33.9776456,-117.4762412,"commuter_rail",1993
+187,"Riverside–Downtown",33.9764556,-117.3692401,"commuter_rail",1993
+188,"Riverside–Downtown",33.974674,-117.3702395,"commuter_rail",1995
+189,"Los Angeles Union Station",34.0543788,-118.2345685,"commuter_rail",1990
+190,"Commerce",33.9908166,-118.1438198,"commuter_rail",1990
+191,"Norwalk/Santa Fe Springs",33.9163673147891,-118.06010081684,"commuter_rail",1995
+192,"Buena Park",33.8756932,-117.9870545,"commuter_rail",2007
+193,"Fullerton",33.8685577,-117.9215112,"commuter_rail",1990
+194,"Anaheim",33.8034512,-117.8814668,"commuter_rail",1990
+195,"Orange",33.7883124,-117.8575127,"commuter_rail",1990
+196,"Santa Ana",33.7517727,-117.8559871,"commuter_rail",1990
+197,"Tustin",33.7075177,-117.8052658,"commuter_rail",2002
+198,"Irvine",33.6566884,-117.7323711,"commuter_rail",1990
+199,"Laguna Niguel/Mission Viejo",33.5525804,-117.6742363,"commuter_rail",2002
+200,"San Juan Capistrano",33.5019128,-117.664124,"commuter_rail",1990
+201,"San Clemente",33.4323619,-117.6333339,"commuter_rail",1995
+202,"Oceanside",33.1932686,-117.3805641,"commuter_rail",1994
+203,"Riverside–La Sierra",33.9003495,-117.4691508,"commuter_rail",1995
+204,"Corona–North Main",33.881821,-117.5624282,"commuter_rail",1995
+205,"Corona–West",33.8859376,-117.6130572,"commuter_rail",1995
+206,"Anaheim Canyon",33.8548994,-117.8403925,"commuter_rail",1995
+207,"Riverside–Hunter Park/UCR",33.998441,-117.3344209,"commuter_rail",2016
+208,"Moreno Valley/March Field",33.9133197,-117.2878689,"commuter_rail",2016
+209,"Downtown Perris",33.782971,-117.2295019,"commuter_rail",2016
+210,"South Perris",33.7623876,-117.203063,"commuter_rail",2016
+211,"Westchester/Veterans",33.9620171389303,-118.374421960794,"light_rail",2022
+212,"	Grand Av Arts/Bunker Hill",34.054963923502,-118.251917982909,"light_rail",2023
+213,"Historic Broadway",34.05242784801,-118.246620949106,"light_rail",2023
+214,"Little Tokyo/Arts District",34.0489078086691,-118.238867117367,"light_rail",2023
+215,"Downtown Inglewood",33.9669386240498,-118.351303729574,"light_rail",2022
+216,"Fairview Heights",33.9753669389997,-118.335870940427,"light_rail",2022
+217,"Hyde Park",33.9885793571098,-118.330908607303,"light_rail",2022
+218,"Leimert Park",34.0047038608898,-118.332872195711,"light_rail",2022
+219,"Martin Luther King Jr.",34.0102913529089,-118.33512550993,"light_rail",2022
+220,"Expo/Crenshaw",34.0223923222525,-118.335129892414,"light_rail",2022
+221,"Wilshire/La Brea",34.0622233308286,-118.344593461888,"heavy_rail",2025
+222,"Wilshire/Fairfax",34.0628566496266,-118.359983349871,"heavy_rail",2025
+223,"Wilshire/La Cienega",34.0648695817287,-118.374914127795,"heavy_rail",2025
+224,"Wilshire/Rodeo",34.0670169930907,-118.398291632091,"heavy_rail",2025
+225,"Century City/Constellation",34.0570886248165,-118.41792277966,"heavy_rail",2025
+226,"Westwood/UCLA",34.0582426302822,-118.445780664142,"heavy_rail",2027
+227,"Westwood/VA Hospital",34.0547194118274,-118.454315359465,"heavy_rail",2027
+228,"Aviation/Century",33.9455123258657,-118.378780546499,"light_rail",2024
+229,"CONRAC",33.9495428107077,-118.374613447708,"people_mover",
+230,"East ITF",33.9495815415389,-118.378526312591,"people_mover",
+231,"West ITF",33.9495562173049,-118.390014039545,"people_mover",
+232,"West CTA",33.9438791333743,-118.407483008202,"people_mover",
+233,"Center CTA",33.9443443622999,-118.40371666032,"people_mover",
+234,"East CTA",33.9444185773273,-118.399747839474,"people_mover",
+235,"Van Nuys/MOL",34.1806929895039,-118.448729872405,"light_rail",2028
+236,"Victory",34.1868339874614,-118.448678787349,"light_rail",2028
+237,"Vanowen",34.1942061057221,-118.44868788527,"light_rail",2028
+238,"Sherman Way",34.2014822523803,-118.44871212609,"light_rail",2028
+239,"Van Nuys/Metrolink",34.2123091527633,-118.448781133383,"light_rail",2028
+240,"Roscoe",34.2242656527933,-118.448794957047,"light_rail",2028
+241,"Nordhoff",34.2351284003463,-118.450199033921,"light_rail",2028
+242,"Woodman",34.2464106948857,-118.448948287602,"light_rail",2028
+243,"Arleta",34.2534393056882,-118.439435200805,"light_rail",2028
+244,"Laurel Canyon",34.2586959512356,-118.43228300278,"light_rail",2028
+245,"Van Nuys/San Fernando",34.2669509649971,-118.421894551936,"light_rail",2028
+246,"Paxton",34.2727581896956,-118.427919886255,"light_rail",2028
+247,"Maclay",34.2839737523104,-118.439822932691,"light_rail",2028
+248,"Sylmar/San Fernando",34.2925822734821,-118.448949640745,"light_rail",2028
+249,"Glendora",34.132260526609,-117.866878687793,"light_rail",2025
+250,"San Dimas",34.1061910378546,-117.809859567823,"light_rail",2025
+251,"La Verne",34.0980510484681,-117.771108593952,"light_rail",2025
+252,"Pomona",34.0941117258742,-117.754857075688,"light_rail",2025
+253,"Harbor Transit Center",33.7602584702342,-117.919749125945,"tram",2025
+254,"Fairview",33.7511350432813,-117.903836865254,"tram",2025
+255,"Raitt",33.7478521962289,-117.893361441077,"tram",2025
+256,"Bristol",33.7478996995704,-117.88495122346,"tram",2025
+257,"Flower",33.7479442159147,-117.876491725274,"tram",2025
+258,"Santa Ana",33.7516239672573,-117.857382204778,"tram",2025
+259,"Lacy",33.7509190755147,-117.861351530282,"tram",2025
+260,"Downtown",33.7497312226526,-117.868636502778,"tram",2025
+261,"Downtown",33.7480230419686,-117.868648482814,"tram",2025
+262,"French",33.749718522138,-117.864543400049,"tram",2025
+263,"French",33.7480097086559,-117.864543400049,"tram",2025
+264,"Ross",33.7491317646777,-117.872343761062,"tram",2025
+265,"Ross",33.7480302969335,-117.872380902239,"tram",2025
+266,"Tippecanoe Avenue",34.073559601307,-117.260989512567,"commuter_rail",2022
+267,"Esri",34.0597787155019,-117.195357970842,"commuter_rail",2022
+268,"Downtown Redlands",34.0590296528703,-117.183243530825,"commuter_rail",2022
+269,"University of Redlands",34.0589622767317,-117.164921004449,"commuter_rail",2022
+270,"LAX/Metro Transit Center station",33.9496788061008,-118.378784796595,"light_rail",2025

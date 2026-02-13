@@ -1,0 +1,86 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"El Salto",-33.0414929,-71.5209919,,0
+2,"El Salto",-33.0414651,-71.5209662,"commuter_rail|heavy_rail",1987
+3,"Francia",-33.043871,-71.6130931,"heavy_rail",2005
+4,"Puerto",-33.0391564,-71.6262935,"heavy_rail",2005
+5,"Bellavista",-33.0431164,-71.620422,"commuter_rail|heavy_rail",1987
+6,"Barón",-33.0421554,-71.6055958,"commuter_rail|heavy_rail",1987
+7,"Recreo",-33.0271118,-71.5752462,"heavy_rail",2005
+8,"Portales",-33.0327931,-71.5917702,"commuter_rail|heavy_rail",1987
+9,"Chorrillos",-33.0333718,-71.5328848,"commuter_rail|heavy_rail",1987
+10,"Hospital",-33.0285637,-71.5429522,"heavy_rail",2005
+11,"Viña del Mar",-33.0263932,-71.5518603,"commuter_rail|heavy_rail",1987
+12,"Miramar",-33.0249175,-71.5615196,"commuter_rail|heavy_rail",1987
+13,"Quilpué",-33.0453043,-71.4450335,"commuter_rail|heavy_rail",1987
+14,"El Sol",-33.0396737,-71.4285461,"commuter_rail|heavy_rail",1987
+15,"El Belloto",-33.0431167936999,-71.4067651469878,"commuter_rail|heavy_rail",1987
+16,"Las Américas",-33.0440019,-71.3951792,"commuter_rail|heavy_rail",1989
+17,"La Concepción",-33.0417023,-71.3824016,"commuter_rail|heavy_rail",1995
+18,"Villa Alemana",-33.0425047,-71.3732253,"commuter_rail|heavy_rail",1987
+19,"Sargento Aldea",-33.0420725,-71.3662973,"commuter_rail|heavy_rail",1989
+20,"Peñablanca",-33.0401612,-71.3528633,"commuter_rail|heavy_rail",1987
+21,"Limache",-32.9847029,-71.2783967,"commuter_rail|heavy_rail",1987
+22,"Plaza Aduana",-33.0337866412378,-71.6300823053141,"people_mover",1892
+23,"Paseo 21 de Mayo",-33.032431635693,-71.6304612317268,"people_mover",1892
+24,"Almirante Muñoz",-33.0378179244481,-71.6302627241907,"people_mover",1894
+25,"Castillo",-33.0379952475363,-71.6306040477343,"people_mover",1894
+26,"Plaza de la Justicia",-33.0396116860238,-71.629406982288,"people_mover",1901
+27,"Paseo Yugoslavo",-33.0401723640009,-71.6291919997987,"people_mover",1901
+28,"Prat",-33.0409618840619,-71.6260866971371,"people_mover",1883
+29,"Paseo Gervasioni",-33.0413280359048,-71.6263494535177,"people_mover",1883
+30,"Elías",-33.0439982434708,-71.6263834108389,"people_mover",1903
+31,"Paseo Dimalow",-33.0438319897443,-71.6266258186008,"people_mover",1903
+32,"Gaspar Marín",-33.0500180563792,-71.6172890570032,"people_mover",1906
+33,"Paseo Barbosa",-33.051212638288,-71.6181983204239,"people_mover",1906
+34,"Carrera",-33.0495804175328,-71.6195919416543,"people_mover",1907
+35,"Marconi",-33.050301826354,-71.6204783021729,"people_mover",1906
+36,"Eusebio Lillo",-33.0447548994267,-71.6034444190412,"people_mover",1908
+37,"Lecheros",-33.0442656535681,-71.6030130230296,"people_mover",1908
+38,"Diego Portales",-33.0430292933626,-71.6036615348598,"people_mover",1906
+39,"Avenida España",-33.0431795884699,-71.6041377845805,"people_mover",1906
+40,"Aldunate",-33.0473372182451,-71.6212753743552,"people_mover",1911
+41,"Rudolph",-33.0478642317307,-71.6215659242702,"people_mover",1911
+42,"Vicente Bianchi",-33.0526051300105,-71.6147682121925,"people_mover",1912
+43,"Baquedano",-33.051938413478,-71.6137536690566,"people_mover",1912
+44,"Antonio Varas",-33.0314684245513,-71.6300494320845,"people_mover",1913
+45,"Pedro León Gallo",-33.0301085376545,-71.6309654107139,"people_mover",1913
+46,"José Tomás Ramos",-33.0406040476516,-71.6316934949832,"people_mover",1913
+47,"Canal",-33.0403773830711,-71.632422730474,"people_mover",1913
+48,"Eusebio Lillo",-33.0464247187108,-71.6026040386004,"people_mover",1906
+49,"Hnos. Clark",-33.0462970025105,-71.6016078110207,"people_mover",1906
+50,"Condell",-33.0460969608627,-71.6225503718751,"people_mover",1899
+51,"Héctor Calvo",-33.046251584412,-71.6228620524781,"people_mover",1899
+52,"Ecuador",-33.0457372906233,-71.6242550739726,"people_mover",1901
+53,"Dinamarca",-33.0456679762591,-71.6250692600373,"people_mover",1901
+54,"Av. Alemania",-33.0554916409782,-71.6080101135534,"people_mover",1925
+55,"Luis Cousiño",-33.0549866999546,-71.6083484762317,"people_mover",1925
+56,"Av. Francia",-33.0525845447075,-71.6132236955902,"people_mover",1907
+57,"Federico Varela",-33.0531671940057,-71.6125196937688,"people_mover",1907
+58,"Cajilla",-33.0368894090573,-71.6356212007393,"people_mover",1931
+59,"Camino Cintura",-33.0368743709278,-71.6365764219691,"people_mover",1931
+60,"Cajilla",-33.036618923788,-71.6344017832149,"people_mover",1910
+61,"Cayocopil",-33.0360850666527,-71.6344914753534,"people_mover",1910
+62,"Bustamante",-33.0346224661359,-71.6308346872142,"people_mover",1907
+63,"Almte. Riveros",-33.0346265132751,-71.6311846852146,"people_mover",1907
+64,"Antofagasta",-33.052839093542,-71.5939765523583,"people_mover",1925
+65,"Jorge Ossandón",-33.0530826235483,-71.595134482626,"people_mover",1925
+66,"Los Placeres",-33.0373552211676,-71.5972961712433,"people_mover",1913
+67,"Portales",-33.0375304586765,-71.5979232778733,"people_mover",1913
+68,"Ramaditas",-33.0558120039544,-71.5997694489941,"people_mover",1914
+69,"Santa Elena",-33.0564608902779,-71.6004445524428,"people_mover",1914
+70,"Paseo Atkinson",-33.0426852676732,-71.6251485839697,"people_mover",1905
+71,"Esmeralda",-33.0426976223059,-71.624791179148,"people_mover",1905
+72,"Polanco Superior",-33.0502628195369,-71.5986025929346,"people_mover",1911
+73,"Polanco Inferior",-33.0510488968517,-71.6005714118161,"people_mover",1911
+74,"Puerto",-33.038312092476,-71.6271936585783,"commuter_rail",1987
+75,"Colegio Alemán",-33.0382379857927,-71.5253354247313,"commuter_rail",1998
+76,"Laboral",-33.0490184599497,-71.5098356261755,"commuter_rail",1995
+77,"Valencia",-33.0404620353607,-71.4687701928516,"commuter_rail",1987
+78,"Rumié",-33.0426568257167,-71.3884407387292,"commuter_rail",1960
+79,"La Calera",-32.789836931819,-71.191076312966,"commuter_rail",1987
+80,"La Cruz",-32.8426891581166,-71.2253527164494,"commuter_rail",1987
+81,"Quillota",-32.8756027138203,-71.2418656584582,"commuter_rail",1857
+82,"Corvi",-32.8891413420906,-71.2432836525235,"commuter_rail",1958
+83,"San Pedro",-32.9377312457989,-71.276512625182,"commuter_rail",1987
+84,"Villanelo Alto",-33.0271827945545,-71.5575654238086,"people_mover",1983
+85,"Villanelo Bajo",-33.0265396945588,-71.5573934203535,"people_mover",1983

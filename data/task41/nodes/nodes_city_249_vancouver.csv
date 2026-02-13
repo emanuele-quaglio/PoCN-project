@@ -1,0 +1,58 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Burrard",49.285866,-123.1198237,"heavy_rail",1985
+2,"Granville",49.2834541,-123.1160353,"heavy_rail",1985
+3,"Waterfront",49.2856579,-123.1134773,"heavy_rail",2009
+4,"King Edward",49.2493079,-123.1154015,"heavy_rail",2009
+5,"Broadway-City Hall",49.2629029,-123.1148243,"heavy_rail",2009
+6,"Olympic Village",49.2666036,-123.1154558,"heavy_rail",2009
+7,"Yaletown-Roundhouse",49.2742425,-123.1217911,"heavy_rail",2009
+8,"Vancouver City Centre",49.2820749,-123.1190169,"heavy_rail",2009
+9,"Stadium–Chinatown",49.2793597,-123.1093495,"heavy_rail",1985
+10,"Main Street-Science World",49.2730906,-123.1003413,,1985
+11,"Nanaimo",49.2483091,-123.0559279,"heavy_rail",1985
+12,"Commercial–Broadway",49.2618723,-123.069195,"heavy_rail",1985
+13,"Commercial–Broadway",49.2629063,-123.0685311,"heavy_rail",2002
+14,"Patterson",49.2297489,-123.0127361,"heavy_rail",1985
+15,"Royal Oak",49.2200544,-122.9885247,"heavy_rail",1985
+16,"Metrotown",49.2257767,-123.0038962,"heavy_rail",1985
+17,"Joyce–Collingwood",49.2384152,-123.0319039,"heavy_rail",1985
+18,"29th Avenue",49.2441271,-123.045876,"heavy_rail",1985
+19,"Edmonds",49.2121895,-122.9593092,"heavy_rail",1985
+20,"22nd Street",49.2000809,-122.9488866,,
+21,"New Westminster",49.2013864,-122.9126807,"heavy_rail",1985
+22,"22nd Street",49.2001107,-122.9489058,"heavy_rail",1985
+23,"Columbia",49.2047967185886,-122.906135742859,"heavy_rail",1989
+24,"Sapperton",49.2245158,-122.8896067,"heavy_rail",2016
+25,"Surrey Central",49.1895232,-122.847929,"heavy_rail",1994
+26,"King George",49.1827396,-122.84468,"heavy_rail",1994
+27,"Scott Road",49.2044712,-122.8741377,"heavy_rail",1990
+28,"Gateway",49.1989111,-122.8506765,"heavy_rail",1994
+29,"Gilmore",49.2649587,-123.013462,"heavy_rail",2002
+30,"Brentwood Town Centre",49.2663735,-123.001671,"heavy_rail",2002
+31,"Rupert",49.2607565,-123.0328558,"heavy_rail",2002
+32,"Renfrew",49.258881,-123.045543,"heavy_rail",2002
+33,"Sperling–Burnaby Lake",49.2591619,-122.9639466,"heavy_rail",2002
+34,"Lake City Way",49.2545929,-122.9390127,"heavy_rail",2003
+35,"Holdom",49.2647152,-122.98211,"heavy_rail",2002
+36,"Production Way–University",49.2533813,-122.9181633,"heavy_rail",2002
+37,"Lougheed Town Centre",49.2484049,-122.8968898,"heavy_rail",2002
+38,"VCC-Clark",49.2657805,-123.078985,"heavy_rail",2006
+39,"Braid",49.2333297,-122.8828559,"heavy_rail",2016
+40,"Production Way-University",49.2534613,-122.918123,,
+41,"Burquitlam",49.2611963,-122.8901154,"heavy_rail",2016
+42,"Moody Centre",49.2778955,-122.8449182,"heavy_rail",2016
+43,"Coquitlam Central",49.2747473,-122.8004037,"heavy_rail",2016
+44,"Inlet Centre",49.2771345,-122.8277649,"heavy_rail",2016
+45,"Lincoln",49.2803533,-122.7940182,"heavy_rail",2016
+46,"Lafarge Lake–Douglas",49.2853142,-122.7917096,"heavy_rail",2016
+47,"Oakridge-41st Avenue",49.2330037,-123.1162801,"heavy_rail",2009
+48,"Langara-49th Avenue",49.2264759,-123.1165034,"heavy_rail",2009
+49,"Marine Drive",49.2096206,-123.117002,"heavy_rail",2009
+50,"Bridgeport",49.1956136,-123.1260625,"heavy_rail",2009
+51,"Templeton",49.1967024,-123.1464206,"heavy_rail",2009
+52,"Aberdeen",49.1839068,-123.136362,"heavy_rail",2009
+53,"Lansdowne",49.1747215,-123.1365025,"heavy_rail",2009
+54,"Sea Island Centre",49.1930695902474,-123.157902845915,"heavy_rail",2009
+55,"YVR–Airport",49.1942258,-123.1784147,"heavy_rail",2009
+56,"Richmond–Brighouse",49.1681288,-123.136343,"heavy_rail",2009
+57,"Waterfront",49.2865320631681,-123.112956659617,"heavy_rail",1985

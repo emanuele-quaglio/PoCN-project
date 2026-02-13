@@ -1,0 +1,16 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Carling",45.397399937456,-75.7095199715726,"light_rail",2001
+2,"Bayview",45.4089954402401,-75.721629884714,"light_rail",2001
+3,"Rideau O-Train West/Ouest",45.4263142,-75.6915036,"light_rail",2019
+4,"Parliament/Parlement B",45.4212983,-75.6991027,"light_rail",2019
+5,"Lyon ",45.4188602,-75.7047637,"light_rail",2019
+6,"UOttawa O-Train West/Ouest",45.4205805,-75.6823488,"light_rail",2019
+7,"Lees O-Train West/Ouest",45.4165481,-75.6708992,"light_rail",2019
+8,"Hurdman O-Train West/Ouest",45.4123777,-75.6642459,"light_rail",2019
+9,"Tremblay O-Train West/Ouest",45.4167808,-75.6536678,"light_rail",2019
+10,"St-Laurent O-Train West/Ouest",45.4206771,-75.6373878,"light_rail",2019
+11,"Cyrville O-Train West/Ouest",45.4227016,-75.6264401,"light_rail",2019
+12,"Blair O-Train West/Ouest",45.4310388,-75.6083057,"light_rail",2019
+13,"Pimisi O-Train West/Ouest",45.4137261,-75.7134687,"light_rail",2019
+14,"Bayview O-Train West/Ouest",45.4093624,-75.7221505,"light_rail",2019
+15,"Tunney's Pasture O-Train East/Est",45.4037118,-75.7352128,"light_rail",2019

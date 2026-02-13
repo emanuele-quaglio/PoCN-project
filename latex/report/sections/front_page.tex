@@ -1,0 +1,83 @@
+\begin{center}
+
+\vspace*{1cm}
+
+\begin{figure}
+  \raggedleft
+  \begin{minipage}{4cm}
+  \includegraphics[width=6cm]{images/logo.png}
+  \end{minipage}
+\end{figure}
+
+\vspace*{2cm}
+
+\vspace*{0.1in}
+%yellow version
+
+\iffalse %previous version, with faulty page formatting (text partially out of page).
+\AddToShipoutPictureBG*{\AtPageLowerLeft{% 
+  \color{lightgray}\rule{.26 \paperwidth}{\paperheight} }
+   \:
+   \:
+   \;
+   \;
+   \:
+  \begin{turn}{90} 
+   \fontsize{60}{50}\selectfont \textbf{ \color{white} Final Report}
+  \end{turn}
+  \begin{turn}{90} 
+   \fontsize{20}{15}\selectfont \textbf{ \color{white} Physics of Complex Networks: Structure and Dynamics}
+  \end{turn}
+  
+  
+  }
+\fi
+
+\AddToShipoutPictureBG*{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[lightgray] (current page.south west)
+      rectangle ([xshift=.26\paperwidth]current page.north west);
+  \end{tikzpicture}%
+}
+\AddToShipoutPictureFG*{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[rotate=90, anchor=south west,
+          text=white,
+          font=\bfseries\fontsize{60}{50}\selectfont]
+      at ([xshift=3.9cm,yshift=1.cm]current page.south west) {Final Report};
+
+    \node[rotate=90, anchor=south west,
+          text=white,
+          font=\bfseries\fontsize{20}{16}\selectfont,
+          text width=0.85\paperheight,
+          align=left]
+      at ([xshift=4.9cm,yshift=1.cm]current page.south west)
+      {Physics of Complex Networks: Structure and Dynamics};
+  \end{tikzpicture}%
+}
+
+\begin{spacing}{1.3}
+
+\vspace{-1truecm}
+\begin{tabular}{p{4cm} ll}
+
+&  \includegraphics[width=0.77\textwidth]{images/areas_of_physics.png} \\\\
+& \textcolor{unipd}{\textbf{\huge Projects Report: \# 34, \# 41}}\\ % Here the title of your project \\
+%& \large \emph{Physics of Complex Networks: Structure and Dynamics}\\
+%& \\ 
+%& \large \textbf{Surname, name....}\\
+& \textbf{Quaglio Emanuele}\\
+& \\
+& \\
+& \scriptsize \textbf{Last update}: \today\\\\
+\end{tabular}
+
+\end{spacing}
+
+\end{center}
+
+
+
+\thispagestyle{empty} % Prevents page number from being included on the cover
+\clearpage\setcounter{page}{1} % Start including page numbers from here
+\pagenumbering{roman} % in roman numerals

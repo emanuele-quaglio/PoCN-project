@@ -1,0 +1,104 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Kagraner Platz",48.2505335593657,16.4435129502063,"heavy_rail",2006
+2,"Rennbahnweg",48.2576792183469,16.4496983571485,"heavy_rail",2006
+3,"Aderklaaer Straße",48.2634591194893,16.451624027569,"heavy_rail",2006
+4,"Großfeldsiedlung",48.2709219208356,16.4479387359365,"heavy_rail",2006
+5,"Leopoldau",48.2775782709667,16.4524816844054,"heavy_rail",2006
+6,"Enkplatz",48.1746434,16.4145768,"heavy_rail",2000
+7,"Simmering",48.169739,16.4204633,"heavy_rail",2000
+8,"Zippererstraße",48.1803475,16.4116795,"heavy_rail",2000
+9,"Gasometer",48.1851532,16.4174396,"heavy_rail",2000
+10,"Erdberg",48.1914073,16.4140784,"heavy_rail",1991
+11,"Kardinal-Nagl-Platz",48.1975375,16.3998439,"heavy_rail",1991
+12,"Schlachthausgasse",48.194373,16.4066927,"heavy_rail",1991
+13,"Rochusgasse",48.2020584,16.3922161,"heavy_rail",1991
+14,"Längenfeldgasse",48.1848544006073,16.3350174012778,"heavy_rail",1989
+15,"Meidling Hauptstraße",48.1836994,16.3281306,"heavy_rail",1980
+16,"Niederhofstraße",48.1807555,16.3312398,"heavy_rail",1989
+17,"Bahnhof Meidling",48.1735244,16.3315171,"heavy_rail",1989
+18,"Tscherttegasse",48.1649731,16.3278139,"heavy_rail",1995
+19,"Am Schöpfwerk",48.1606711,16.324226,"heavy_rail",1995
+20,"Alterlaa",48.1505008,16.3169125,"heavy_rail",1995
+21,"Erlaaer Straße",48.141986,16.3165474,"heavy_rail",1995
+22,"Perfektastraße",48.136611,16.3132697,"heavy_rail",1995
+23,"Siebenhirten",48.1305012,16.3098619,"heavy_rail",1995
+24,"Schönbrunn",48.1860338,16.3190433,"heavy_rail",1981
+25,"Hietzing",48.1875895178568,16.3045717102265,"heavy_rail",1981
+26,"Unter St. Veit",48.1910836,16.2863578,"heavy_rail",1981
+27,"Braunschweiggasse",48.1894183,16.2958047,"heavy_rail",1981
+28,"Ober St. Veit",48.1922486,16.2761632,"heavy_rail",1981
+29,"Hütteldorf",48.1970194,16.2609014,"heavy_rail",1981
+30,"Margaretengürtel",48.1884995,16.3430097,"heavy_rail",1980
+31,"Schottentor",48.2149068944332,16.3626755294618,"heavy_rail",1980
+32,"Schottenring",48.2170236902431,16.3712472799972,"heavy_rail",1978
+33,"Troststraße",48.1684886305355,16.3805880353305,"heavy_rail",2017
+34,"Altes Landgut",48.161538861159,16.3834324974489,"heavy_rail",2017
+35,"Alaudagasse",48.1535732345067,16.3823585010634,"heavy_rail",2017
+36,"Neulaa",48.1456551622831,16.3861397803338,"heavy_rail",2017
+37,"Oberlaa",48.1423540660324,16.3997870770401,"heavy_rail",2017
+38,"Pilgramgasse",48.1920182589132,16.3542053619034,"heavy_rail",1980
+39,"Kettenbrückengasse",48.1966762671743,16.3582621110888,"heavy_rail",1980
+40,"Stadtpark",48.2027323033439,16.3793666124436,"heavy_rail",1978
+41,"Landstraße",48.2060939969533,16.3845979793788,"heavy_rail",1978
+42,"Stubentor",48.2068963,16.3791905,"heavy_rail",1991
+43,"Herrengasse",48.2092337,16.3651325,"heavy_rail",1991
+44,"Stephansplatz",48.208061453528,16.3714826381292,"heavy_rail",1978
+45,"Volkstheater",48.2048947512822,16.3583569293283,"heavy_rail",1980
+46,"Zieglergasse",48.1971293,16.3462989,"heavy_rail",1993
+47,"Westbahnhof",48.1958730509541,16.3396405634374,"heavy_rail",1993
+48,"Neubaugasse",48.1992114,16.3525325,"heavy_rail",1993
+49,"Kendlerstraße",48.204442,16.3089972,"heavy_rail",1998
+50,"Schweglerstraße",48.1974916812153,16.3287287389089,"heavy_rail",1994
+51,"Johnstraße",48.1975521,16.3205534,"heavy_rail",1994
+52,"Hütteldorfer Straße",48.1999786,16.3110683,"heavy_rail",1998
+53,"Ottakring",48.2109941,16.3113222,"heavy_rail",1998
+54,"Keplerplatz",48.1793544,16.3760488,"heavy_rail",1978
+55,"Reumannplatz",48.1749281,16.3778172,"heavy_rail",1978
+56,"Südtiroler Platz-Hauptbahnhof",48.1870832,16.3732695,"heavy_rail",1978
+57,"Taubstummengasse",48.1936787,16.370356,"heavy_rail",1978
+58,"Karlsplatz",48.2008344546013,16.3686265722926,"heavy_rail",1978
+59,"Schwedenplatz",48.2118254131798,16.3774103547669,"heavy_rail",1979
+60,"Nestroyplatz",48.2153413,16.3855206,"heavy_rail",1979
+61,"Vorgartenstraße",48.2236468,16.4010412,"heavy_rail",1982
+62,"Praterstern",48.2190551894343,16.3914656432913,"heavy_rail",1981
+63,"Donauinsel",48.2292444,16.4113511,"heavy_rail",1982
+64,"Kagran",48.243047,16.4328326,"heavy_rail",1982
+65,"Alte Donau",48.2382789,16.4247493,"heavy_rail",1982
+66,"Kaisermühlen - VIC",48.232844,16.4163974,"heavy_rail",1982
+67,"Friedensbrücke",48.2278202,16.3641194,"heavy_rail",1976
+68,"Spittelau",48.2355360468893,16.3582874226797,"heavy_rail",1995
+69,"Roßauer Lände",48.2223361,16.3675478,"heavy_rail",1978
+70,"Heiligenstadt",48.2483686,16.3657784,"heavy_rail",1976
+71,"Gumpendorfer Straße",48.1907334,16.3375677,"heavy_rail",1989
+72,"Josefstädter Straße",48.2114604,16.3391961,"heavy_rail",1989
+73,"Alser Straße",48.2167561,16.3418396,"heavy_rail",1989
+74,"Burggasse-Stadthalle",48.2029737,16.3372663,"heavy_rail",1989
+75,"Thaliastraße",48.2077916,16.3380301,"heavy_rail",1989
+76,"Michelbeuern-AKH",48.2211405,16.3442207,"heavy_rail",1989
+77,"Nußdorfer Straße",48.2313184,16.3524795,"heavy_rail",1989
+78,"Währinger Straße-Volksoper",48.2256193,16.3495448,"heavy_rail",1989
+79,"Taborstraße",48.2191117,16.3816554,"heavy_rail",2008
+80,"Krieau",48.2146488,16.4136826,"heavy_rail",2008
+81,"Stadion",48.210416,16.4203651,"heavy_rail",2008
+82,"Donaumarina",48.2064019,16.4314409,"heavy_rail",2010
+83,"Messe-Prater",48.2177181,16.4049289,"heavy_rail",2008
+84,"Museumsquartier",48.2025478744186,16.3614718881141,"heavy_rail",1980
+85,"Rathaus",48.211029605449,16.3556317518717,"heavy_rail",1980
+86,"Donauspital",48.2193666,16.4666304,"heavy_rail",2010
+87,"Aspernstraße",48.222548,16.475,"heavy_rail",2010
+88,"Stadlau",48.2197176,16.4496094,"heavy_rail",2010
+89,"Hardeggasse",48.2208353,16.457736,"heavy_rail",2010
+90,"Donaustadtbrücke",48.2117911,16.4401871,"heavy_rail",2010
+91,"Hausfeldstraße",48.2333659,16.4857726,"heavy_rail",2013
+92,"Aspern Nord",48.2344386,16.5045046,"heavy_rail",2013
+93,"Seestadt",48.2262819,16.5083313,"heavy_rail",2013
+94,"Floridsdorf",48.2562236,16.4002991,"heavy_rail",1996
+95,"Neue Donau",48.2463043,16.3946811,"heavy_rail",1996
+96,"Handelskai",48.2417279,16.3853856,"heavy_rail",1996
+97,"Dresdner Straße",48.2373503,16.3801747,"heavy_rail",1996
+98,"Jägerstraße",48.2353013,16.3685821,"heavy_rail",1996
+99,"Frankhplatz/Altes AKH",48.2149719389462,16.3562828472169,"heavy_rail",2027
+100,"Matzleinsdorfer Platz",48.1803340512904,16.3585394897025,"heavy_rail",2027
+101,"Reinprechtsdorfer Straße",48.1867379839061,16.3552356499251,"heavy_rail",2027
+102,"Rathaus",48.2106079441021,16.3555321332046,"heavy_rail",2027
+103,"Lerchenfelder Straße",48.2070102660132,16.3556980665718,"heavy_rail",1980

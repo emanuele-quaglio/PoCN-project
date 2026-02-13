@@ -1,0 +1,11 @@
+"nodeID_from","nodeID_to","mode","line","year"
+33,40,"heavy_rail","530-m4",2014
+1,4,"light_rail","529-m1",1896
+4,11,"light_rail","529-m1",1973
+2,21,"heavy_rail","1596-m3",1976
+21,24,"heavy_rail","1596-m3",1980
+2,16,"heavy_rail","1596-m3",1981
+16,26,"heavy_rail","1596-m3",1984
+26,29,"heavy_rail","1596-m3",1990
+2,30,"heavy_rail","528-2",1970
+2,39,"heavy_rail","528-2",1972

@@ -1,0 +1,6 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,11,"heavy_rail","5000-orange-line",2019
+1,13,"heavy_rail","5000-orange-line",2021
+13,18,"heavy_rail","5000-orange-line",2022
+1,28,"heavy_rail","5001-aqua-line",2020
+1,37,"heavy_rail","5001-aqua-line",2022

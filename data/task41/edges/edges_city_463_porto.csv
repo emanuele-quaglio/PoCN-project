@@ -1,0 +1,16 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,16,"light_rail","4454-linha-amarela",2011
+1,34,"light_rail","7244-linha-rubi---h",2027
+1,92,"light_rail","4454-linha-amarela",2024
+8,34,"light_rail","7245-linha-rosa---g",2026
+39,41,"light_rail","4456-linha-vermelha---b",2011
+39,60,"light_rail","4455-linha-azul---a",2011
+39,60,"light_rail","4459-linha-laranja---f",2011
+39,41,"light_rail","4457-linha-verde---c",2011
+39,41,"light_rail","4458-linha-violeta---e",2011
+64,66,"light_rail","4458-linha-violeta---e",2005
+64,83,"light_rail","4456-linha-vermelha---b",2011
+41,64,"light_rail","4456-linha-vermelha---b",2011
+41,64,"light_rail","4458-linha-violeta---e",2011
+17,27,"light_rail","4459-linha-laranja---f",2011
+40,51,"light_rail","4457-linha-verde---c",2011

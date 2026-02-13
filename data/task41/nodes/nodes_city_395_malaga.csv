@@ -1,0 +1,50 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"La Colina",36.6422042,-4.4923278,"commuter_rail",1975
+2,"Los Álamos",36.6447792,-4.4854917,"commuter_rail",1975
+3,"Plaza Mayor",36.6564381,-4.4803748,"commuter_rail",1975
+4,"Aeropuerto",36.6777273,-4.4901918,"commuter_rail",2010
+5,"Guadalhorce",36.6925687825347,-4.48304267071496,"commuter_rail",2010
+6,"Montemar Alto",36.613675,-4.5093271,"commuter_rail",1975
+7,"Torremolinos",36.6225303,-4.4995563,"commuter_rail",1975
+8,"El Pinillo",36.6098608,-4.5154498,"commuter_rail",1975
+9,"Benalmádena-Arroyo de la Miel",36.5990454,-4.5366187,"commuter_rail",1975
+10,"Torremuelle",36.5822914,-4.5670425,"commuter_rail",1975
+11,"Torreblanca",36.565014,-4.6065329,"commuter_rail",
+12,"Carvajal",36.5703732,-4.5938152,"commuter_rail",1975
+13,"Fuengirola",36.5417826,-4.6240324,"commuter_rail",1975
+14,"Los Boliches",36.5546391,-4.6146009,"commuter_rail",1975
+15,"Victoria Kent",36.700925,-4.4550723,"commuter_rail",2009
+16,"Los Prados",36.6984035,-4.4780388,"commuter_rail",1975
+17,"Campanillas",36.7051219,-4.5455411,"commuter_rail",1975
+18,"Cártama",36.733875,-4.6085747,"commuter_rail",1975
+19,"Aljaima",36.7328454,-4.6646969,"commuter_rail",1975
+20,"Pizarra",36.7642282,-4.7119741,"commuter_rail",1975
+21,"Álora",36.8197892,-4.6993946,"commuter_rail",1975
+22,"Málaga-María Zambrano",36.7108140286396,-4.43296006346007,"commuter_rail",1975
+23,"Málaga Centro-Alameda",36.715436,-4.4265781,"commuter_rail",1975
+24,"Ciudad de la Justicia",36.7180395,-4.4633269,"light_rail",2014
+25,"El Cónsul",36.7173414,-4.4840075,"light_rail",2014
+26,"La Unión",36.7106902,-4.4401039,"light_rail",2014
+27,"Andalucía Tech",36.7188267,-4.4944136,"light_rail",2014
+28,"Portada Alta",36.7193702,-4.4532671,"light_rail",2014
+29,"Clínico",36.716578,-4.4786253,"light_rail",2014
+30,"Paraninfo",36.7180137,-4.4887674,"light_rail",2014
+31,"Barbarela",36.7115832,-4.4460448,"light_rail",2014
+32,"Carranque",36.7186193,-4.4490899,"light_rail",2014
+33,"Universidad",36.7170474,-4.4722531,"light_rail",2014
+34,"El Perchel",36.7128087006259,-4.43172577970628,"light_rail",2014
+35,"La Isla",36.7079089331263,-4.43546176024225,"light_rail",2014
+36,"Princesa-Huelin",36.7041284855081,-4.44021140474433,"light_rail",2014
+37,"El Torcal",36.6996243956722,-4.44595437874696,"light_rail",2014
+38,"La Luz-La Paz",36.6953855283706,-4.45135237955603,"light_rail",2014
+39,"Puerta Blanca",36.6916565916974,-4.45609696342922,"light_rail",2014
+40,"Palacio de los Deportes",36.6843813292146,-4.45809354494435,"light_rail",2014
+41,"Aeropuerto",36.6756819749984,-4.48709775691859,"commuter_rail",1975
+42,"Terminal de Carga",36.6794325030662,-4.49325789058753,"commuter_rail",1975
+43,"Guadalhorce",36.6919540063677,-4.48375923210327,"commuter_rail",1975
+44,"Guadalmedina",36.7161472219132,-4.42965305944145,"light_rail",2022
+45,"Atarazanas",36.7174387917531,-4.42407565923807,"light_rail",2022
+46,"Estación",36.7110490020222,-4.43137386461748,"tram",1885
+47,"Alameda",36.7172161469636,-4.42332016506657,"tram",1885
+48,"Alameda",36.7176753148359,-4.42346419939474,,1885
+49,"Arroyo de la Caleta",36.7230743024057,-4.39763280178323,,1885

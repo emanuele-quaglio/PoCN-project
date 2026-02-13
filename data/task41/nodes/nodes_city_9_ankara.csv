@@ -1,0 +1,78 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Necatibey",39.9149863,32.8439574,"heavy_rail",2014
+2,"Millî Kütüphane",39.9154814,32.8270499,"heavy_rail",2014
+3,"15 Temmuz Kızılay Millî İrade",39.9207058346749,32.8540610081673,"heavy_rail|light_rail",1997
+4,"Ulus",39.9392511,32.8506742,"heavy_rail",1997
+5,"Sıhhiye",39.9282075,32.8550198,"heavy_rail",1997
+6,"Söğütözü",39.9109288,32.8079538,"heavy_rail|light_rail",2014
+7,"MTA",39.908997,32.7963122,"heavy_rail",2014
+8,"ODTÜ",39.9083472,32.7838992,"heavy_rail",2014
+9,"Bilkent",39.9075884,32.7658293,"heavy_rail",2014
+10,"Tarım Bakanlığı-Danıştay",39.9069582,32.750076,"heavy_rail",2014
+11,"Beytepe",39.9062316,32.7330691,"heavy_rail",2014
+12,"Ümitköy",39.9052799,32.7079522,"heavy_rail",2014
+13,"Çayyolu",39.8980712,32.6913293,"heavy_rail",2014
+14,"Koru",39.8867772,32.6864447,"heavy_rail",2014
+15,"Atatürk Kültür Merkezi",39.9443943,32.8440256,"heavy_rail",1997
+16,"İvedik",39.9572564,32.8170567,"heavy_rail",1997
+17,"Akköprü",39.9515305,32.8342793,"heavy_rail",1997
+18,"Yenimahalle",39.9619865,32.8046067,"heavy_rail",1997
+19,"Hastane",39.9692443,32.7834697,"heavy_rail",1997
+20,"Demetevler",39.9655201,32.7939834,"heavy_rail",1997
+21,"Macunköy",39.9719269,32.7666321,"heavy_rail",1997
+22,"Ostim",39.9702496,32.7449148,"heavy_rail",1997
+23,"Batıkent",39.9682379,32.7268146,"heavy_rail",1997
+24,"Batı Merkez",39.9677178,32.7153226,"heavy_rail",2014
+25,"Botanik",39.9807909,32.6942376,"heavy_rail",2014
+26,"Mesa",39.9717556,32.7031272,"heavy_rail",2014
+27,"Eryaman 1-2",39.9805192,32.6478729,"heavy_rail",2014
+28,"İstanbul Yolu",39.9796663,32.6627108,"heavy_rail",2014
+29,"Eryaman 5",39.9811413,32.6273726,"heavy_rail",2014
+30,"OSB-Törekent",39.9876957,32.5590358,"heavy_rail",2014
+31,"GOP",39.9855643,32.5744044,"heavy_rail",2014
+32,"Fatih",39.9840906,32.5853062,"heavy_rail",2014
+33,"Harikalar Diyarı",39.9822844,32.5983858,"heavy_rail",2014
+34,"Devlet Mahallesi/1910 Ankaragücü",39.9815599,32.6132207,"heavy_rail",2014
+35,"Bahçelievler",39.9311377,32.8199082,"light_rail",1996
+36,"Beşevler",39.9327417,32.8287952,"light_rail",1996
+37,"Anadolu/Anıtkabir",39.9347921,32.8372775,"light_rail",1996
+38,"Maltepe",39.9325788,32.8424407,"light_rail",1996
+39,"Demirtepe",39.9257342,32.8477353,"light_rail",1996
+40,"Kolej",39.9234018,32.8613609,"light_rail",1996
+41,"Kurtuluş",39.9283377,32.8684044,"light_rail",1996
+42,"Dikimevi",39.9330366,32.8785926,"light_rail",1996
+43,"AŞTİ",39.9182528,32.8141175,"light_rail",1996
+44,"Emek",39.9232087,32.8148769,"light_rail",1996
+45,"Belediye",39.9779333,32.8682339,"heavy_rail",2017
+46,"Mecidiye",39.9837539,32.8754154,"heavy_rail",2017
+47,"Kuyubaşı",39.9905926,32.8754499,"heavy_rail",2017
+48,"Dutluk",39.9997651,32.870071,"heavy_rail",2017
+49,"Şehitler",39.9962647,32.8609031,"heavy_rail",2017
+50,"Meteoroloji",39.9663884,32.8640452,"heavy_rail",2017
+51,"Dışkapı",39.9553272,32.8588458,"heavy_rail",2017
+52,"ASKİ",39.9477148,32.8504913,"heavy_rail",2017
+53,"Atatürk Kültür Merkezi",39.9427611,32.8443998,"heavy_rail",2017
+54,"Ankara YHT Gar",39.9353049945539,32.8438230302195,"commuter_rail|heavy_rail",2018
+55,"Yenişehir",39.9291274605633,32.8577728641488,"commuter_rail",2018
+56,"Kurtuluş",39.9288884933992,32.8677413631847,"commuter_rail",2018
+57,"Cebeci",39.9333841597334,32.8761900873853,"commuter_rail",2018
+58,"Demirlibahçe",39.9402241204947,32.8834184045059,"commuter_rail",2018
+59,"Saimekadın",39.9376966462168,32.894620906079,"commuter_rail",2018
+60,"Mamak",39.9314303790236,32.9115283165558,"commuter_rail",2018
+61,"Bağderesi",39.925995333042,32.9232699846108,"commuter_rail",2018
+62,"Üreğli",39.9224891137684,32.932199951355,"commuter_rail",2018
+63,"Köstence",39.9168758332293,32.950305217881,"commuter_rail",2018
+64,"Kayaş",39.9135623554583,32.9656729763104,"commuter_rail",2018
+65,"Hipodrom",39.9452683439341,32.8257546865873,"commuter_rail",2018
+66,"Gazi Mahallesi",39.9440883415804,32.8124539167784,"commuter_rail",2018
+67,"Gazi",39.9403300992009,32.7963598631167,"commuter_rail",2018
+68,"Marşandiz",39.9343221731267,32.778591413094,"commuter_rail",2018
+69,"Behiçbey",39.9315024074001,32.7501519249785,"commuter_rail",2018
+70,"Yıldırım",39.93215236102,32.7048992376834,"commuter_rail",2018
+71,"Hava Durağı",39.9422215225534,32.68823565579,"commuter_rail",2018
+72,"Etimesgut",39.9493462818506,32.6630628844157,"commuter_rail",2018
+73,"Özgüneş",39.9518672177036,32.6490978253897,"commuter_rail",2018
+74,"Eryaman YHT",39.9558078258677,32.6304941835405,"commuter_rail",2018
+75,"Elvankent",39.958608732044,32.6122803652965,"commuter_rail",2018
+76,"Lale",39.9615540293608,32.5989408432693,"commuter_rail",2018
+77,"Sincan",39.964648620571,32.5840766525777,"commuter_rail",2018

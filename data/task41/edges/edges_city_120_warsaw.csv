@@ -1,0 +1,14 @@
+"nodeID_from","nodeID_to","mode","line","year"
+8,9,"heavy_rail","2065-m1",1995
+2,9,"heavy_rail","2065-m1",1998
+2,11,"heavy_rail","2065-m1",2001
+11,16,"heavy_rail","2065-m1",2003
+1,16,"heavy_rail","2065-m1",2005
+1,17,"heavy_rail","2065-m1",2006
+17,19,"heavy_rail","2065-m1",2008
+22,24,"heavy_rail","2066-m2",2015
+24,30,"heavy_rail","2066-m2",2019
+22,33,"heavy_rail","2066-m2",2020
+33,34,"heavy_rail","2066-m2",2022
+30,38,"heavy_rail","2066-m2",2022
+27,44,"heavy_rail","4460-linia-m3",2028

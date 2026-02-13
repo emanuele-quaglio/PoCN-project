@@ -1,0 +1,238 @@
+"nodeID","nodeLabel","latitude","longitude","mode","year"
+1,"Jean Zay",44.8541386242925,-0.513171428195847,"default",2007
+2,"La Marègue",44.8507616856812,-0.508902151566161,"default",2007
+3,"Floirac Dravemont",44.8460131676626,-0.51040003113323,"default",2007
+4,"Pierre Mendès-France",44.8301527,-0.6398204,"default",2007
+5,"Fontaine d'Arlac",44.8266811,-0.6256553,"default",2007
+6,"Alfred de Vigny",44.8302566,-0.6339006,"default",2007
+7,"Alfred de Vigny",44.8302313,-0.6338879,"default",2007
+8,"Pierre Mendès-France",44.8301525,-0.6398495,"default",2007
+9,"Quatre Chemins",44.8326228,-0.6448659,"default",2007
+10,"Quatre Chemins",44.8325905,-0.6448535,"default",2007
+11,"Lycées de Mérignac",44.8349683,-0.6474347,"default",2007
+12,"Lycées de Mérignac",44.8349755,-0.6474691,"default",2007
+13,"Peychotte",44.8266077,-0.6199531,"default",2007
+14,"Fontaine d'Arlac",44.8266497,-0.6256639,"default",2007
+15,"Peychotte",44.826577,-0.6199446,"default",2007
+16,"François Mitterrand",44.8271195,-0.6143385,"default",2007
+17,"François Mitterrand",44.8270935,-0.6143124,"default",2007
+18,"Saint-Augustin",44.8287689,-0.6103065,"default",2005
+19,"Saint-Augustin",44.8287963,-0.6103222,"default",2005
+20,"Bois Fleuri",44.8760331,-0.5193103,"default",2003
+21,"Lauriers",44.8791226,-0.5178962,"default",2003
+22,"Mairie de Lormont",44.8798421,-0.5236096,"default",2008
+23,"Carriet",44.8822095,-0.523887,"default",2008
+24,"Bois Fleuri",44.8760314,-0.5192746,"default",2003
+25,"Lauriers",44.8791188,-0.5178553,"default",2003
+26,"Mairie de Lormont",44.879869,-0.5236085,"default",2008
+27,"Carriet",44.8821897,-0.5238527,"default",2008
+28,"Gravières",44.8727959,-0.5202014,"default",2003
+29,"Gravières",44.8727922,-0.5201609,"default",2003
+30,"Iris",44.8685419,-0.5226499,"default",2003
+31,"Iris",44.8685611,-0.5226848,"default",2003
+32,"Buttinière",44.8640738,-0.5249038,"default",2003
+33,"Buttinière",44.8641008,-0.5248962,"default",2003
+34,"Palmer",44.8622324,-0.5197432,"default",2003
+35,"Palmer",44.8622231,-0.5197023,"default",2003
+36,"Pelletan",44.8587067,-0.5197499,"default",2003
+37,"Pelletan",44.8587314,-0.5197155,"default",2003
+38,"La Morlette",44.8549925,-0.5181705,"default",2003
+39,"La Morlette",44.8550177,-0.5181563,"default",2003
+40,"Cenon Gare",44.8559915,-0.5342791,"default",2003
+41,"Cenon Gare",44.8559334,-0.5342116,"default",2003
+42,"Carnot Mairie de Cenon",44.8577425,-0.5315429,"default",2003
+43,"Carnot Mairie de Cenon",44.8577622,-0.5315685,"default",2003
+44,"Jean Jaurès",44.8537645,-0.5377508,"default",2003
+45,"Jean Jaurès",44.8538101,-0.5378095,"default",2003
+46,"Galin",44.8497795,-0.544342,"default",2003
+47,"Galin",44.8497613,-0.5443172,"default",2003
+48,"Thiers-Benauge",44.8458191,-0.5508132,"default",2003
+49,"Thiers-Benauge",44.8457987,-0.5507915,"default",2003
+50,"Jardin Botanique",44.843006,-0.555399,"default",2003
+51,"Jardin Botanique",44.8429876,-0.5553692,"default",2003
+52,"Stalingrad",44.8403077,-0.5598003,"default",2003
+53,"Stalingrad",44.8402895,-0.5597688,"default",2003
+54,"Saint-Michel",44.8344887,-0.5633482,"default",2004
+55,"Porte de Bourgogne",44.8371539,-0.5663931,"default",2004
+56,"Porte de Bourgogne",44.8371713,-0.5663606,"default",2004
+57,"Porte de Bourgogne",44.8372087,-0.5662906,"default",2003
+58,"Porte de Bourgogne",44.8372261,-0.566258,"default",2003
+59,"Saint-Michel",44.8344676,-0.5633808,"default",2004
+60,"Quinconces",44.8440058,-0.5737556,"default",2004
+61,"Quinconces",44.8440336,-0.5737602,"default",2004
+62,"Place de la Bourse",44.8415653,-0.5696866,"default",2004
+63,"Place de la Bourse",44.8415735,-0.5696467,"default",2004
+64,"Place du Palais",44.8379043,-0.569272,"default",2003
+65,"Place du Palais",44.8379326,-0.5692763,"default",2003
+66,"Sainte-Catherine",44.8376139,-0.5732788,"default",2003
+67,"Sainte-Catherine",44.837643,-0.5732836,"default",2003
+68,"Hôtel de Ville",44.8373101,-0.5771402,"default",2003
+69,"Hôtel de Ville",44.8373386,-0.5771451,"default",2003
+70,"Palais de Justice",44.8362776,-0.5815728,"default",2003
+71,"Quinconces",44.8444728,-0.5738221,"default",2004
+72,"Quinconces",44.8445011,-0.5738271,"default",2004
+73,"Palais de Justice",44.8362507,-0.5815561,"default",2003
+74,"Hôtel de Ville",44.8377071,-0.5764084,"default",2004
+75,"Hôtel de Ville",44.8377148,-0.5763691,"default",2004
+76,"Gambetta",44.8400831,-0.5782763,"default",2004
+77,"Gambetta",44.8411072,-0.5784661,"default",2004
+78,"Grand Théâtre",44.8420334,-0.5752769,"default",2004
+79,"Grand Théâtre",44.8420716,-0.5752793,"default",2004
+80,"Musée d'Aquitaine",44.8355045,-0.5753438,"default",2004
+81,"Musée d'Aquitaine",44.8355133,-0.575308,"default",2004
+82,"Victoire",44.8311933,-0.5730752,"default",2004
+83,"Victoire",44.8312036,-0.5730355,"default",2004
+84,"Mériadeck",44.8381735,-0.5842961,"default",2003
+85,"Saint-Bruno - Hôtel de Région",44.8374151,-0.5892669,"default",2005
+86,"Saint-Bruno - Hôtel de Région",44.8374673,-0.5892994,"default",2005
+87,"Mériadeck",44.8381142,-0.5842867,"default",2003
+88,"Hôtel de Police",44.8349157,-0.5888474,"default",2005
+89,"Hôtel de Police",44.8349217,-0.588805,"default",2005
+90,"Gaviniès",44.8330956,-0.5931881,"default",2005
+91,"Gaviniès",44.833068,-0.5931708,"default",2005
+92,"Stade Chaban Delmas",44.8312288,-0.5991475,"default",2005
+93,"Stade Chaban Delmas",44.8316235,-0.5978473,"default",2005
+94,"Hôpital Pellegrin",44.8301879,-0.6046153,"default",2005
+95,"Hôpital Pellegrin",44.8301583,-0.6046127,"default",2005
+96,"Mérignac Centre",44.8413886,-0.6469012,"default",2015
+97,"Mérignac Centre",44.8413744,-0.6468095,"default",2015
+98,"Hôtel de ville Mérignac",44.8441926,-0.6581965,"default",2015
+99,"Pin Galant",44.8441857,-0.6512813,"default",2015
+100,"Hôtel de ville Mérignac",44.8441637,-0.6582052,"default",2015
+101,"Pin Galant",44.8442059,-0.6512526,"default",2015
+102,"Frères Robinson",44.8500418,-0.6558925,"default",2015
+103,"Frères Robinson",44.8500521,-0.6559292,"default",2015
+104,"Les Pins",44.8569733,-0.6598216,"default",2015
+105,"Les Pins",44.856965,-0.6598608,"default",2015
+106,"Le Haillan Rostand",44.8585211,-0.6682748,"default",2015
+107,"Saint-Nicolas",44.828981,-0.5739766,"default",2004
+108,"Saint-Nicolas",44.8289989,-0.5740207,"default",2004
+109,"Bergonié",44.8250637,-0.578183,"default",2004
+110,"Bergonié",44.8250798,-0.5782249,"default",2004
+111,"Barrière Saint-Genès",44.8207867,-0.5831198,"default",2004
+112,"Barrière Saint-Genès",44.8215638,-0.5825735,"default",2004
+113,"Roustaing",44.8169375,-0.585641,"default",2004
+114,"Forum",44.8119471,-0.5909362,"default",2004
+115,"Forum",44.8119478,-0.5909737,"default",2004
+116,"Roustaing",44.8169483,-0.5856839,"default",2004
+117,"Peixotto",44.8072449,-0.592595,"default",2004
+118,"Peixotto",44.8072696,-0.5926241,"default",2004
+119,"Arts et Métiers",44.8059832,-0.6023138,"default",2004
+120,"Béthanie",44.8059866,-0.5979903,"default",2004
+121,"Arts et Métiers",44.8060071,-0.6023417,"default",2004
+122,"Béthanie",44.8060167,-0.5979895,"default",2004
+123,"François Bordes",44.8035485,-0.6066912,"default",2004
+124,"François Bordes",44.8035609,-0.606724,"default",2004
+125,"Doyen Brus",44.8002631,-0.6096297,"default",2004
+126,"Montaigne Montesquieu",44.7967973,-0.6173597,"default",2004
+127,"Doyen Brus",44.8002817,-0.6096654,"default",2004
+128,"Montaigne Montesquieu",44.7968261,-0.617379,"default",2004
+129,"Unitec",44.796318,-0.6214544,"default",2004
+130,"Saige",44.793979,-0.6285211,"default",2004
+131,"Unitec",44.7963401,-0.6214803,"default",2004
+132,"Saige",44.7940084,-0.6285025,"default",2004
+133,"Bougnard",44.7940731,-0.634042,"default",2004
+134,"Bougnard",44.7941015,-0.6340418,"default",2004
+135,"Camponac Médiathèque",44.8003352,-0.6347906,"default",2007
+136,"Camponac Médiathèque",44.800363,-0.6347593,"default",2007
+137,"Pessac Centre",44.8041843,-0.6327498,"default",2007
+138,"Pessac Centre",44.8042139,-0.632759,"default",2007
+139,"Châtaigneraie",44.7930619,-0.6465917,"default",2015
+140,"Châtaigneraie",44.7930354,-0.6465738,"default",2015
+141,"Cap Métiers",44.7892783,-0.6515586,"default",2015
+142,"Cap Métiers",44.7893078,-0.6516029,"default",2015
+143,"Hôpital Haut-Lévêque",44.7876176,-0.6552449,"default",2015
+144,"Hôpital Haut-Lévêque",44.7876393,-0.6552051,"default",2015
+145,"Gare Pessac Alouette",44.7931249,-0.6577692,"default",2015
+146,"Gare Pessac Alouette",44.7931297,-0.6577179,"default",2015
+147,"France Alouette",44.7986421,-0.663075,"default",2015
+148,"France Alouette",44.7986436,-0.663022,"default",2015
+149,"CAPC",44.8490618,-0.5704987,"default",2007
+150,"Place Paul Doumer",44.8519828,-0.5741287,"default",2007
+151,"Place Paul Doumer",44.8519888,-0.5740853,"default",2007
+152,"Jardin Public",44.8482619,-0.5753679,"default",2007
+153,"Jardin Public",44.8482663,-0.5753237,"default",2007
+154,"CAPC",44.849053,-0.5704606,"default",2007
+155,"Les Hangars",44.8579717,-0.5588362,"default",2007
+156,"Chartrons",44.852807,-0.5675849,"default",2007
+157,"Chartrons",44.8528256,-0.5676181,"default",2007
+158,"Cours du Médoc",44.8558874,-0.5631824,"default",2007
+159,"Cours du Médoc",44.8559104,-0.5632091,"default",2007
+160,"Les Hangars",44.8579454,-0.558814,"default",2007
+161,"La Cité du Vin",44.8607165,-0.5531985,"default",2016
+162,"La Cité du Vin",44.8607398,-0.5532237,"default",2016
+163,"Bassins à Flot",44.8607400002869,-0.553223658086182,"default",2007
+164,"Bassins à Flot",44.86071669202,-0.553198437118311,"default",2007
+165,"Achard",44.8666245,-0.5487103,"default",2008
+166,"Achard",44.8666161,-0.5486674,"default",2008
+167,"New-York",44.8709435,-0.5473199,"default",2008
+168,"New-York",44.8711657,-0.5472875,"default",2008
+169,"Brandenburg",44.8744713,-0.5456454,"default",2008
+170,"Brandenburg",44.8744826,-0.5456823,"default",2008
+171,"Claveau",44.8778694,-0.5437916,"default",2008
+172,"Claveau",44.877882,-0.5438323,"default",2008
+173,"Berges de la Garonne",44.8855448,-0.5415262,"default",2014
+174,"Gare Saint-Jean",44.8258949,-0.5567969,"default",2004
+175,"Sainte-Croix",44.8318331,-0.5594192,"default",2004
+176,"Sainte-Croix",44.831855,-0.5593919,"default",2004
+177,"Tauzia",44.8290437,-0.5585271,"default",2004
+178,"Tauzia",44.829068,-0.5584984,"default",2004
+179,"Gare Saint-Jean",44.8259025,-0.5568355,"default",2004
+180,"Terres Neuves",44.8153145,-0.5508445,"default",2008
+181,"Carle Vernet",44.8198566,-0.5503924,"default",2008
+182,"Belcier",44.8225557,-0.5521098,"default",2008
+183,"Belcier",44.8225256,-0.5521222,"default",2008
+184,"Carle Vernet",44.8198771,-0.5504242,"default",2008
+185,"Terres Neuves",44.8152981,-0.5508789,"default",2008
+186,"La Belle Rose",44.8111706,-0.5512242,"default",2015
+187,"La Belle Rose",44.8111787,-0.5512597,"default",2015
+188,"Calais Centujean",44.8030967,-0.5519473,"default",2015
+189,"Gare de Bègles",44.7982186,-0.5518669,"default",2015
+190,"Stade Musard",44.8079501,-0.5515153,"default",2015
+191,"Lycée Václav Havel",44.786707,-0.5662012,"default",2015
+192,"Parc de Mussonville",44.7939836,-0.5595985,"default",2015
+193,"Place Ravezies - Le Bouscat",44.8671353,-0.5758425,"default",2008
+194,"Place Ravezies - Le Bouscat",44.867137,-0.5758043,"default",2008
+195,"Grand Parc",44.8623141,-0.5753367,"default",2007
+196,"Grand Parc",44.8623163,-0.5752941,"default",2007
+197,"Émile Counord",44.8586914,-0.5749409,"default",2007
+198,"Émile Counord",44.8586941,-0.5748799,"default",2007
+199,"Camille Godard",44.8547053,-0.5745065,"default",2007
+200,"Camille Godard",44.8547066,-0.5744644,"default",2007
+201,"Cracovie",44.8709499,-0.5762615,"default",2008
+202,"Cracovie",44.8709538,-0.5762218,"default",2008
+203,"Berges du Lac",44.8790308,-0.5707626,"default",2014
+204,"Berges du Lac",44.8790345,-0.5708035,"default",2014
+205,"Quarante Journaux",44.8830813,-0.5703946,"default",2015
+206,"Quarante Journaux",44.8831108,-0.5703877,"default",2015
+207,"Palais des Congrès",44.8893049,-0.5671811,"default",2015
+208,"Palais des Congrès",44.8892824,-0.5671521,"default",2015
+209,"Parc des Expositions",44.8933126,-0.5658156,"default",2015
+210,"Parc des Expositions",44.8933155,-0.5657839,"default",2015
+211,"Ausone",44.8790635126352,-0.602641507330247,"default",2016
+212,"La Vache",44.8720807031899,-0.590463977942761,"default",2016
+213,"Gare de Bruges",44.8875609773225,-0.609754646507895,"default",2016
+214,"Frankton",44.9071409910861,-0.618988436603814,"default",2016
+215,"Gare de Blanquefort",44.9167567822419,-0.623455138612201,"default",2016
+216,"Lormont Bas",44.8781221508232,-0.5345866066491,"default",2013
+217,"La Cité du Vin",44.8616502449888,-0.549016477303667,"default",2016
+218,"Stalingrad",44.8416796730505,-0.56352097425841,"default",2013
+219,"Quinconces",44.8432014983111,-0.569198946187271,"default",2013
+220,"Les Hangars",44.8553023297152,-0.562784019720567,"default",2013
+221,"Bassins à Flot",44.8616489724961,-0.549016895994299,"default",2013
+222,"Cantinolle",44.8921832765117,-0.6677577350749,"default",2019
+223,"Les Sources",44.8880550463613,-0.66023735288141,"default",2019
+224,"Eysines Centre",44.8837927958565,-0.649799896160999,"default",2019
+225,"Picot",44.8813302177877,-0.640966070193997,"default",2019
+226,"Toulouse Lautrec",44.8795335321563,-0.63653220785406,"default",2019
+227,"Hippodrome",44.874010630103,-0.62818357561801,"default",2019
+228,"Bois du Bouscat",44.8766277108124,-0.621891283145743,"default",2019
+229,"Sainte-Germaine",44.8719332663528,-0.614963579732205,"default",2019
+230,"Les Écus",44.8692146427712,-0.609445233207595,"default",2019
+231,"Mairie du Bouscat",44.8653678339017,-0.605015878976246,"default",2019
+232,"Calypso",44.8605512292049,-0.599766360786276,"default",2019
+233,"Courbet",44.8565583366736,-0.59690928997378,"default",2019
+234,"Barrière du Médoc",44.8536543356102,-0.593250916216618,"default",2019
+235,"Marie Brizard",44.8500275864254,-0.585766616040189,"default",2019
+236,"Charles Gruet",44.8467685536666,-0.580194500923966,"default",2019
+237,"Quinconces",44.8440195619105,-0.573758655305596,"default",2019

@@ -1,0 +1,10 @@
+"nodeID_from","nodeID_to","mode","line","year"
+3,22,"tram","3451-red",2009
+4,16,"tram","3452-green",2004
+1,2,"commuter_rail","3453-dart",2000
+3,22,"commuter_rail","3453-dart",1984
+3,22,"default","3455-south-western-commuter",2016
+2,3,"commuter_rail","3453-dart",1984
+3,22,"default","3456-south-eastern-commuter",2021
+2,3,"default","3456-south-eastern-commuter",2021
+1,2,"default","3456-south-eastern-commuter",2021
